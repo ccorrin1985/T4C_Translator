@@ -32,7 +32,7 @@ A windows application that monitors and automatically translates the log file fr
 ## Release Notes
 
  #### Release v2.0
- Major release, full offline translation support using optional libre translate docker image, program can auto install the image if not found and auto start it, complete refactoring of the codebase for performance, API limit feature to stay within free API tier, ability to hide non-translated text, clicking translated keywords now copied in original language, better color formatting or keywords and words of interest, fixed bugs with different date/time formats in windows, better log output, better support for resolutions and re-sizeable UI enhancements.
+ Major release, full offline translation support using optional libre translate docker image, program can auto install the image if not found and auto start it, complete refactoring of the codebase for performance, API limit feature to stay within free API tier, ability to hide non-translated text, clicking translated keywords now copies in original language, better color formatting for keywords and words of interest, fixed bugs with different date/time formats in windows, better log output, better support for resolutions and re-sizeable UI enhancements.
  #### Release v1.6
  Major release, keywords are now in bold white and clickable, which allows for copy/paste into the game client. The new feature allows for quick translation and copying to the clipboard frequently used words. The new feature allows for adding chat channels to an ignore list, and saving on translation calls by toggling the ignore feature. Keywords now show in white; words of interest now show in gray. Enhanced UI experience.
  #### Release v1.5
