@@ -1,0 +1,827 @@
+09/03/2024 22:37:37-- Bienvenue sur T4C Neerya !
+09/03/2024 22:37:41-- You are too far !
+09/03/2024 22:37:44-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 22:37:47-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/03/2024 22:40:12-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 22:42:39-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 22:43:41-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:06:26-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:06:36-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+09/03/2024 23:06:49-- [Invasions] Votre inscription à une faction a déjà été effectuée. N'oubliez pas de vous rendre à votre repaire prendre vos quêtes journalières et dépenser vos bons de ravitaillement. Pensez également à activer votre pierre de lien.
+09/03/2024 23:06:56-- {Varriw}":" Ah, Bacarat ! Comme on se retrouve. Comment allez-vous, mon ami ? Êtes-vous allé au temple de Windhowl ou voulez-vous que je vous indique la direction à prendre ?
+09/03/2024 23:07:16-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:07:17-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/03/2024 23:09:40-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:09:48-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/03/2024 23:10:37-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:15:04-- ["Main"] "Snoop": hello, où se trouve la crypte RD sil vous plait ? 
+09/03/2024 23:15:44-- ["Main"] "Elmefleche": près du pont qui mène à Waterfall
+09/03/2024 23:16:19-- ["Main"] "Snoop": heuu meme waterfall je ne sais pas ce que sait :D
+09/03/2024 23:16:21-- ["Main"] "Myrjala": Les macros marchent plus ou c'est moi ?
+09/03/2024 23:16:47-- ["Main"] "Tifany Taulern": ca marche moi
+09/03/2024 23:17:03-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:17:14-- ["Main"] "Tifany Taulern": gros lag a mon avis
+09/03/2024 23:17:20-- ["Main"] "Myrjala": je pouvais plus ctrl+i
+09/03/2024 23:17:24-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/03/2024 23:17:41-- ["Main"] "Tifany Taulern": embetant
+09/03/2024 23:17:59-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+09/03/2024 23:19:09-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:19:57-- {Tifany Taulern}":" acheter
+09/03/2024 23:21:30-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:22:21-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:22:52-- {Khronegon}":" acheter
+09/03/2024 23:23:01-- L'accès à l'{aile Nord d'Anwynn} est ouvert pendant une heure.
+09/03/2024 23:23:03-- {Khronegon}":" lumiere
+09/03/2024 23:23:07-- {Khronegon}":" voler
+09/03/2024 23:23:15-- {Khronegon}":" coup d'oeil
+09/03/2024 23:23:26-- {Khronegon}":" au revoir
+09/03/2024 23:23:37-- {Dalbert}":" Bonjour, Astradia. Alors comme ça vous venez d'arriver en ville ? Oh... vous avez rencontré mon ami "Varriw" de Spellshore, le port de l'île de Grim Hawk.
+09/03/2024 23:23:39-- {Dalbert}":" Vraiment, une lettre pour moi ? Laissez-moi voir... {*lit la lettre*} Ah, je comprends mieux le motif de sa venue. Apparemment, il souhaite entrer au service de la "Baronnie".
+09/03/2024 23:23:44-- {Dalbert}":" Oui, Lighthaven est dirigée par un Baron ou une Baronne, au nom du royaume de Goldmoon dont nous sommes les vassaux... enfin, en théorie. Si vous voulez aider mon ami à se faire une place ici, je vous conseille d'aller voir "Ryla".
+09/03/2024 23:23:46-- {Khronegon}":" acheter
+09/03/2024 23:23:53-- {Dalbert}":" {Ryla} est la servante de compagnie. Allez-lui parler en mon nom, je suis ami avec elle depuis longtemps et je suis certain qu'elle saura aider Varriw à se faire une place dans notre village. Ah, j'oubliais : ne faites pas attention à son air guindé. Sortez de la taverne, suivez le chemin vers le sud jusqu'à la place du village. Ryla est dans la plus grand maison au {sud}.
+09/03/2024 23:23:59-- {Khronegon}":" au revoi
+09/03/2024 23:24:08-- {Dalbert}":" Au plaisir.
+09/03/2024 23:24:33-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:24:52-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/03/2024 23:25:05-- [Défi de Valerius] "L'instance d'Arakas en mode Héroïque la plus rapide" : <>Classement actuel : groupe de Spino Raptor (9:34), de Anoukie (9:34), de Phillipe (9:34). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+09/03/2024 23:25:58-- {Khronegon}":" acheter
+09/03/2024 23:26:19-- {Khronegon}":" au revoir
+09/03/2024 23:27:46-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:29:09-- {Khronegon}":" acheter
+09/03/2024 23:29:17-- {Khronegon}":" au revoir
+09/03/2024 23:30:01-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:30:07-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/03/2024 23:32:09-- You are too far !
+09/03/2024 23:32:11-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:32:13-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/03/2024 23:32:14-- {Valerius}":" Voilà le classement actuel : <>Spino Raptor (9:34) <>Anoukie (9:34) <>Phillipe (9:34) <>Peter Pan (9:34) <>Morgus (9:34) <>Asheron (9:34) <>Tashi (9:34) <>Cotelette (9:41) <>Abalister (9:41) <>Herménégide Hw (10:04)
+09/03/2024 23:32:39-- You said: merci
+09/03/2024 23:32:39-- {Valerius}":" On n'est pas tous doté d'aussi grandes qualités que moi...
+09/03/2024 23:33:15-- {Tarya}":" acheter
+09/03/2024 23:33:26-- You need to select a channel to talk into first.
+09/03/2024 23:45:11-- [Monstre élite du Draconis Sanctum] Le loup géant Freki sort de sa tanière et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+09/03/2024 23:45:18-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/03/2024 23:45:20-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/03/2024 23:46:10-- ["Main"] "Snoop": .xpreset
+09/03/2024 23:46:15-- ["Main"] "Snoop": oops
+09/03/2024 23:55:55-- {Astradia}":" vendre
+09/04/2024 00:00:36-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 00:00:43-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/04/2024 00:09:28-- {Halam}":" Bien le bonjour !
+09/04/2024 00:13:01-- {Astradia}":" vendre
+09/04/2024 00:13:07-- {Astradia}":" vendre
+09/04/2024 00:15:37-- ["Main"] "Tchantches San": re :p
+09/04/2024 00:18:23-- ["Main"] "Moritheus": y a  t il un moyen de voir ou on a mis ses points seraph svp ? je ne me souviens plus ce que j'ai mis 
+09/04/2024 00:19:05-- ["Main"] "Heisenberg Chou": enleve ton stuff et regarde tes puissances / resists, c est le plus simple je pense
+09/04/2024 00:19:16-- ["Main"] "Moritheus": ah oui impec merci
+09/04/2024 00:20:32-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 00:20:40-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/04/2024 00:21:13-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 00:22:16-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 00:23:27-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 00:24:37-- {Ambroisie}":" entrainer
+09/04/2024 00:24:57-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 00:25:11-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 00:25:12-- Le saviez-vous ? <> On peut faire marcher automatiquement son personnage en faisant {Inser} puis une {flèche directionnelle} du pavé numérique (avec Ver.Num désactivé). Pour s'arrêter, il faut presser la touche {5}. Pour désactiver la marche automatique, if faut presser de nouveau la touche {Inser}
+09/04/2024 00:25:26-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 00:33:54-- {Niluje}":" acheter
+09/04/2024 00:34:13-- {Niluje}":" accéder
+09/04/2024 00:37:32-- ["Main"] "Schiryu Griffon": Bonjour :)
+09/04/2024 00:37:49-- ["Main"] "Elva": Lut !
+09/04/2024 00:57:53-- Gishnak, {Gladiateur Orque}, baigne maintenant dans son sang après avoir péri au combat.
+09/04/2024 01:05:06-- {Murmuntag}":" *grogne* *reniflement*
+09/04/2024 01:05:10-- {Murmuntag}":" "Murmuntag" garde ville. "Elmert" dit tue, Murmuntag tue ! *reniflement*
+09/04/2024 01:05:15-- {Murmuntag}":" Elmert maître de la garde. *grogne* Elmert payer Murmuntag pour protéger ville. *reniflement*
+09/04/2024 01:05:21-- {Murmuntag}":" Moi Murmuntag ! Moi orc bon ! Moi ami des humains comme "Elmert" *grognement* Moi fort ! Moi écraser ennemis ! "Urgh !"
+09/04/2024 01:05:26-- {Murmuntag}":" Ça, cri de guerre. Uuuuurrrrrggghhh... effraye "monstres" trrrrrès fort. Seuls grands "guerriers" avoir cri de guerre.
+09/04/2024 01:05:31-- {Murmuntag}":" Près ville. Plusieurs venus de caverne. Mais moi toujours effrayer eux.
+09/04/2024 01:05:38-- {Murmuntag}":" Près ville. Plusieurs venus de caverne. Mais moi toujours effrayer eux.
+09/04/2024 01:05:41-- {Murmuntag}":" Toi grand guerrier? Pas grand comme Murmuntag ! Peux t'aider devenir grand. Murmuntag "entraîner" toi durement !
+09/04/2024 01:05:46-- {Murmuntag}":" Urgh !
+09/04/2024 01:06:03-- {Murmuntag}":" *grogne* *reniflement*
+09/04/2024 01:06:05-- {Khronegon}":" au revoir
+09/04/2024 01:06:05-- {Murmuntag}":" Moi aller détruire gobelins maintenant. *grogne*
+09/04/2024 01:08:39-- ["Main"] "Nalésia De Scyla": un antépal co svp ?
+09/04/2024 01:19:00-- {Khronegon}":" acheter
+09/04/2024 01:19:22-- {Khronegon}":" acheter
+09/04/2024 01:19:31-- {Khronegon}":" au revoir
+09/04/2024 01:30:39-- ["Main"] "Myaetchan San": tiens j'ai la lettre d'amour en plus
+09/04/2024 01:30:54-- ["Main"] "Tchantches San": *tunnel* :)
+09/04/2024 01:31:09-- ["Main"] "Nalésia De Scyla": Glouglouglou
+09/04/2024 01:55:24-- {Khronegon}":" acheter
+09/04/2024 01:55:31-- {Khronegon}":" acheter
+09/04/2024 01:55:41-- {Khronegon}":" au revoir
+09/04/2024 01:58:59-- {Halam}":" Bien le bonjour !
+09/04/2024 02:00:47-- ["Main"] "Exna": je peu avoir un tp z2 svp rst arkas
+09/04/2024 02:01:19-- ["Main"] "Nalésia De Scyla": au cas ou t'as pas je peux nexus
+09/04/2024 02:01:35-- ["Main"] "Exna": ok jarive
+09/04/2024 02:02:17-- ["Main"] "Exna": merci bc
+09/04/2024 02:02:21-- ["Main"] "Nalésia De Scyla": derien
+09/04/2024 02:05:12-- {Khronegon}":" a revoir
+09/04/2024 02:05:17-- {Khronegon}":" acheter
+09/04/2024 02:06:55-- ["Main"] "Myaetchan San": Boss 180 à 15h 2 dispos, des up?
+09/04/2024 02:08:47-- ["Main"] "Leykarr": un pretre neutre pour me faire passer loracle et ainsi que je lance ma quete GH svp ?
+09/04/2024 02:15:59-- ["Main"] "Theranos": Est-ce que Yazid l'anachorete sur Blackgold sert a quelque chose?
+09/04/2024 02:16:18-- ["Main"] "Theranos": Il a le mot clef apprendre mais quand je le dis il me dit qu'il ne peut pas me faire confiance ou quelque chose du genre
+09/04/2024 02:17:54-- ["Main"] "Grimsby": moi non plus jte ferais pas confiance... :)
+09/04/2024 02:19:24-- ["Main"] "Lamoueste": salut a tous
+09/04/2024 02:19:40-- ["Main"] "Grimsby": salut la mouette
+09/04/2024 02:23:43-- ["Main"] "Johnny Rock":  hello
+09/04/2024 02:23:51-- ["Main"] "Ed Pettrovitch": Yawp
+09/04/2024 02:24:03-- ["Main"] "Grimsby": HI John
+09/04/2024 02:24:27-- ["Main"] "Johnny Rock":  clafouti au mirabelle dans le four ! miam !
+09/04/2024 02:25:05-- [Défi de Valerius] "L'instance d'Arakas en mode Héroïque la plus rapide" : <>Classement actuel : groupe de Spino Raptor (9:34), de Anoukie (9:34), de Phillipe (9:34). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+09/04/2024 02:25:16-- Le saviez-vous ? <> Il se peut que vous tombiez nez à nez avec d'étranges statues : les {sanctuaires de bénédiction elfiques}. Ils offriront à votre personnage quelques bonus limités dans le temps.
+09/04/2024 02:26:09-- {Molosba Darek}":" qaaccéder
+09/04/2024 02:26:12-- {Molosba Darek}":" accéder
+09/04/2024 02:26:27-- ["Main"] "Soryu Langley": est ce que qql peux me faire une bene a la rst de rd svp ?
+09/04/2024 02:26:37-- ["Main"] "Johnny Rock":  2 min oui
+09/04/2024 02:26:41-- ["Main"] "Soryu Langley": merci
+09/04/2024 02:27:01-- {Molosba Darek}":" accéder
+09/04/2024 02:27:40-- {Molosba Darek}":" accéder
+09/04/2024 02:27:56-- ["Main"] "Johnny Rock":  de rien
+09/04/2024 02:30:23-- ["Main"] "Red Bull": bonjour du monde pour du sh nm / ar ou rd hm?
+09/04/2024 02:32:29-- {Peter Pan}":" acheter
+09/04/2024 02:39:22-- {Ambroisie}":" [ bonjou ]
+09/04/2024 02:39:25-- {Ambroisie}":" [ r ]
+09/04/2024 02:40:56-- {Soryu Langley}":" entrainement
+09/04/2024 02:41:30-- {Soryu Langley}":" coucou :))
+09/04/2024 02:42:56-- {Niluje}":" accéder
+09/04/2024 02:45:49-- ["Vente"] "Imoën": j'échange un arc du cavalier lourd (moi) contre le prismatique (vous) merci
+09/04/2024 02:48:23-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+09/04/2024 02:51:31-- ["Main"] "Myaetchan San": Boss 180 à 15h 7/8 
+09/04/2024 02:52:54-- ["Main"] "L'Oracle": Félicitations à Kaélios pour sa seconde renaissance !
+09/04/2024 02:52:58-- ["Main"] "Lulia Langley": gg
+09/04/2024 02:53:01-- ["Main"] "Johnny Rock":  gg
+09/04/2024 02:53:01-- ["Main"] "Anorfirithien": gg
+09/04/2024 02:53:03-- ["Main"] "Chou Creme": Solide !
+09/04/2024 02:53:03-- ["Main"] "Kaélios": Merci :)
+09/04/2024 02:53:06-- ["Main"] "Lamoueste": GG
+09/04/2024 02:53:14-- ["Main"] "Exna": gg
+09/04/2024 02:53:19-- ["Main"] "Ambroisie": gg
+09/04/2024 02:54:59-- ["Main"] "Leykarr": gg
+09/04/2024 02:56:43-- {Moktar}":" Bonjour ! Vous êtes au courant des "rumeurs" ?
+09/04/2024 02:56:47-- {Moktar}":" Non ?! Eh bien... il parait que l'on peut trouver des "fragments de saphir" sur Arakas ! C'est dingue non ?
+09/04/2024 02:56:52-- {Moktar}":" C'est vrai ! Je vous le jure ... ! Quoi ? Vous ne me "croyez" donc pas... ?
+09/04/2024 02:56:54-- {Moktar}":" ... J'ai de quoi vous faire changer d'avis le sceptique !.....Vous avez maintenant la preuve que ce ne sont plus des rumeurs... cette épée a été forgée grâce aux fragments de saphir par "Neyel Silversmith" !
+09/04/2024 02:56:59-- {Moktar}":" Il n'a eu besoin que de trois fragments de saphir. J'en avais trouvé quelques uns dans une des grottes des montagnes de Jarko. Si mes souvenirs sont bons, il s’agit de la "cave C".
+09/04/2024 02:57:01-- {Moktar}":" Des gobelins commencent à "extraire" le saphir de la grotte. Cet endroit devient de plus en plus "dangereux".
+09/04/2024 02:57:03-- {Moktar}":" Je me demande ce que Jarko va en faire...
+09/04/2024 02:57:06-- {Moktar}":" Avec un peu de chance, vous réussirez à dépouiller quelques uns de ces gobelins, mais soyez discret ! Je vous souhaite sincèrement bonne chance.
+09/04/2024 03:04:40-- ["Vente"] "Sedius Daemon": echange cape hvedrung glaciale (moi) vs cape hvedrung resistante (vous) me mp
+09/04/2024 03:17:06-- ["Main"] "Compagnon de l'archéologue": L'aventurier "Myaetchan San" vient de purifier les ruines d'Anwynn !
+09/04/2024 03:17:12-- ["Main"] "Anorfirithien": gg
+09/04/2024 03:17:15-- ["Main"] "Nalésia De Scyla": ;dites les neutres a l'oracle un c'est un coup good un coup evil ou c'est aléatoire ?
+09/04/2024 03:17:30-- ["Main"] "Chou Creme": ca alterne sans faute
+09/04/2024 03:17:31-- ["Main"] "Johnny Rock":  aléatoire
+09/04/2024 03:17:38-- ["Main"] "Johnny Rock":  ha
+09/04/2024 03:18:02-- ["Main"] "Nalésia De Scyla": ducoup la j'ai monté quelequ'n en good la next c'est ogri ?
+09/04/2024 03:18:23-- ["Main"] "Chou Creme":  normalement oui mais Johnny me met le doute !
+09/04/2024 03:18:52-- ["Main"] "Nalésia De Scyla": je le monterais avec un ogri au pire on verra merci
+09/04/2024 03:19:54-- ["Main"] "Johnny Rock":  l'anneau séraph on peut l'avoir en neutre ?
+09/04/2024 03:20:04-- ["Main"] "Cortex": non
+09/04/2024 03:20:04-- ["Main"] "Nalésia De Scyla": nan
+09/04/2024 03:24:48-- ["Main"] "Myaelys San": Boss 180 à 15h 7/8 , un heal de dispo?
+09/04/2024 03:25:48-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+09/04/2024 03:29:22-- ["Main"] "Cortex": apprendre
+09/04/2024 03:39:24-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+09/04/2024 03:42:23-- {Arktyr de Sade}":" entrainer
+09/04/2024 03:42:30-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+09/04/2024 03:43:12-- L'accès à l'{aile Nord d'Anwynn} est ouvert pendant une heure.
+09/04/2024 03:45:46-- {Snoop}":" acheter
+09/04/2024 03:52:26-- ["Main"] "Sayer": Cherche groupe SS
+09/04/2024 03:55:52-- ["Main"] "Memnoch": groupe ss+boss à 21h30, une place dispo en heal ou mage
+09/04/2024 04:00:13-- ["Main"] "L'Arcaniste <> {Échange des larmes de dragon}": *BOUM* Catastrophe ! L'arcanisation d'un objet du Draconis Sanctum souhaitée par Bardahl vient d'échouer... Cet aventurier n'a décidément pas de chance et il est complètement ruiné.
+09/04/2024 04:02:38-- {Molosba Darek}":" vendre
+09/04/2024 04:02:49-- {Molosba Darek}":" vendre
+09/04/2024 04:05:14-- {Molosba Darek}":" acheter
+09/04/2024 04:10:35-- ["Main"] "Nalésia De Scyla": UP AR HM
+09/04/2024 04:17:50-- {Djy}":" vendre
+09/04/2024 04:18:24-- {Snoop}":" acheter
+09/04/2024 04:18:33-- {Snoop}":" acheter
+09/04/2024 04:25:20-- Le saviez-vous ? <> Si vous redécouvrez T4C, sachez qu'il y a de nombreux ajouts sur T4C Neerya. Par exemple, il existe une quatrième île après celle de Stoneheim, nommée {Grim Hawk}, mais également plus de 300 quêtes.
+09/04/2024 04:26:48-- {Halam}":" Bien le bonjour !
+09/04/2024 04:37:47-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+09/04/2024 04:49:01-- ["Main"] "Molosba Darek": Hello :) Je suis en train de faire la mission de la capture du niffleur. Je ne comprends pas comment en capturer un. Il faut juste les tuer en boucle jusqu'à ce que un soit capturé??
+09/04/2024 04:49:15-- ["Main"] "Anor Mâle": oui
+09/04/2024 04:49:22-- ["Main"] "Molosba Darek": Merci! :)
+09/04/2024 04:55:11-- ["Main"] "Mysaki San": Boss 180 à 15h 7/8 
+09/04/2024 04:57:36-- {Molosba Darek}":" accéder
+09/04/2024 04:58:26-- {Molosba Darek}":" accéder
+09/04/2024 05:00:22-- ["Main"] "Leykarr": quelqu'un sait a quoi sert la gemme du soleil ?
+09/04/2024 05:03:31-- ["Main"] "Trecile San": Boss 180 départ 15h 7/8
+09/04/2024 05:04:27-- {Molosba Darek}":" accéder
+09/04/2024 05:05:23-- ["Main"] "Johnny Rock":  re / bonjour
+09/04/2024 05:05:41-- Gishnak, {Gladiateur Orque}, baigne maintenant dans son sang après avoir péri au combat.
+09/04/2024 05:05:42-- ["Main"] "Johnny Rock":  on recherche un heal pour 15h00 pour faire les boss, loot una possible :)
+09/04/2024 05:06:03-- ["Main"] "Johnny Rock":  et 750M xp en 1h
+09/04/2024 05:10:46-- {Molosba Darek}":" acheter
+09/04/2024 05:11:01-- {Molosba Darek}":" acheter
+09/04/2024 05:11:22-- {Molosba Darek}":" 7777777777777777777777777
+09/04/2024 05:11:22-- ["Main"] "Johnny Rock":  on recherche un heal a 15h00 boss merci
+09/04/2024 05:18:32-- ["Main"] "Johnny Rock": : on recherche un heal a 15h00 boss merci (1h 750M xp avec possibilité de drop una ou parchemin xp50%2h) :)
+09/04/2024 05:19:53-- ["Main"] "Leykarr": elle fait mon acces GH :)
+09/04/2024 05:20:13-- ["Main"] "Spino Raptor": Des gens pour Rd Hm?
+09/04/2024 05:22:45-- ["Main"] "Spino Raptor": Rd Hm des gens?
+09/04/2024 05:25:03-- [Défi de Valerius] "L'instance d'Arakas en mode Héroïque la plus rapide" : <>Classement actuel : groupe de Spino Raptor (9:34), de Anoukie (9:34), de Phillipe (9:34). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+09/04/2024 05:25:43-- ["Main"] "Mysaki San": boss 180 à 15h , need heal , un up?
+09/04/2024 05:26:03-- ["Main"] "Johnny Rock": svp :p
+09/04/2024 05:26:15-- ["Main"] "Mysaki San": lol siouuuuuplaiiiiiit
+09/04/2024 05:26:26-- ["Main"] "Mysaki San": groupe en pls :'(
+09/04/2024 05:33:47-- ["Main"] "Johnny Rock": : on recherche un heal a 15h00 boss merci (1h 750M xp avec possibilité de drop una ou parchemin xp50%2h) :)
+09/04/2024 05:37:13-- ["Main"] "Mysaki San": SS 18h30 , 7/8 need un heal
+09/04/2024 05:44:24-- ["Main"] "Johnny Rock": : on recherche un heal dans 15 min tournée boss 180
+09/04/2024 05:44:32-- ["Main"] "Johnny Rock": svp !
+09/04/2024 05:44:40-- ["Main"] "Mysaki San": j'allais pas te louper :p
+09/04/2024 05:44:51-- ["Main"] "Johnny Rock": :)
+09/04/2024 05:45:03-- ["Main"] "Teppei": Bonjour a tous 
+09/04/2024 05:45:16-- ["Main"] "Johnny Rock": hein teppei !
+09/04/2024 05:45:32-- ["Main"] "Teppei": pourquoi pas  
+09/04/2024 05:45:40-- ["Main"] "Johnny Rock":  merc <3
+09/04/2024 06:02:06-- ["Main"] "Mysaki San": un mage dispo pour les boss 180 , depart immediat?
+09/04/2024 06:10:19-- ["Main"] "Aynhoa": bonjour à tous
+09/04/2024 06:10:30-- ["Main"] "Armigonik": bonjour Aynhoa
+09/04/2024 06:25:25-- Le saviez-vous ? <> Il se peut que vous tombiez nez à nez avec d'étranges statues : les {sanctuaires de bénédiction elfiques}. Ils offriront à votre personnage quelques bonus limités dans le temps.
+09/04/2024 06:28:23-- ["Vente"] "Cotelette": j'echange un atour antepal contre un atour archer pretre
+09/04/2024 06:28:49-- {Molosba Darek}":" acheter
+09/04/2024 06:29:01-- ["Vente"] "Cotelette": j'echange mon atour antepal* contre votre atour archer pretre
+09/04/2024 06:31:41-- {Molosba Darek}":" acheter
+09/04/2024 06:33:24-- Myrjala vient de débarquer au campement spellshorien, sur le Draconis Sanctum !
+09/04/2024 06:33:38-- ["Main"] "Grimsby": gg
+09/04/2024 06:33:38-- ["Main"] "Exna": gg
+09/04/2024 06:33:43-- ["Main"] "Bichon Taigama": gg
+09/04/2024 06:33:54-- ["Main"] "Myrjala": merci
+09/04/2024 06:33:56-- ["Main"] "Armigonik": félicitations Myrjala
+09/04/2024 06:34:11-- ["Main"] "Lulia Langley": Hello tout le monde, je suis sur la BTK RD, j'ai parlé à Caribert pour le serpent, je n'ai pas réussi à le tuer mais je n'arrive plus à intéragir avec Caribert, que dois je faire ?
+09/04/2024 06:34:36-- ["Main"] "Armigonik": c'est que tu l'as sans doute tué
+09/04/2024 06:34:50-- ["Main"] "Armigonik": vérifie le message vert
+09/04/2024 06:34:51-- "Leykarr" vient d'accoster au port de "Spellshore" !
+09/04/2024 06:34:56-- ["Main"] "Dorothy": Considères que tu l'as tué oui, si tu peux pas lui parler
+09/04/2024 06:34:57-- ["Main"] "Grimsby": GG
+09/04/2024 06:35:00-- ["Main"] "Myrjala": GG
+09/04/2024 06:35:05-- ["Main"] "Arthurys Pendragon": onjour
+09/04/2024 06:35:11-- ["Main"] "Arthurys Pendragon": Bonjour
+09/04/2024 06:35:12-- ["Main"] "Mysaki San": njour
+09/04/2024 06:35:23-- ["Main"] "Armigonik": félicitations Leykarr
+09/04/2024 06:36:29-- ["Main"] "Lulia Langley": ok merci
+09/04/2024 06:39:13-- ["Main"] "Arthurys Pendragon": Meme si je suis un gros moche la moindre des choses quand quelqu'un dit "bonjour cest de repondre grrrr"
+09/04/2024 06:39:32-- ["Main"] "Johnny Rock":  je savais bien que tuétais moche :p
+09/04/2024 06:39:35-- ["Main"] "Arthurys Pendragon": ;)
+09/04/2024 06:39:35-- ["Main"] "Abondance": Grrrrr
+09/04/2024 06:39:45-- ["Main"] "Arthurys Pendragon": gg abon
+09/04/2024 06:39:52-- ["Main"] "Venusiana": bonjour  Arturys Pendragon :)
+09/04/2024 06:40:04-- ["Main"] "Arthurys Pendragon": merci venu
+09/04/2024 06:40:21-- ["Main"] "Arthurys Pendragon": up gb si jamais healou dps
+09/04/2024 06:40:31-- ["Main"] "Arthurys Pendragon": heal ou dpsù
+09/04/2024 06:40:56-- ["Main"] "Molosba Darek": Bonjour Arthurys :)
+09/04/2024 07:02:40-- ["Main"] "Anoukie": Bonjour Neerya
+09/04/2024 07:02:50-- ["Main"] "Armigonik": bonjour Anoukie
+09/04/2024 07:02:53-- ["Main"] "Molosba Darek": Hello Anoukie
+09/04/2024 07:03:12-- ["Main"] "Mark As Huns": bonjour
+09/04/2024 07:03:29-- {Venusiana}":" [ prend des potions ]
+09/04/2024 07:03:51-- {Molosba Darek}":" acheter
+09/04/2024 07:04:44-- {Molosba Darek}":" acheter
+09/04/2024 07:05:45-- {Halastor}":" acheter
+09/04/2024 07:07:21-- {Tovnokav}":" [ Merci ]
+09/04/2024 07:07:29-- {Venusiana}":" [ :) ]
+09/04/2024 07:07:30-- {Molosba Darek}":" acheter
+09/04/2024 07:08:01-- {Dalbert}":" Bonjour, Tovnokav. Alors comme ça vous venez d'arriver en ville ? Oh... vous avez rencontré mon ami "Varriw" de Spellshore, le port de l'île de Grim Hawk.
+09/04/2024 07:08:01-- {Venusiana}":" [ viens ]
+09/04/2024 07:08:08-- {Tovnokav}":" varriw
+09/04/2024 07:08:08-- {Dalbert}":" Vraiment, une lettre pour moi ? Laissez-moi voir... {*lit la lettre*} Ah, je comprends mieux le motif de sa venue. Apparemment, il souhaite entrer au service de la "Baronnie".
+09/04/2024 07:08:18-- {Tovnokav}":" baronnie
+09/04/2024 07:08:18-- {Dalbert}":" Oui, Lighthaven est dirigée par un Baron ou une Baronne, au nom du royaume de Goldmoon dont nous sommes les vassaux... enfin, en théorie. Si vous voulez aider mon ami à se faire une place ici, je vous conseille d'aller voir "Ryla".
+09/04/2024 07:08:25-- {Tovnokav}":" ryla
+09/04/2024 07:08:25-- {Dalbert}":" {Ryla} est la servante de compagnie. Allez-lui parler en mon nom, je suis ami avec elle depuis longtemps et je suis certain qu'elle saura aider Varriw à se faire une place dans notre village. Ah, j'oubliais : ne faites pas attention à son air guindé. Sortez de la taverne, suivez le chemin vers le sud jusqu'à la place du village. Ryla est dans la plus grand maison au {sud}.
+09/04/2024 07:08:27-- ["Main"] "Nalésia De Scyla": du monde pour AR HM ?
+09/04/2024 07:08:36-- {Venusiana}":" [ depose dans ton coffre  quelques chose  tu est full ]
+09/04/2024 07:09:04-- {Molosba Darek}":" ^^
+09/04/2024 07:09:35-- ["Main"] "Nalésia De Scyla": AR/HM heal ok
+09/04/2024 07:09:35-- {Venusiana}":" [ une seule fois ]
+09/04/2024 07:09:51-- {Venusiana}":" [ c bon ]
+09/04/2024 07:10:01-- ["Main"] "Fink": Bonjour
+09/04/2024 07:10:04-- {Molosba Darek}":" Ah ok 
+09/04/2024 07:10:06-- {Molosba Darek}":" je comprends
+09/04/2024 07:10:08-- ["Main"] "Nalésia De Scyla": Hello Fink =)
+09/04/2024 07:10:11-- ["Main"] "Elianna": Bonjour Finkounet
+09/04/2024 07:10:25-- {Venusiana}":" [ touche plus rien ]
+09/04/2024 07:10:36-- ["Main"] "Nalésia De Scyla": AR/HM 4/8
+09/04/2024 07:10:44-- ["Main"] "Elianna": Comment va tu Fink ?
+09/04/2024 07:10:53-- ["Main"] "Fink": ca va bien merci et toi ?
+09/04/2024 07:11:04-- ["Main"] "Elianna": Bien merci :)
+09/04/2024 07:11:18-- {Venusiana}":" [ change de chapeau ]
+09/04/2024 07:11:50-- {Molosba Darek}":" [ Faudra que je p ense à augmenter la sagesse ^^ ]
+09/04/2024 07:12:01-- {Venusiana}":" [ ok ]
+09/04/2024 07:12:04-- ["Main"] "Mysaki San": SS 18H30, need heal 
+09/04/2024 07:12:10-- ["Main"] "Fink": Jeudi soir il y aura le Quizz mensuel
+09/04/2024 07:12:13-- ["Main"] "Nalésia De Scyla": AR/HM 4/8 need mago =)
+09/04/2024 07:12:13-- {Molosba Darek}":" [ J'ai fait full necro/feu pour le moment ]
+09/04/2024 07:12:16-- ["Main"] "Fink": suivi d'une petite animation fun
+09/04/2024 07:12:23-- {Venusiana}":" [ ouch ]
+09/04/2024 07:12:36-- {Venusiana}":" [ prend un autre sort aussi ]
+09/04/2024 07:12:47-- {Molosba Darek}":" [ Oui, à l'époque ça avait du sens car bcp de PVP  ]
+09/04/2024 07:12:51-- {Venusiana}":" [ sinon tu aura dur ]
+09/04/2024 07:12:52-- {Molosba Darek}":" [ Même si RP ]
+09/04/2024 07:13:01-- {Molosba Darek}":" [ Mais ici, j'ai pas l'impression que ce soit le meilleur choix  ]
+09/04/2024 07:13:24-- {Venusiana}":" [ pas vraiment mais si ca te plait pourquoi pas ]
+09/04/2024 07:13:43-- {Venusiana}":" [ mais sur les mv ca marche pas ]
+09/04/2024 07:13:48-- {Molosba Darek}":" [ Le coffre est partagé entre nos différents houeurs ?  ]
+09/04/2024 07:13:55-- {Venusiana}":" [ non ]
+09/04/2024 07:14:00-- {Molosba Darek}":" [ Ou il faut faire des échanges à la sauvette dans un enclos ? ]
+09/04/2024 07:14:11-- {Venusiana}":" [ coffre perso sauf  les coffres guildes ]
+09/04/2024 07:14:32-- {Venusiana}":" [ non non ]
+09/04/2024 07:14:49-- {Venusiana}":" [ prezt? ]
+09/04/2024 07:14:52-- ["Main"] "Nalésia De Scyla": AR/HM 5/8 tres certainment suivi de rd hm
+09/04/2024 07:14:53-- {Molosba Darek}":" [ Je ferai certainement une archère   vu que Neerya me plait bien  ]
+09/04/2024 07:15:04-- {Molosba Darek}":" [ prêt! :) ]
+09/04/2024 07:15:07-- {Venusiana}":" [ go ]
+09/04/2024 07:19:08-- {Anoukie}":" acheter
+09/04/2024 07:23:09-- ["Main"] "Nalésia De Scyla": AR hm en partance 5/8
+09/04/2024 07:26:06-- ["Main"] "Temp":  Up ar hm !
+09/04/2024 07:26:40-- [Instance d'Arakas Héroïque] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (parmi lesquels Phoebe Halliwell, Ksiadus et Mark As Huns) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+09/04/2024 07:27:41-- ["Main"] "Lulia Langley": Ou se trouve la foret de non retour svp 
+09/04/2024 07:27:55-- ["Main"] "Kamoulox Caesar": On cest pas cest sans retour
+09/04/2024 07:28:06-- ["Main"] "Theranos": T'es pas bien avec nous?
+09/04/2024 07:28:11-- ["Main"] "Theranos": au point de jamais vouloir revenir?
+09/04/2024 07:29:04-- ["Main"] "Lulia Langley": vous êtes mignons mais ça me dit pas ou c'est haha
+09/04/2024 07:29:13-- ["Main"] "Theranos": Aucune idee, dsl
+09/04/2024 07:29:33-- ["Main"] "Theranos": j'en ai jamais entendu parler
+09/04/2024 07:29:37-- ["Main"] "Kamoulox Caesar": derriere les fatalitesse non
+09/04/2024 07:29:39-- ["Main"] "Dorothy": Au nord de Raven's Dust, via le PNJ situé à l'entrée de la grotte de l'aveugle
+09/04/2024 07:32:15-- ["Main"] "Padre Pio": plop alll
+09/04/2024 07:32:51-- ["Main"] "Molosba Darek": plop!
+09/04/2024 07:33:08-- ["Main"] "Padre Pio": un p'tit evil gentil pour m'aidee oracle svp + epreuve pour gh?
+09/04/2024 07:33:25-- ["Main"] "Theranos": un evil gentil?
+09/04/2024 07:33:36-- ["Main"] "Theranos": *sors son dictionnaire Anglais-Francais*
+09/04/2024 07:33:38-- ["Main"] "Elianna":  un tp black dispo rst ou nexus ?
+09/04/2024 07:33:42-- ["Main"] "Padre Pio": oui sa existe lol
+09/04/2024 07:34:57-- ["Main"] "Padre Pio": lol  un peux presser je dirais ^^
+09/04/2024 07:36:04-- ["Main"] "Padre Pio": personne snif c ma derniere etape avant de marcher sur gh :(
+09/04/2024 07:38:05-- ["Main"] "Dorothy": C'est pas Corneille qui disait qu'à vaincre sans péril on triomphe sans gloire ? Pas le chanteur.
+09/04/2024 07:39:34-- ["Main"] "Arthurys Pendragon": tjrs pas de gb sur le feu
+09/04/2024 07:39:57-- [Instance d'Arakas Héroïque] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (parmi lesquels Mark As Huns, Phoebe Halliwell et Ksiadus) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+09/04/2024 07:39:58-- ["Main"] "Padre Pio": ou d'evil up pour p'tit aide ^^
+09/04/2024 07:40:19-- ["Main"] "Arthurys Pendragon": aide pour ?
+09/04/2024 07:40:51-- ["Main"] "Padre Pio": pour passer oragle
+09/04/2024 07:41:06-- ["Main"] "Padre Pio": que je puisse fouller le sol gh ^^
+09/04/2024 07:41:10-- ["Main"] "Arthurys Pendragon": si cest pour aller a loracle cest mort je me souvient plus de la route
+09/04/2024 07:41:39-- ["Main"] "Padre Pio": lvl cb?
+09/04/2024 07:41:43-- ["Main"] "Padre Pio": oups
+09/04/2024 07:41:49-- ["Main"] "Arthurys Pendragon": 217
+09/04/2024 07:41:53-- ["Main"] "Arthurys Pendragon": ^^
+09/04/2024 07:45:40-- ["Main"] "Padre Pio": tjrs pas un evil de motiver pour me guidee oracle svp?
+09/04/2024 07:46:56-- ["Main"] "Padre Pio": ok
+09/04/2024 07:47:07-- ["Main"] "Arthurys Pendragon": ta de l'or bcp ?
+09/04/2024 07:47:28-- ["Main"] "Theranos": Si il veut renaitre, il en a forcement ;-)
+09/04/2024 07:47:39-- ["Main"] "Arthurys Pendragon": suis cher comme guide
+09/04/2024 07:47:52-- ["Main"] "Anorfirithien": et il sent l'asticot
+09/04/2024 07:48:00-- ["Main"] "Padre Pio": non suis a sec et non pas renaitre accer gh
+09/04/2024 07:48:48-- {Dalbert}":" Bonjour, Aetras. Alors comme ça vous venez d'arriver en ville ? Oh... vous avez rencontré mon ami "Varriw" de Spellshore, le port de l'île de Grim Hawk.
+09/04/2024 07:48:57-- ["Main"] "Arthurys Pendragon": ah cest que pour acceder a la premiere porte pour gh
+09/04/2024 07:48:59-- {Aetras}":" varriw
+09/04/2024 07:48:59-- {Dalbert}":" Vraiment, une lettre pour moi ? Laissez-moi voir... {*lit la lettre*} Ah, je comprends mieux le motif de sa venue. Apparemment, il souhaite entrer au service de la "Baronnie".
+09/04/2024 07:49:09-- {Aetras}":" baronnie
+09/04/2024 07:49:09-- {Dalbert}":" Oui, Lighthaven est dirigée par un Baron ou une Baronne, au nom du royaume de Goldmoon dont nous sommes les vassaux... enfin, en théorie. Si vous voulez aider mon ami à se faire une place ici, je vous conseille d'aller voir "Ryla".
+09/04/2024 07:49:30-- {Aetras}":" ryla
+09/04/2024 07:49:30-- {Dalbert}":" {Ryla} est la servante de compagnie. Allez-lui parler en mon nom, je suis ami avec elle depuis longtemps et je suis certain qu'elle saura aider Varriw à se faire une place dans notre village. Ah, j'oubliais : ne faites pas attention à son air guindé. Sortez de la taverne, suivez le chemin vers le sud jusqu'à la place du village. Ryla est dans la plus grand maison au {sud}.
+09/04/2024 07:54:12-- ["Main"] "Peter Pan": lut
+09/04/2024 07:54:25-- ["Main"] "Arthurys Pendragon": plo^
+09/04/2024 07:54:31-- ["Main"] "Molosba Darek": yop
+09/04/2024 07:54:47-- ["Main"] "Peter Pan": AR HM?
+09/04/2024 07:57:44-- [Instance d'Arakas Héroïque] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (parmi lesquels Ksiadus, Temp et Nalésia De Scyla) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+09/04/2024 07:59:57-- ["Main"] "Arthurys Pendragon": pour infos padre rio si cest pour aller au laby invisible de gh ...tu ten fous detre neutre evil ou du mauvais coté "artherk" en gros
+09/04/2024 08:03:26-- {Halam}":" Bien le bonjour !
+09/04/2024 08:03:35-- ["Main"] "Arthurys Pendragon": point de reponse de Padre Pio temps pis +++ all
+09/04/2024 08:05:28-- {Kaélios}":" choix
+09/04/2024 08:05:40-- {Kaélios}":" [ adieu ]
+09/04/2024 08:08:13-- {Halam}":" Bien le bonjour !
+09/04/2024 08:10:39-- Le personnage Kaélios devient Kaéso.
+09/04/2024 08:11:12-- {Kaéso}":" acheter
+09/04/2024 08:11:23-- {Kaéso}":" adieu
+09/04/2024 08:13:51-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+09/04/2024 08:22:40-- ["Main"] "Cleptho": Dispo SS
+09/04/2024 08:24:22-- ["Main"] "Yenifer": places en archer ou dmg pour Boss 22h30
+09/04/2024 08:25:02-- ["Main"] "Peter Pan": quelqu'un pour m'aider pour l'oracle?
+09/04/2024 08:25:03-- [Défi de Valerius] "L'instance d'Arakas en mode Héroïque la plus rapide" : <>Classement actuel : groupe de Spino Raptor (9:34), de Anoukie (9:34), de Phillipe (9:34). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+09/04/2024 08:25:30-- Le saviez-vous ? <> Si vous décelez une faute dans le dialogue d'un PNJ ou une anomalie, informez-en l'équipe par message privé sur le forum, par une requête sur le site https://www.t4c-neerya.com ou avec la commande .mpstaff sur le bot discord.
+09/04/2024 08:26:19-- ["Vente"] "Shimio": echange toge una tellurique(moi) contre toge una sanctifiee(vous)
+09/04/2024 08:27:40-- ["Main"] "L'Oracle": Félicitations à Anor Mâle qui devient Séraphe avec sa première renaissance !
+09/04/2024 08:27:46-- ["Main"] "Anor Mâle": oink
+09/04/2024 08:27:48-- ["Main"] "Grimsby": Gg
+09/04/2024 08:27:53-- ["Main"] "Anoukie": gg
+09/04/2024 08:28:16-- ["Main"] "Shimio": gg
+09/04/2024 08:29:27-- ["Main"] "Kinglarf": j'ai une question concernant les classes sur le server
+09/04/2024 08:29:43-- ["Main"] "Kinglarf": je vois qu'on cherche souvent sur le chat des dps et éventuellement des heals
+09/04/2024 08:30:08-- ["Main"] "Kinglarf": mais jamais des tanks. C'est parce qu'ils ne servent a rien pour le contenu PvE HL ou parce qu'il y en a beaucoup ?
+09/04/2024 08:30:55-- ["Main"] "Nildur": Il y a pas vraiment de place pour les tank dans le contenu pve du serveur
+09/04/2024 08:31:27-- ["Main"] "Kinglarf": merci beaucoup pour ta réponse Nildur ;)
+09/04/2024 08:31:48-- ["Main"] "Nildur": il faut juste 2 cac pour faire les boss 180+ apres qu'importe vraiment que le cac soit tanké ou non
+09/04/2024 08:32:03-- ["Main"] "Schiryu Griffon": moi qui voulait monter un guerrier apres renaissance :/
+09/04/2024 08:32:08-- ["Main"] "Kinglarf": va falloir que je change mes plans alors parce que monter quelque chose qui ne sert a rien ... bof :D
+09/04/2024 08:32:35-- ["Main"] "Nildur": tu peux monter guerrier sans pb, mais 300 endu dans le contenu pve HR je voies pas trop l'intéret
+09/04/2024 08:32:38-- ["Main"] "Anoukie": ;tu choppes une béné 4K et un healer a 1K5 et tu crainds rien avec 250 end :)
+09/04/2024 08:32:41-- ["Main"] "Kinglarf": imagine Schiryu moi je comptais faire pal air :D
+09/04/2024 08:33:23-- ["Main"] "Schiryu Griffon": j'avais prévu la belier en or à 250 endu ;)
+09/04/2024 08:33:34-- ["Main"] "Schiryu Griffon": lol pal tu es motivé ^^
+09/04/2024 08:33:44-- ["Main"] "Kinglarf": pourquoi ? Je trouve ca fun :D
+09/04/2024 08:34:09-- ["Main"] "Nildur": le pal opti en groupe c'est  celui qui file le buff groupe + 10% stat
+09/04/2024 08:34:11-- {Dalbert}":" Bonjour, Anor Mâle. Alors comme ça vous venez d'arriver en ville ? Oh... vous avez rencontré mon ami "Varriw" de Spellshore, le port de l'île de Grim Hawk.
+09/04/2024 08:34:13-- {Dalbert}":" Vraiment, une lettre pour moi ? Laissez-moi voir... {*lit la lettre*} Ah, je comprends mieux le motif de sa venue. Apparemment, il souhaite entrer au service de la "Baronnie".
+09/04/2024 08:34:14-- {Dalbert}":" Oui, Lighthaven est dirigée par un Baron ou une Baronne, au nom du royaume de Goldmoon dont nous sommes les vassaux... enfin, en théorie. Si vous voulez aider mon ami à se faire une place ici, je vous conseille d'aller voir "Ryla".
+09/04/2024 08:34:15-- {Dalbert}":" {Ryla} est la servante de compagnie. Allez-lui parler en mon nom, je suis ami avec elle depuis longtemps et je suis certain qu'elle saura aider Varriw à se faire une place dans notre village. Ah, j'oubliais : ne faites pas attention à son air guindé. Sortez de la taverne, suivez le chemin vers le sud jusqu'à la place du village. Ryla est dans la plus grand maison au {sud}.
+09/04/2024 08:34:17-- {Dalbert}":" Au plaisir.
+09/04/2024 08:34:20-- ["Main"] "Schiryu Griffon": tant qu'on aime sa classe c'est ce qui compte ;)
+09/04/2024 08:34:29-- ["Main"] "Xaern": c'est juste que palouf avec beaucoup d'endu ça amène les dernières armes à très très haut lvl
+09/04/2024 08:34:35-- ["Main"] "Kinglarf": il est groupé celui la Nildur ?
+09/04/2024 08:34:46-- ["Main"] "Nildur": Yep
+09/04/2024 08:35:11-- ["Main"] "Kinglarf": faut que je regarde si le build me plait alors :p
+09/04/2024 08:35:42-- Anoukie vient de débarquer au campement spellshorien, sur le Draconis Sanctum !
+09/04/2024 08:35:51-- ["Main"] "Grimsby": gg
+09/04/2024 08:35:52-- ["Main"] "Shimio": gg
+09/04/2024 08:36:11-- ["Main"] "Anoukie": merci :)
+09/04/2024 08:38:59-- {Anor Mâle}":" oui
+09/04/2024 08:39:01-- {Anor Mâle}":" tache
+09/04/2024 08:41:17-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+09/04/2024 08:47:23-- {Anor Mâle}":" [ baynay siouplé ]
+09/04/2024 08:47:27-- {Anor Mâle}":" [ merci ]
+09/04/2024 08:47:44-- {Tily}":" [ De rien :) ]
+09/04/2024 08:50:31-- [Monstre élite du Draconis Sanctum] Perverti par une magie impie des Marais bouillonnants, le Saule vengeur autrefois majestueux n'est plus que colère et destruction.
+09/04/2024 08:52:39-- {Dalbert}":" Bonjour, Kaéso. Alors comme ça vous venez d'arriver en ville ? Oh... vous avez rencontré mon ami "Varriw" de Spellshore, le port de l'île de Grim Hawk.
+09/04/2024 08:52:40-- {Dalbert}":" Vraiment, une lettre pour moi ? Laissez-moi voir... {*lit la lettre*} Ah, je comprends mieux le motif de sa venue. Apparemment, il souhaite entrer au service de la "Baronnie".
+09/04/2024 08:52:43-- {Dalbert}":" Oui, Lighthaven est dirigée par un Baron ou une Baronne, au nom du royaume de Goldmoon dont nous sommes les vassaux... enfin, en théorie. Si vous voulez aider mon ami à se faire une place ici, je vous conseille d'aller voir "Ryla".
+09/04/2024 08:52:45-- {Dalbert}":" {Ryla} est la servante de compagnie. Allez-lui parler en mon nom, je suis ami avec elle depuis longtemps et je suis certain qu'elle saura aider Varriw à se faire une place dans notre village. Ah, j'oubliais : ne faites pas attention à son air guindé. Sortez de la taverne, suivez le chemin vers le sud jusqu'à la place du village. Ryla est dans la plus grand maison au {sud}.
+09/04/2024 08:52:47-- {Dalbert}":" Au plaisir.
+09/04/2024 08:53:44-- L'accès à l'{aile Nord d'Anwynn} est ouvert pendant une heure.
+09/04/2024 09:00:46-- ["Main"] "Lulia Langley": quelqu'un pour une béné au nexus ?
+09/04/2024 09:01:14-- "Padre Pio" vient d'accoster au port de "Spellshore" !
+09/04/2024 09:01:15-- {Schiryu Griffon}":" acceder
+09/04/2024 09:01:21-- ["Main"] "Phillipe": gg
+09/04/2024 09:01:24-- ["Main"] "Arriza Main Noire":  gg
+09/04/2024 09:01:28-- ["Main"] "Grimsby": gg
+09/04/2024 09:01:41-- ["Main"] "Phoebe Halliwell": gg :)
+09/04/2024 09:01:52-- ["Main"] "Padre Pio": thx
+09/04/2024 09:02:03-- {Schiryu Griffon}":" acheter
+09/04/2024 09:02:03-- ["Main"] "Phoebe Halliwell": va faire ton sanctuaire
+09/04/2024 09:02:06-- ["Main"] "Phoebe Halliwell": :)
+09/04/2024 09:02:10-- {Schiryu Griffon}":" adieu
+09/04/2024 09:02:14-- ["Main"] "Padre Pio": oui
+09/04/2024 09:02:31-- ["Main"] "Phoebe Halliwell": comme quoi les destin ma mit sur ta route :) 
+09/04/2024 09:02:41-- ["Main"] "Padre Pio": ^^
+09/04/2024 09:05:31-- ["Main"] "Molosba Darek": ... *boulet* je ne retrouve pas le lien pour voir les quêtes en cours... L'un de vous sait m'aider?
+09/04/2024 09:06:17-- ["Main"] "Lulia Langley": on doit dire quoi au PNJ pour aller à la foret de non retour ?
+09/04/2024 09:07:17-- ["Main"] "Abalister": oui
+09/04/2024 09:07:53-- ["Main"] "Molosba Darek": Abalister, super, merci de savoir m'aider. Que dois-je faire ? 
+09/04/2024 09:08:21-- ["Main"] "Dorothy": Il n'y a pas d'interface pour voir tes quêtes en cours. Ou du moins je cherche depuis plus de 20 ans
+09/04/2024 09:08:32-- ["Main"] "Abalister":  de rien et tu fais ce que tu veux tu es un homme libre :D
+09/04/2024 09:08:53-- ["Main"] "Chou Creme": a droite de la barre ou tu ecris, au dessus de la barre de macro, y a un petit visage pour les smileys, et un petit livre pour voir les quetes en cours
+09/04/2024 09:08:56-- ["Main"] "Lulia Langley": quelqu'un sait comment accéder à la foret de non retour ?
+09/04/2024 09:09:16-- ["Main"] "Dorothy": WOW
+09/04/2024 09:09:42-- ["Main"] "Dorothy": Il y a une interface pour les quêtes, ben là, je suis sur le cul
+09/04/2024 09:09:55-- ["Main"] "Molosba Darek": Ah ben voilà que je retrouve ce que je cherchais, dans la barre de chat, il y a une petite icone à droite avec un livre ouvert
+09/04/2024 09:10:00-- ["Main"] "Nehla Meneheim": Pour les quêtes, c'est le bouton à côté de celui du smiley mais c'est toujours buggué il me semble
+09/04/2024 09:10:15-- ["Main"] "Abalister": Une fois devant la cave trouvez le PNJ nommé Archibald Spielengnaffron.
+09/04/2024 09:10:30-- ["Main"] "Abalister": dite lui foret de non retour puis oui
+09/04/2024 09:10:31-- ["Main"] "Dorothy": Dis lui ''foret de non retour'' ?
+09/04/2024 09:11:22-- ["Main"] "Molosba Darek": mais clair que ça devrait se retrouver plus facilement dans l'interface
+09/04/2024 09:12:19-- {Halam}":" Bien le bonjour !
+09/04/2024 09:16:43-- ["Main"] "Pierino": Bonsoir
+09/04/2024 09:16:48-- ["Main"] "Bardahl": Bonsoir
+09/04/2024 09:16:49-- ["Main"] "Piemur":  Salut !
+09/04/2024 09:16:49-- ["Main"] "Tempioute":  Un groupe SS à 18h30 ayant une place dispo?
+09/04/2024 09:16:52-- ["Main"] "Hey Hey Main Noire":  slt
+09/04/2024 09:20:02-- ["Main"] "Lulia Langley": un pretre seraph pour mefiler un coup de main à la foret de non retour ?
+09/04/2024 09:21:32-- ["Main"] "Nanesse San": boss 20h45 un mage up?
+09/04/2024 09:22:00-- ["Main"] "Lulia Langley": un pretre seraph pour mefiler un coup de main à la foret de non retour ?
+09/04/2024 09:22:29-- {Vanillette}":" acheter
+09/04/2024 09:25:43-- ["Main"] "Tempioute":  Un groupe SS à 18h30 ayant une place dispo?
+09/04/2024 09:27:59-- ["Main"] "Tekkone": Bonsoir
+09/04/2024 09:28:03-- ["Main"] "Pléioné": bonsoir !
+09/04/2024 09:28:33-- ["Main"] "Coeur de Dragon":  Coucou Neerya :)
+09/04/2024 09:29:52-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+09/04/2024 09:36:00-- ["Main"] "Molosba Darek": Hello Cœur de Dragon
+09/04/2024 09:36:12-- ["Main"] "Coeur de Dragon":  COucou Molosba ^^
+09/04/2024 09:42:43-- ["Main"] "Cleptho": Dispo SS
+09/04/2024 09:44:52-- {Astradia}":" vendre
+09/04/2024 09:45:04-- {Astradia}":" acheter
+09/04/2024 09:45:33-- [Monstre élite du Draconis Sanctum] Autrefois fournisseuse du miel des larves de dragons, l'abeille Apis n'est plus que l'instrument d'un sombre sorcier qui l'utilise comme arme pour dévorer les aventuriers, au Cimetière des dragons.
+09/04/2024 09:49:53-- ["Main"] "Theranos": Faut camper logntemps le coffre de Reynen avant d'avoir la clef?
+09/04/2024 09:50:02-- ["Main"] "Howard de Pern":  ca dépend
+09/04/2024 09:50:08-- ["Main"] "Pléioné": de ta chance
+09/04/2024 09:50:29-- ["Main"] "Theranos": J'ai un couvre chef de prsoperite, ca aide?
+09/04/2024 09:50:33-- ["Main"] "Howard de Pern":  non
+09/04/2024 09:50:37-- ["Main"] "Pléioné": nop, pas pour les coffres
+09/04/2024 09:50:52-- ["Main"] "Pléioné": le stuff chance ne sert que pour les drops mobs au sol
+09/04/2024 09:51:08-- ["Main"] "Theranos": ah, si je dois compter sur ma chance IRL je suis mal barre
+09/04/2024 09:51:41-- ["Main"] "Pléioné": il faut t'armer de courage !
+09/04/2024 09:51:59-- ["Main"] "Howard de Pern":  et d'un bon film
+09/04/2024 09:51:59-- ["Main"] "Theranos": ca se trouve chez le marchand?
+09/04/2024 09:52:34-- ["Main"] "Theranos": lame de courage +2
+09/04/2024 09:52:40-- ["Main"] "Shimio": as tu fini tes autre clef royales
+09/04/2024 09:52:45-- ["Main"] "Theranos": non
+09/04/2024 09:52:51-- ["Main"] "Theranos": je les fais dans l'ordre
+09/04/2024 09:53:02-- ["Main"] "Shimio": tu peux les faire meme si tu as pas la clef #1
+09/04/2024 09:53:21-- ["Main"] "Theranos": ouais, je peux aussi faire ca :-)
+09/04/2024 09:53:32-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 09:54:06-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 09:54:57-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 09:56:09-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 10:01:11-- {Halam}":" Bien le bonjour !
+09/04/2024 10:02:09-- {Soryu Langley}":" acceder
+09/04/2024 10:07:48-- ["Main"] "Soryu Langley": Hello :)
+09/04/2024 10:08:05-- ["Main"] "Pléioné": bonjour !
+09/04/2024 10:10:28-- ["Main"] "Cleptho": Dispo SS
+09/04/2024 10:19:39-- {Mulonusse}":" acceder
+09/04/2024 10:19:56-- {Mulonusse}":" adieu
+09/04/2024 10:23:51-- {Astradia}":" vendre
+09/04/2024 10:23:59-- {Astradia}":" acheter
+09/04/2024 10:24:32-- {Astradia}":" vendre
+09/04/2024 10:25:19-- ["Main"] "Yvan Dérenai <> {Boutique : renaissance}": Félicitations à {River Khain} pour sa première renaissance !
+09/04/2024 10:25:27-- ["Main"] "Grimsby": gg
+09/04/2024 10:25:34-- ["Main"] "Kaéso": gg
+09/04/2024 10:25:35-- Le saviez-vous ? <> Vous pouvez demander aux membres de l'équipe T4C Neerya de mettre en jeu un {parchemin} que vous auriez écrit ou dessiné vous-même, par exemple, pour alimenter le {jeu de rôle}.
+09/04/2024 10:26:47-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 10:26:57-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/04/2024 10:27:19-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 10:27:20-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/04/2024 10:28:03-- ["Main"] "Soryu Langley": faut etre quel level pour la foret de non retour ?
+09/04/2024 10:28:13-- {Dalbert}":" Bonjour, River Khain. Alors comme ça vous venez d'arriver en ville ? Oh... vous avez rencontré mon ami "Varriw" de Spellshore, le port de l'île de Grim Hawk.
+09/04/2024 10:28:15-- {Dalbert}":" Vraiment, une lettre pour moi ? Laissez-moi voir... {*lit la lettre*} Ah, je comprends mieux le motif de sa venue. Apparemment, il souhaite entrer au service de la "Baronnie".
+09/04/2024 10:28:16-- {Dalbert}":" Oui, Lighthaven est dirigée par un Baron ou une Baronne, au nom du royaume de Goldmoon dont nous sommes les vassaux... enfin, en théorie. Si vous voulez aider mon ami à se faire une place ici, je vous conseille d'aller voir "Ryla".
+09/04/2024 10:28:17-- {Dalbert}":" {Ryla} est la servante de compagnie. Allez-lui parler en mon nom, je suis ami avec elle depuis longtemps et je suis certain qu'elle saura aider Varriw à se faire une place dans notre village. Ah, j'oubliais : ne faites pas attention à son air guindé. Sortez de la taverne, suivez le chemin vers le sud jusqu'à la place du village. Ryla est dans la plus grand maison au {sud}.
+09/04/2024 10:28:19-- {Dalbert}":" Au plaisir.
+09/04/2024 10:29:15-- ["Main"] "Nalésia De Scyla": lvl 80 pour etre tranquil je dirais
+09/04/2024 10:34:45-- {Kaéso}":" acheter
+09/04/2024 10:40:36-- [Monstre élite du Draconis Sanctum] La monstrueuse Veuve aux mille yeux quitte son nid et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+09/04/2024 10:46:16-- {Soryu Langley}":" acceder
+09/04/2024 10:46:27-- {Snoop}":" acheter
+09/04/2024 10:46:53-- {Soryu Langley}":" merci
+09/04/2024 10:47:02-- {Howard de Pern}":" [ pire soin ever ]
+09/04/2024 10:47:28-- {Cornelia}":" vendre
+09/04/2024 10:47:33-- ["Main"] "Soryu Langley": DD
+09/04/2024 10:47:41-- ["Main"] "Soryu Langley": ;DD
+09/04/2024 10:47:44-- {Soryu Langley}":" oops
+09/04/2024 10:47:51-- {Soryu Langley}":" [ merci ]
+09/04/2024 10:47:57-- {Howard de Pern}":" [ De rien ]
+09/04/2024 10:49:57-- ["Main"] "Sheyn Andara": A pour ceux qui ont loupé cette pépite faut aller lire le discord t4c abomination
+09/04/2024 10:50:08-- ["Main"] "Sheyn Andara": Des deux cotés c a mourrir de rire
+09/04/2024 10:50:49-- {Lililou}":" vendre
+09/04/2024 10:51:21-- {Lililou}":" vendre
+09/04/2024 10:55:18-- {Cornelia}":" vendre
+09/04/2024 10:59:17-- ["Main"] "Howard de Pern":  ca se fait solo cette quête
+09/04/2024 11:02:48-- {Soryu Langley}":" [ pousse toi du coffre stp ]
+09/04/2024 11:02:52-- {Soryu Langley}":" [ j'arrive pas cliquer dessus ]
+09/04/2024 11:03:36-- {Soryu Langley}":" acheter
+09/04/2024 11:04:25-- {Soryu Langley}":" acheter
+09/04/2024 11:04:31-- ["Main"] "Ani Sil Padawan": hello, un last pour SS de 21h ?
+09/04/2024 11:13:44-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+09/04/2024 11:13:48-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+09/04/2024 11:14:05-- {Molosba Darek}":" acheter
+09/04/2024 11:16:19-- {Vanillette}":" vendre
+09/04/2024 11:18:14-- ["Main"] "Spino Raptor": Dites, à quel endroit on améliore l'orbe de la salamandre? et combien de crédits?
+09/04/2024 11:19:05-- ["Main"] "Sheyn Andara": orbe de la salamandre c'est gh
+09/04/2024 11:19:09-- ["Main"] "Sheyn Andara": avec 25 cachets de confiance
+09/04/2024 11:19:17-- ["Main"] "Sheyn Andara": jconnais pu trop par coeur mais je sais que c'est un truc comme ca
+09/04/2024 11:19:28-- ["Main"] "Spino Raptor": ok
+09/04/2024 11:19:37-- ["Main"] "Ward Wrym": tour des mages GH et 25 pts oui
+09/04/2024 11:20:20-- ["Main"] "Snoop": bonsoir bonsoir , il y a t'il des guildes qui recrute un magnifique humain ? attention pas nimporte le quel ! un pretre level 28 (et demi) ne connaissant strictement rien au jeux :D. biensur j'etudi (meme ça je ne sais pas l'ecrire) toutes les propositions
+09/04/2024 11:20:39-- ["Main"] "Howard de Pern":  Tu as de l'argent?
+09/04/2024 11:20:42-- ["Main"] "Snoop": (sauf les plus salaces )
+09/04/2024 11:20:49-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 11:20:57-- {Molosba Darek}":" défi
+09/04/2024 11:20:57-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/04/2024 11:21:02-- {Molosba Darek}":" avance
+09/04/2024 11:21:02-- {Valerius}":" Voilà le classement actuel : <>Spino Raptor (9:34) <>Anoukie (9:34) <>Phillipe (9:34) <>Peter Pan (9:34) <>Morgus (9:34) <>Asheron (9:34) <>Tashi (9:34) <>Cotelette (9:41) <>Abalister (9:41) <>Herménégide Hw (10:04)
+09/04/2024 11:21:06-- {Molosba Darek}":" détails
+09/04/2024 11:21:06-- {Valerius}":" Le but est simple : lancez-vous dans l'instance sur l'île d'Arakas (AR) en mode héroïque (HM) et finissez-la le plus vite possible. Vous pouvez vous y aventurer autant de fois que souhaité. Pas de limite de nombre de personnes ou de niveau. Chaque seconde compte !
+09/04/2024 11:21:34-- ["Main"] "Sheyn Andara": 1ere regle; sur T4C c'est pas des guildes, c'est des sectes :p
+09/04/2024 11:21:50-- ["Main"] "Snoop": Plus on est de fous , mieux je me porte :D
+09/04/2024 11:22:01-- ["Main"] "Pierino": shutt
+09/04/2024 11:22:05-- ["Main"] "Theranos": Toutes les autres guildes sont des sectes, jamais la tienne
+09/04/2024 11:22:10-- ["Main"] "Sheyn Andara": c'est ca :p
+09/04/2024 11:22:15-- ["Main"] "Pierino": ca se sait mais sa se dit pas
+09/04/2024 11:22:20-- ["Main"] "Sheyn Andara": mdr
+09/04/2024 11:22:20-- ["Main"] "Snoop": j'en ai marre de me parlerà moi meme donc je cherche des gens pour parler avec moi meme mais aussi les autres :D
+09/04/2024 11:23:26-- ["Main"] "Gervaise Highwind": allo!
+09/04/2024 11:23:31-- ["Main"] "Sheyn Andara": olla!
+09/04/2024 11:23:47-- ["Main"] "Howard de Pern":  kikoo
+09/04/2024 11:24:06-- ["Main"] "Ward Wrym": 2 places disponibles pour SS à 21H30 fr , LVL 175 de préférence
+09/04/2024 11:25:03-- [Défi de Valerius] "L'instance d'Arakas en mode Héroïque la plus rapide" : <>Classement actuel : groupe de Spino Raptor (9:34), de Anoukie (9:34), de Phillipe (9:34). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+09/04/2024 11:26:36-- ["Main"] "Snoop": Donc non ? pas de recrutement ? 
+09/04/2024 11:26:51-- ["Main"] "Howard de Pern":  si
+09/04/2024 11:27:09-- ["Main"] "Howard de Pern":  est-ce que irl tu as des cheveux?
+09/04/2024 11:27:13-- ["Main"] "Gervaise Highwind": recrutement?
+09/04/2024 11:27:47-- ["Main"] "Gervaise Highwind": Le five-finger-Death-Punch!
+09/04/2024 11:27:55-- ["Main"] "Liselle": Cette question est capillotractée
+09/04/2024 11:27:58-- ["Main"] "Gervaise Highwind": et sw
+09/04/2024 11:28:11-- ["Main"] "Anoukie":  1
+09/04/2024 11:28:24-- ["Main"] "Gervaise Highwind": mope
+09/04/2024 11:28:35-- ["Main"] "Snoop": irl presque plus ! mais je pense que c'est une carence en vitamine D
+09/04/2024 11:28:59-- ["Main"] "Howard de Pern":  Nos membres ont tous des cheveux
+09/04/2024 11:29:22-- ["Main"] "Snoop": ils en vendent ? 
+09/04/2024 11:29:50-- ["Main"] "Louh Dubin": Groupe boss 20h45 cherche un dernier joueur pour être au complet, un/une intéressé/e?
+09/04/2024 11:30:54-- ["Main"] "Gervaise Highwind": les bosses?
+09/04/2024 11:30:58-- ["Main"] "Gervaise Highwind": .....
+09/04/2024 11:31:08-- ["Main"] "Gervaise Highwind": je desactive le main ..lol. dsl
+09/04/2024 11:31:12-- ["Main"] "Anoukie":  lol
+09/04/2024 11:31:30-- ["Main"] "Liselle": j'avoue, je me suis cogné aujourd'hui
+09/04/2024 11:31:40-- ["Main"] "Anor Mâle": compétition
+09/04/2024 11:33:03-- ["Main"] "Louh Dubin": Groupe boss 20h45 cherche un dernier joueur pour être au complet, un/une intéressé/e?
+09/04/2024 11:33:15-- ["Main"] "Ward Wrym": Reste une place pour le SS 21h30 FR
+09/04/2024 11:33:29-- ["Main"] "Gervaise Highwind": mon d'accord est sur le film de QT
+09/04/2024 11:33:34-- ["Main"] "Gervaise Highwind": ...mais C%$#@?%
+09/04/2024 11:33:54-- ["Main"] "Liselle": QT ?
+09/04/2024 11:34:09-- ["Vente"] "Erithaën": échange un arc court du cavalier sanctifié (MOI) contre un arc court du cavalier prismatique (VOUS)
+09/04/2024 11:34:24-- ["Main"] "Liselle": Quik Time (c'est pas un peu dépassé ça ?)
+09/04/2024 11:34:38-- Tashi vient de débarquer au campement spellshorien, sur le Draconis Sanctum !
+09/04/2024 11:34:45-- ["Main"] "Liselle": GG
+09/04/2024 11:34:47-- ["Main"] "Sheyn Andara": wooo GG
+09/04/2024 11:34:50-- ["Main"] "Anoukie": gg
+09/04/2024 11:34:55-- ["Main"] "Ruskin": gg
+09/04/2024 11:34:58-- ["Main"] "Maple": gg ;)
+09/04/2024 11:35:06-- ["Main"] "Grimsby": GG
+09/04/2024 11:35:08-- ["Main"] "Tashi": merci :)
+09/04/2024 11:36:25-- ["Main"] "Crakle Bubulle Pop": cherchon 1 joueur pour boss dans 9min !
+09/04/2024 11:38:15-- ["Main"] "Crakle Bubulle Pop": cherchon 1 joueur pour boss dans 9min !
+09/04/2024 11:40:39-- [Monstre élite du Draconis Sanctum] Né des hautes montagnes du Draconis Sanctum et réveillé par le volcan en activité, le géant Jotunn se lève et se prépare à repousser les intrus.
+09/04/2024 11:41:37-- ["Main"] "Wilhjelm, le Maître de l'Esprit": "Dorothy" vient d'abaisser les défenses de l'entrée d'"Ebon" "Hold" !
+09/04/2024 11:41:53-- ["Main"] "Freydis": Incroyable !
+09/04/2024 11:41:55-- ["Main"] "Gervaise Highwind": GG
+09/04/2024 11:42:14-- ["Main"] "Grimsby": FUll talent good gaming
+09/04/2024 11:44:05-- ["Main"] "Ward Wrym": Reste une place pour le SS 21h30 FR
+09/04/2024 11:45:07-- ["Main"] "Calderon":  hello tout le monde
+09/04/2024 11:45:23-- ["Main"] "Grimsby": hello
+09/04/2024 11:45:39-- [Monstre élite du Draconis Sanctum] Le loup géant Freki sort de sa tanière et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+09/04/2024 11:45:48-- ["Main"] "Tereshkova": Hey there.Des gens pour SH NM?
+09/04/2024 11:47:59-- ["Main"] "Ward Wrym": Cherche un archer et un dps pour des boss vers 22h40 FR
+09/04/2024 11:53:06-- ["Main"] "Poudre descampette": Bonjour a tous
+09/04/2024 11:55:31-- ["Vente"] "Brioche":  achete pierre imo
+09/04/2024 11:56:44-- ["Main"] "Arthurys Pendragon": "miracle quelqu un ma  " enfin payer un tp
+09/04/2024 11:57:12-- ["Main"] "Arthurys Pendragon": ^^
+09/04/2024 11:59:32-- ["Main"] "Tarya": du monde pour SS ?
+09/04/2024 12:00:52-- ["Main"] "Anoukie": un p'tit SS les amis 5/8, manque encore le heal aller on se motive :)
+09/04/2024 12:06:45-- ["Main"] "Arthurys Pendragon": * previens jai  fait un portail au nexus* pour les groupe ss et boss
+09/04/2024 12:07:12-- ["Main"] "Kamoulox Caesar": *^^*
+09/04/2024 12:07:27-- ["Main"] "Kamoulox Caesar": /rus +++
+09/04/2024 12:09:30-- ["Vente"] "Brioche":  gg
+09/04/2024 12:09:52-- ["Main"] "Tashi": pm
+09/04/2024 12:14:35-- {Halam}":" Bien le bonjour !
+09/04/2024 12:19:35-- ["Main"] "Anoukie": SH HM ou SS ca tente des gens ?
+09/04/2024 12:19:45-- ["Main"] "Tarya": up
+09/04/2024 12:19:50-- ["Main"] "Anor Mâle": up
+09/04/2024 12:19:52-- ["Vente"] "Brioche": re
+09/04/2024 12:20:10-- ["Vente"] "Poudre descampette": re :p
+09/04/2024 12:25:13-- {Fiorenzo}":" acheter
+09/04/2024 12:25:32-- {Halam}":" Bien le bonjour !
+09/04/2024 12:25:41-- Le saviez-vous ? <> Il est possible de {renommer} votre personnage en parlant à un PNJ, à la banque de Lighthaven, à condition de conserver les trois premières lettres.
+09/04/2024 12:26:55-- {River Khain}":" acheter
+09/04/2024 12:27:22-- {Soryu Langley}":" acheter
+09/04/2024 12:27:57-- {Soryu Langley}":" acheter
+09/04/2024 12:28:26-- ["Main"] "Sherwood": Saleté de béné on de Daimo, va !:
+09/04/2024 12:29:38-- ["Main"] "Lulia Langley": un pretre seraph pour mefiler un coup de main à la foret de non retour ?
+09/04/2024 12:29:44-- ["Main"] "Ward Wrym": Cherche un archer et un dps pour des boss 180 vers 22h40 FR
+09/04/2024 12:32:58-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+09/04/2024 12:33:16-- ["Main"] "Raspoutine": Quelqu'un veut bien m'aider et me faire faire quelques tour de SH NM ?
+09/04/2024 12:34:22-- ["Main"] "Appeau Stah": salut les amis
+09/04/2024 12:34:35-- ["Main"] "Grimsby": coucou
+09/04/2024 12:34:37-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+09/04/2024 12:37:40-- {Naëlys}":" acheter
+09/04/2024 12:37:59-- ["Main"] "Lulia Langley": un pretre seraph pour mefiler un coup de main à la foret de non retour ?
+09/04/2024 12:39:15-- ["Vente"] "Fiorenzo": Achète plastron kryte
+09/04/2024 12:41:04-- ["Main"] "Fink": J'ai fait un petit tour incognito, je vous salut, et je vous dit à demain soir pour le Quizz suivi d'une petite animation Fun
+09/04/2024 12:41:13-- ["Main"] "Pléioné": bonsoir !
+09/04/2024 12:41:17-- ["Main"] "Kamoulox Caesar": yop
+09/04/2024 12:41:25-- ["Main"] "Grimsby": Slu
+09/04/2024 12:41:31-- ["Main"] "Teppei": des interesses pour quelques tours sh nm? 
+09/04/2024 12:41:46-- ["Main"] "Fiorenzo": up shnm
+09/04/2024 12:41:46-- ["Main"] "Cyste": Dispo
+09/04/2024 12:42:00-- ["Main"] "Tartine": up
+09/04/2024 12:42:06-- ["Main"] "Gorgoth": Ah de nouveau le bug du son pas fort >>> Tu sens que les modifs apportet d'autres bugs puis d'autres modifs changent d'autres truc. Va surement falloir figer le truc à un moment donné non ?
+09/04/2024 12:42:29-- ["Main"] "Elsa Marie Henriette": Yohohoho
+09/04/2024 12:42:45-- ["Main"] "Appeau Stah": Salut Elsa 
+09/04/2024 12:42:47-- ["Main"] "Grimsby": Bonjour Mme
+09/04/2024 12:44:13-- ["Main"] "Raspoutine": SH NM 5/8 
+09/04/2024 12:47:47-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Fiorenzo, Cyste et Tartine) entre dans La Folie du Traître !
+09/04/2024 12:51:13-- ["Main"] "Arktyr de Sade": up sh nm, si sa tourne encore :)
+09/04/2024 12:52:06-- ["Main"] "Enolia": Salut :)
+09/04/2024 12:52:14-- ["Main"] "Appeau Stah": Salut Eno !
+09/04/2024 12:52:17-- ["Main"] "Calderon":  hello 
+09/04/2024 12:52:20-- ["Main"] "Fiorenzo": Salut :)
+09/04/2024 12:52:21-- ["Main"] "Anoukie": hello
+09/04/2024 12:52:29-- ["Main"] "Anorfirithien": salut
+09/04/2024 12:55:27-- ["Main"] "Enolia": LFG SS :)
+09/04/2024 12:56:02-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Tartine, Fiorenzo et Raspoutine) entre dans La Folie du Traître !
+09/04/2024 12:57:10-- ["Main"] "Pierino": vends cranes de malfrats, faire offre
+09/04/2024 12:57:26-- ["Main"] "Enolia": Pas de groupe SS? :(
+09/04/2024 12:57:31-- ["Main"] "Enolia": Des gens motivés peut etre? :)
+09/04/2024 12:57:35-- ["Vente"] "Imoën": échange arc court du cavalier lourd (moi) contre l'arc court du cavalier prismatique (vous)
+09/04/2024 12:57:54-- ["Vente"] "Erithaën": échange un arc court du cavalier sanctifié (MOI) contre un arc court du cavalier prismatique (VOUS)
+09/04/2024 12:58:23-- ["Vente"] "Imoën": je suis bon pour refaire une arca je crois !
+09/04/2024 12:58:34-- ["Vente"] "Fiorenzo": Achète plastron kryte
+09/04/2024 13:02:00-- ["Main"] "Sarge": C'est quoi le XP/h sur FS? C'est du pex solo ou de groupe?
+09/04/2024 13:02:45-- ["Main"] "Enoria": LFG SS :)
+09/04/2024 13:02:57-- ["Main"] "Enoria": Ou des gens motivés pour le faire :)
+09/04/2024 13:03:40-- ["Main"] "Poudre descampette": motivé, motivé, il faut se motiver ... lalala ....
+09/04/2024 13:03:58-- ["Main"] "Enoria": :p
+09/04/2024 13:04:21-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Fiorenzo, Cyste et Arktyr de Sade) entre dans La Folie du Traître !
+09/04/2024 13:05:02-- {Poudre descampette}":" acheter
+09/04/2024 13:06:21-- ["Main"] "Caradoc Brutal": 
+
+09/04/2024 13:13:14-- ["Main"] "Gorgoth": Bon allez je rametrop, j'peux  meme pas bouger et  j'suiss trop naze !
+09/04/2024 13:13:17-- ["Main"] "Gorgoth": Argh
+09/04/2024 13:13:53-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Cyste, Raspoutine et Arktyr de Sade) entre dans La Folie du Traître !
+09/04/2024 13:14:28-- ["Main"] "Enoria": Personne pour un petit SS de 22H30? :)
+09/04/2024 13:15:57-- ["Main"] "Gervaise Highwind": bah oui!!
+09/04/2024 13:16:25-- ["Main"] "Gervaise Highwind": t'as cbn de gensses!
+09/04/2024 13:17:12-- ["Main"] "Elsa Marie Henriette": J'crois qu'avec toi vous êtes 2 mdr
+09/04/2024 13:18:02-- ["Main"] "Gervaise Highwind": ouin........
+09/04/2024 13:19:36-- Gishnak, {Gladiateur Orque}, baigne maintenant dans son sang après avoir péri au combat.
+09/04/2024 13:20:16-- ["Main"] "Gervaise Highwind": enolia inv. Giz et willow et moua
+09/04/2024 13:20:41-- ["Main"] "Gervaise Highwind":  silv ous ^lait
+09/04/2024 13:21:53-- ["Main"] "Gervaise Highwind": invite inc
+09/04/2024 13:22:49-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Teppei, Arktyr de Sade et Raspoutine) entre dans La Folie du Traître !
+09/04/2024 13:24:41-- ["Vente"] "Habemus Papam": Achète reskin tête :)
+09/04/2024 13:24:46-- {Ilawel}":" acheter
+09/04/2024 13:25:00-- {Dalbert}":" Bonjour, Everdyne. Alors comme ça vous venez d'arriver en ville ? Oh... vous avez rencontré mon ami "Varriw" de Spellshore, le port de l'île de Grim Hawk.
+09/04/2024 13:25:02-- {Dalbert}":" Vraiment, une lettre pour moi ? Laissez-moi voir... {*lit la lettre*} Ah, je comprends mieux le motif de sa venue. Apparemment, il souhaite entrer au service de la "Baronnie".
+09/04/2024 13:25:03-- {Dalbert}":" Oui, Lighthaven est dirigée par un Baron ou une Baronne, au nom du royaume de Goldmoon dont nous sommes les vassaux... enfin, en théorie. Si vous voulez aider mon ami à se faire une place ici, je vous conseille d'aller voir "Ryla".
+09/04/2024 13:25:05-- {Dalbert}":" {Ryla} est la servante de compagnie. Allez-lui parler en mon nom, je suis ami avec elle depuis longtemps et je suis certain qu'elle saura aider Varriw à se faire une place dans notre village. Ah, j'oubliais : ne faites pas attention à son air guindé. Sortez de la taverne, suivez le chemin vers le sud jusqu'à la place du village. Ryla est dans la plus grand maison au {sud}.
+09/04/2024 13:25:40-- ["Main"] "Enoria": 2 places pour SS :)
+09/04/2024 13:27:27-- ["Main"] "Enoria": 2 last pour SS?
+09/04/2024 13:28:11-- {Ilawel}":" acheter
+09/04/2024 13:29:53-- ["Main"] "Enoria": 2 last pour un SS?
+09/04/2024 13:30:29-- ["Main"] "Gandor": ))
+09/04/2024 13:31:08-- {Oxmose}":" entrainer
+09/04/2024 13:34:20-- ["Vente"] "Fiorenzo": Achète plastron kryte
+09/04/2024 13:34:24-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Arktyr de Sade, Raspoutine et Cyste) entre dans La Folie du Traître !
+09/04/2024 13:36:13-- ["Main"] "Akira": up SS ;)
+09/04/2024 13:36:26-- ["Main"] "Enolia": full ici :/
+09/04/2024 13:37:03-- {Rivka}":" vendre
+09/04/2024 13:37:17-- {Rivka}":" vendre
+09/04/2024 13:40:15-- ["Main"] "Brioche":  up arakas hm 
+09/04/2024 13:40:54-- ["Main"] "Peter Pan": j'ai recoll
+09/04/2024 13:41:00-- ["Main"] "Peter Pan": sw
+09/04/2024 13:41:06-- ["Main"] "Valence": Up pour me faire PL en AR HM :)
+09/04/2024 13:41:27-- ["Main"] "Cyste": Pareil :)
+09/04/2024 13:42:36-- {Astradia}":" vendre
+09/04/2024 13:42:37-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Tartine, Fiorenzo et Cyste) entre dans La Folie du Traître !
+09/04/2024 13:43:28-- {Astradia}":" [ acheter ]
+09/04/2024 13:43:36-- {Astradia}":" acheter
+09/04/2024 13:50:48-- ["Main"] "Raspoutine": Teppei ! Merci pour tout ces SH NM ! 
+09/04/2024 13:56:39-- {Sailyna}":" vendre
+09/04/2024 13:57:14-- ["Vente"] "Brioche":  j'achete des pierre imomortelles merci
+09/04/2024 13:57:22-- {Sailyna}":" vendre
+09/04/2024 13:57:41-- ["Vente"] "Brioche":  Immortelles
+09/04/2024 13:57:49-- ["Vente"] "Jerika Highwind": toi je vote pour te rename ! ça m,e donne faim !
+09/04/2024 13:58:27-- ["Vente"] "Tartine": Laissez ma Brioche tranquille ! :p
+09/04/2024 13:58:30-- ["Main"] "Soryu Langley": qql de dispo pour me buffer a la rst de RD svp ?
+09/04/2024 13:58:38-- ["Vente"] "Jerika Highwind": hahaha :)
+09/04/2024 13:58:49-- ["Vente"] "Jerika Highwind": c'est un complot
+09/04/2024 13:59:13-- ["Vente"] "Brioche":  combien se vend une pierre imo?
+09/04/2024 13:59:35-- {Geena}":" Bonjour ! En quoi puis-je vous aider?
+09/04/2024 13:59:38-- {Geena}":" Allez, au revoir !
+09/04/2024 13:59:43-- ["Vente"] "Jerika Highwind": sais pas trop
+09/04/2024 13:59:55-- ["Vente"] "Brioche":  :)
+09/04/2024 14:00:15-- {Sailyna}":" acheter
+09/04/2024 14:00:35-- {Sailyna}":" vendre
+09/04/2024 14:06:31-- ["Vente"] "Brioche":  GG ! 
+09/04/2024 14:06:43-- ["Vente"] "Brioche":   achete Pierre immortelle
+09/04/2024 14:07:19-- ["Vente"] "Erithaën": échange arc court du cavalier sanctifié (MOI) contre arc court du cavalier prismatique (VOUS)
+09/04/2024 14:09:42-- ["Main"] "Red Bull": bonsoir, une instance en cour svp?
+09/04/2024 14:10:18-- You receive 23 gold pieces.
+09/04/2024 14:11:20-- ["Main"] "Wilhjelm, le Maître de l'Esprit": "Red Bull" vient d'abaisser les défenses de l'entrée d'"Ebon" "Hold" !
+09/04/2024 14:11:28-- ["Main"] "Raspoutine": Incroyable !
+09/04/2024 14:11:29-- ["Main"] "Grimsby": gg
+09/04/2024 14:11:30-- ["Main"] "Calderon":  gg
+09/04/2024 14:11:32-- ["Main"] "Brioche":  gg
+09/04/2024 14:11:34-- ["Main"] "Leykarr": gg
+09/04/2024 14:11:40-- ["Main"] "Red Bull": merci
+09/04/2024 14:11:41-- ["Main"] "Enolia": gg
+09/04/2024 14:15:32-- ["Vente"] "Red Bull": echange cape hvedrung glaciale (moi) vs la cape hvedrung resistante (vous)
+09/04/2024 14:17:50-- {Brioche}":" acheter
+09/04/2024 14:21:24-- {Harm Ure}":" acceder
+09/04/2024 14:21:55-- ["Vente"] "Snow Savage": J'achete Fétiche de Vitalité
+09/04/2024 14:25:03-- [Défi de Valerius] "L'instance d'Arakas en mode Héroïque la plus rapide" : <>Classement actuel : groupe de Spino Raptor (9:34), de Anoukie (9:34), de Phillipe (9:34). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+09/04/2024 14:25:48-- Le saviez-vous ? <> Vous voulez jouer un tavernier ? Un barde ? Un samaritain ? Si l'équipe T4C Neerya remarque vos efforts dans votre jeu de rôle, il se peut qu'elle ajoute des éléments pour accroître votre immersion.
+09/04/2024 14:31:23-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 14:31:31-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/04/2024 14:32:00-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 14:32:03-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/04/2024 14:33:15-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 14:33:17-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/04/2024 14:33:27-- {Valerius}":" A la revoyure, graine de champion !
+09/04/2024 14:33:34-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 14:33:55-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/04/2024 14:34:54-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 14:36:14-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 14:36:27-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+09/04/2024 14:39:26-- You are too far !
+09/04/2024 14:39:28-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 14:39:53-- ["Vente"] "Fiorenzo": Achète plastron kryte
+09/04/2024 14:40:04-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 14:41:43-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 14:42:13-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 14:42:31-- {Valerius}":" Voilà le classement actuel : <>Spino Raptor (9:34) <>Anoukie (9:34) <>Phillipe (9:34) <>Peter Pan (9:34) <>Morgus (9:34) <>Asheron (9:34) <>Tashi (9:34) <>Cotelette (9:41) <>Abalister (9:41) <>Herménégide Hw (10:04)
+09/04/2024 14:42:34-- {Valerius}":" A la revoyure, graine de champion !
+09/04/2024 14:42:36-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+09/04/2024 14:42:44-- {Valerius}":" Ce mois-ci, le grand défi est '{L'instance d'Arakas en mode Héroïque la plus rapide}' pour encore 27 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".

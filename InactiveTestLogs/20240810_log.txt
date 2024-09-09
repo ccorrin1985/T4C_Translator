@@ -1,0 +1,609 @@
+08/10/2024 17:09:01-- ["Main"] "Asheron": normal que je ne puisse pas prendre de portail vers BG ?
+08/10/2024 17:09:12-- {Himinbjörg}":" vendre
+08/10/2024 17:09:25-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 17:09:25-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 17:09:32-- ["Main"] "Maika Andara": dabord payer a l'oasis chez boualem
+08/10/2024 17:09:35-- ["Main"] "Maika Andara": sa debloque le portail
+08/10/2024 17:09:37-- {Markam}":" I wish these damned guards would go away. Lord Kirlor doesn't show it, but he's really disturbed by their presence.
+08/10/2024 17:09:39-- {Markam}":" Until we meet again.
+08/10/2024 17:09:40-- ["Main"] "Asheron":  ok ty
+08/10/2024 17:09:47-- {Wellan}":" Dépêchez vous, il doit s'impatienter !
+08/10/2024 17:09:49-- {Wellan}":" Au revoir, à très bientôt.
+08/10/2024 17:11:02-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 17:11:08-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 17:11:08-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 17:11:20-- ["Vente"] "Ynem Wapasir": Achète Fiole d'eau chargée Draconique ou Échange contre autre compo.
+08/10/2024 17:12:13-- {Rivka}":" [ vendre ]
+08/10/2024 17:12:17-- {Rivka}":" vendre
+08/10/2024 17:12:25-- ["Main"] "Lifeline": yop yop ici
+08/10/2024 17:12:30-- ["Main"] "Rivka": Coucou
+08/10/2024 17:12:33-- ["Main"] "Ynem Wapasir": yop
+08/10/2024 17:12:37-- {Rivka}":" vendre
+08/10/2024 17:12:59-- ["Main"] "Lifeline":  J'ai 5 invocs que je peux faire si il y a du monde down
+08/10/2024 17:13:39-- ["Main"] "Enolia": Bonne nuit a tous :)
+08/10/2024 17:13:44-- ["Main"] "Lifeline": ++
+08/10/2024 17:13:44-- ["Main"] "Piemur De Pern":  Bonne nuit !
+08/10/2024 17:14:50-- ["Main"] "Jacques Drilles": fer
+08/10/2024 17:15:00-- ["Main"] "Astaroth Asgard": les ombres faut tapper avec repousser mv ou eboulement en pretre?
+08/10/2024 17:15:10-- ["Main"] "Lifeline": je els tue avec repousse
+08/10/2024 17:15:21-- ["Main"] "Astaroth Asgard": oki merci :)
+08/10/2024 17:15:24-- ["Main"] "Lifeline": dr
+08/10/2024 17:15:35-- ["Vente"] "Naura Andara": Achete jambiere centaure me mp :)
+08/10/2024 17:15:41-- ["Main"] "Lifeline": je suis pretresse lulu donc xD pas terre parcontre 
+08/10/2024 17:16:17-- {Lighthaven Samaritan}":" Hello. Welcome to Lighthaven. Do you have any questions "?"
+08/10/2024 17:16:21-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 17:16:21-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 17:16:34-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 17:16:34-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 17:16:35-- ["Main"] "Astaroth Asgard":  moi j'ai + lum que terre 
+08/10/2024 17:16:41-- ["Main"] "Lifeline":  good !
+08/10/2024 17:16:56-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 17:16:59-- {Gerry}":" [ merci man ]
+08/10/2024 17:17:02-- {Tanjeh Rhynn}":" [ Merci ]
+08/10/2024 17:17:08-- {Jed petit pretre}":" [ dr ]
+08/10/2024 17:17:39-- ["Main"] "Lifeline": personne de downw pour quelques minis j'ai 5 invocs au cas on ait 2
+08/10/2024 17:18:04-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 17:18:23-- ["Main"] "Astaroth Asgard": c mort trop dur pour moi tt seul lol
+08/10/2024 17:18:30-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 17:18:35-- {Lighthaven Samaritan}":" Hello. Welcome to Lighthaven. Do you have any questions "?"
+08/10/2024 17:18:38-- ["Main"] "Lifeline": les faucheurs tu veux faire quoi la bas?
+08/10/2024 17:18:44-- ["Main"] "Xaen": faut juste esquiver le fantome
+08/10/2024 17:18:59-- ["Main"] "Astaroth Asgard": il m'ont enchevetré lol 
+08/10/2024 17:19:00-- ["Main"] "Xaen": les ombres ça se pex lvl 50
+08/10/2024 17:19:12-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 17:19:17-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/10/2024 17:19:17-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/10/2024 17:19:24-- ["Main"] "Lifeline": j'peux t'aider à traverser s'il le faut
+08/10/2024 17:19:25-- You are too far !
+08/10/2024 17:19:25-- ["Main"] "Astaroth Asgard": j'ai pas passé la 1ère salle  hihi
+08/10/2024 17:19:55-- ["Main"] "Astaroth Asgard": je dois tuer des ombres pour avoir un parchemin elfique
+08/10/2024 17:19:59-- You are too far !
+08/10/2024 17:20:03-- You are too far !
+08/10/2024 17:20:06-- You are too far !
+08/10/2024 17:20:35-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 17:20:42-- You are too far !
+08/10/2024 17:22:21-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 17:22:21-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 17:22:24-- You are too far !
+08/10/2024 17:22:34-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 17:23:33-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 17:23:35-- You are too far !
+08/10/2024 17:23:36-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 17:24:07-- You said: hi
+08/10/2024 17:24:07-- {Kilhiam}":" I cannot help you with this.
+08/10/2024 17:25:40-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 17:25:45-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 17:25:49-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 17:26:03-- You are too far !
+08/10/2024 17:28:19-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 17:28:22-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 17:28:36-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 17:28:40-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/10/2024 17:28:40-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/10/2024 17:29:44-- You are too far !
+08/10/2024 17:30:34-- You are too far !
+08/10/2024 17:30:51-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 17:30:55-- You are too far !
+08/10/2024 17:30:57-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 17:31:15-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/10/2024 17:31:15-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/10/2024 17:31:18-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 17:31:45-- ["Main"] "Rivka": Cool, j'ai pogner un arc os du desert avec les 10 coeurs :D
+08/10/2024 17:31:50-- ["Main"] "Lifeline": gg
+08/10/2024 17:32:00-- ["Main"] "Piemur De Pern":  Pogner tu viens d'où toi ?.
+08/10/2024 17:32:06-- ["Main"] "Rivka": AHAHAH
+08/10/2024 17:32:12-- ["Main"] "Lifeline": québécois ça on dirait
+08/10/2024 17:32:18-- ["Main"] "Vénérothe": J'ai 100 yeux de tarentule lol
+08/10/2024 17:32:18-- ["Main"] "Piemur De Pern":  ah oui :)
+08/10/2024 17:32:25-- ["Main"] "Rivka": Secret proffessionneelll
+08/10/2024 17:32:32-- ["Main"] "Lifeline": lol
+08/10/2024 17:32:44-- {Rivka}":" vendre
+08/10/2024 17:32:55-- {Rivka}":" vendre
+08/10/2024 17:33:16-- {Rivka}":" vendre
+08/10/2024 17:33:29-- ["Main"] "Valhalla": Tyran tes la ?
+08/10/2024 17:34:04-- ["Main"] "Lifeline": il doit etre deco je ne le vois pas connecter xD
+08/10/2024 17:34:08-- {Himinbjörg}":" vendre
+08/10/2024 17:34:22-- {Himinbjörg}":" adieu
+08/10/2024 17:34:32-- ["Main"] "Valhalla": Dommage il avait l'Arc a vendre que je cherchais 
+08/10/2024 17:34:40-- ["Main"] "Vénérothe": Ca veux qui quoi en faite xD ?
+08/10/2024 17:34:52-- ["Main"] "Lifeline": ok ok ilva surement se reconnecte a mommentodnner
+08/10/2024 17:35:05-- {Himinbjörg}":" vendre
+08/10/2024 17:35:12-- {Himinbjörg}":" adieu
+08/10/2024 17:35:30-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 17:35:38-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 17:35:43-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 17:35:47-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 17:35:51-- You are too far !
+08/10/2024 17:36:02-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 17:38:21-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/10/2024 17:38:43-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+08/10/2024 17:39:10-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 17:39:39-- ["Main"] "El Brutos": gg kaladin
+08/10/2024 17:41:31-- You are too far !
+08/10/2024 17:41:34-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 17:43:14-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/10/2024 17:43:15-- You are too far !
+08/10/2024 17:43:26-- You are too far !
+08/10/2024 17:43:48-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 17:43:50-- You are too far !
+08/10/2024 17:43:57-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 17:44:01-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 17:45:24-- You are too far !
+08/10/2024 17:45:26-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/10/2024 17:45:26-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/10/2024 17:45:29-- You are too far !
+08/10/2024 17:45:39-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 17:45:49-- ["Main"] "Astaroth Asgard": t'a tt liquider :p)
+08/10/2024 17:45:54-- ["Main"] "Astaroth Asgard": oups
+08/10/2024 17:46:14-- You are too far !
+08/10/2024 17:46:17-- You are too far !
+08/10/2024 17:47:12-- ["Main"] "Lifeline":  les quartiers nord ont été ouvert récement?
+08/10/2024 17:47:29-- You are too far !
+08/10/2024 17:47:29-- You are too far !
+08/10/2024 17:47:30-- You are too far !
+08/10/2024 17:47:31-- You are too far !
+08/10/2024 17:47:32-- You are too far !
+08/10/2024 17:47:32-- You are too far !
+08/10/2024 17:48:01-- {Tanjeh Rhynn}":" acheter
+08/10/2024 17:48:13-- {Tanjeh Rhynn}":" acheter
+08/10/2024 17:50:29-- You are too far !
+08/10/2024 17:50:45-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/10/2024 17:50:45-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/10/2024 17:50:54-- You are too far !
+08/10/2024 17:51:49-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/10/2024 17:51:49-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/10/2024 17:51:53-- You are too far !
+08/10/2024 17:51:59-- You are too far !
+08/10/2024 17:52:00-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 17:54:54-- L'accès à l'{aile Nord d'Anwynn} est ouvert pendant une heure.
+08/10/2024 17:55:43-- You are too far !
+08/10/2024 17:55:47-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 17:56:09-- ["Main"] "Thorak": Bonne nuit tous le monde
+08/10/2024 17:56:13-- ["Main"] "Lifeline": bn8
+08/10/2024 17:59:27-- Le saviez-vous ? <> Il existe des {familiers} sur Neerya. Acquis en récompense lors d'une animation ou en les achetant dans un repaire de faction, ils vous suivront partout !
+08/10/2024 17:59:42-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:02:46-- You said: test1
+08/10/2024 18:02:46-- {Moonrock}":" Perhaps Artherk would know about this.
+08/10/2024 18:03:07-- You said: test2
+08/10/2024 18:03:37-- ["Vente"] "Ynem Wapasir": Achète Fiole d'eau chargée Draconique ou Échange contre autre compo.
+08/10/2024 18:04:58-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:05:01-- You are too far !
+08/10/2024 18:05:03-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:05:06-- You are too far !
+08/10/2024 18:05:08-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 18:05:53-- You are too far !
+08/10/2024 18:05:58-- You are too far !
+08/10/2024 18:05:59-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 18:06:03-- You are too far !
+08/10/2024 18:06:21-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:06:47-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:07:52-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:07:56-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 18:08:05-- You are too far !
+08/10/2024 18:08:14-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 18:09:22-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:09:24-- You are too far !
+08/10/2024 18:10:00-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:12:10-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:12:13-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 18:12:15-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:12:25-- You are too far !
+08/10/2024 18:12:28-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 18:12:28-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 18:13:12-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Margah Rhynn, Morag et Tanjeh Rhynn) entre dans La Folie du Traître !
+08/10/2024 18:13:40-- {Severstein}":" oui
+08/10/2024 18:13:42-- {Severstein}":" tâche
+08/10/2024 18:14:43-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 18:14:50-- {Lighthaven Samaritan}":" Hello. Welcome to Lighthaven. Do you have any questions "?"
+08/10/2024 18:15:48-- ["Main"] "Tekk": Une petite place pour un bébé archer au SH NM ?
+08/10/2024 18:18:25-- {Morgus}":" acheter
+08/10/2024 18:18:25-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 18:18:25-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 18:18:31-- {Lighthaven Samaritan}":" Hello. Welcome to Lighthaven. Do you have any questions "?"
+08/10/2024 18:18:41-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 18:18:46-- You are too far !
+08/10/2024 18:18:49-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Margah Rhynn, Morag et Tekk) entre dans La Folie du Traître !
+08/10/2024 18:19:16-- You are too far !
+08/10/2024 18:19:16-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:19:24-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:19:28-- You are too far !
+08/10/2024 18:19:30-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 18:20:50-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:20:54-- You are too far !
+08/10/2024 18:21:01-- {Severstein}":" oui
+08/10/2024 18:21:02-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 18:21:02-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 18:21:03-- {Severstein}":" tâche
+08/10/2024 18:24:01-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/10/2024 18:24:08-- {Heruhur}":" parchemin necromantique
+08/10/2024 18:24:08-- {Araknor}":" Vous avez besoin de Parchemins Nécromantiques? Hmm, je pense que je peux vous en vendre. Je n'en ai pas pour l'instant, dons laissez moi le temps d'en confectionner quelques-uns. Je dois vous avertir qu'un parchemin ne vous coûtera pas moins de 10 000 pièces d'or. Êtes-vous toujours intéressé?
+08/10/2024 18:24:12-- {Heruhur}":" oui
+08/10/2024 18:24:12-- {Araknor}":" Très bien, je vais m'y mettre tout de suite. Maintenant, dites-moi, combien de parchemins voulez-vous?
+08/10/2024 18:24:19-- {Heruhur}":" 4
+08/10/2024 18:24:19-- {Araknor}":" Bien. J'estime que la création de chaque parchemin va me prendre environ 5 minutes.
+08/10/2024 18:24:30-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Tekk, Margah Rhynn et Morag) entre dans La Folie du Traître !
+08/10/2024 18:26:47-- ["Vente"] "Valhalla": J'achete long des étoiles ou sinon arca pour AIR
+08/10/2024 18:30:19-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 18:30:25-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 18:31:00-- You are too far !
+08/10/2024 18:31:01-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Tanjeh Rhynn, Tekk et Margah Rhynn) entre dans La Folie du Traître !
+08/10/2024 18:31:05-- You are too far !
+08/10/2024 18:31:06-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 18:31:06-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 18:32:07-- {Severstein}":" <oui
+08/10/2024 18:32:10-- {Severstein}":" oui
+08/10/2024 18:32:11-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/10/2024 18:32:13-- {Himinbjörg}":" apprendre
+08/10/2024 18:32:13-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/10/2024 18:32:15-- {Kilhiam}":" Voulez-vous l'apprendre maintenant ?
+08/10/2024 18:32:17-- {Himinbjörg}":" oui
+08/10/2024 18:32:52-- {Himinbjörg}":" tache
+08/10/2024 18:32:54-- {Himinbjörg}":" oui
+08/10/2024 18:32:58-- {Himinbjörg}":" tache
+08/10/2024 18:33:00-- {Himinbjörg}":" adieu
+08/10/2024 18:34:06-- ["Main"] "Valhalla": Petite question La nordique en laine doie ton porter tout les parties pour avoir le bonus ou je peux porter une autre robe ?
+08/10/2024 18:34:24-- ["Main"] "Severstein": c'est meilleure quand tu as toute 
+08/10/2024 18:34:58-- {Himinbjörg}":" apprendre
+08/10/2024 18:35:45-- ["Main"] "Valhalla": Ok ok parce que je voie que le chest donne que +17 ca et ma robe donne +30
+08/10/2024 18:36:12-- ["Main"] "Severstein": ah that wierd
+08/10/2024 18:36:16-- ["Main"] "Valhalla": Oui 
+08/10/2024 18:36:26-- ["Main"] "Severstein": cela se peut qu'il ait une erreur xD
+08/10/2024 18:36:28-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Morag, Tanjeh Rhynn et Tekk) entre dans La Folie du Traître !
+08/10/2024 18:36:30-- ["Main"] "Piemur De Pern":  Quand tu portes toutes le sparties tu as un bonus additionnel
+08/10/2024 18:36:35-- ["Main"] "Valhalla": Robe d'eos parfaite donne +30 et la laine donne +17
+08/10/2024 18:36:40-- ["Main"] "Valhalla": Ok ok merci 
+08/10/2024 18:37:08-- {Porteur de potion}":" tache
+08/10/2024 18:37:11-- {Porteur de potion}":" oui
+08/10/2024 18:37:13-- {Porteur de potion}":" tache
+08/10/2024 18:41:03-- {Himinbjörg}":" tache
+08/10/2024 18:41:04-- {Himinbjörg}":" oui
+08/10/2024 18:41:06-- {Himinbjörg}":" tache
+08/10/2024 18:41:12-- {Himinbjörg}":" oui
+08/10/2024 18:41:17-- {Himinbjörg}":" adieu
+08/10/2024 18:42:32-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Tanjeh Rhynn, Morag et Tekk) entre dans La Folie du Traître !
+08/10/2024 18:45:41-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 18:45:41-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 18:46:03-- [Invasions] Alors que vous passez à proximité d'un crieur de rue, celui-ci vous fait signe de venir : vous devriez écouter ce qu'il a à vous dire.
+08/10/2024 18:47:08-- {Severstein}":" entrainer
+08/10/2024 18:49:13-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Morag, Margah Rhynn et Tekk) entre dans La Folie du Traître !
+08/10/2024 18:49:44-- {Araknor}":" Oui c'est exact, j'ai fini ! Voici ce que vous aviez demandé.
+08/10/2024 18:51:55-- ["Main"] "Severstein":  la tablette de pierre runique c,esty 700 theo deja?
+08/10/2024 18:52:11-- ["Main"] "Severstein":  Je suiis noob désolé xD
+08/10/2024 18:52:29-- ["Main"] "Valhalla": Je suis pas sur va voir ile boutique
+08/10/2024 18:52:41-- ["Main"] "Severstein":  ma aller voir cela bientot merci
+08/10/2024 18:52:49-- ["Main"] "Celestine": 700 oui
+08/10/2024 18:52:52-- ["Main"] "Valhalla": Mais je crois que ses 700 oui
+08/10/2024 18:52:58-- ["Main"] "Severstein": Good c,est ^a que je pensais merci
+08/10/2024 18:55:12-- ["Main"] "Mage Magi": 2250 theo cela vaut cb environ en argent?
+08/10/2024 18:55:30-- ["Main"] "Piemur De Pern":  ca dépend du cours de l'argent
+08/10/2024 18:55:32-- ["Main"] "Valhalla": sa vaut plus grand choses
+08/10/2024 18:55:42-- ["Main"] "Phoebe Halliwell": cb 24 euro par pay pal 
+08/10/2024 18:55:43-- ["Main"] "Valhalla": 15-25m
+08/10/2024 18:55:43-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Morag, Tekk et Margah Rhynn) entre dans La Folie du Traître !
+08/10/2024 18:55:47-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/10/2024 18:55:48-- {Kilhiam}":" Les gens d'ici sont aimables. Si vous voulez connaître le "nom" d'une personne, vous n'avez qu'à le lui demander. C'est la même chose pour leur "travail". La plupart d'entre eux vous le diront sans protester.
+08/10/2024 18:55:49-- ["Main"] "Valhalla": 15-20m
+08/10/2024 18:55:56-- ["Main"] "Mage Magi":  ma acheter les theo ig a place xD
+08/10/2024 18:55:59-- ["Main"] "Mage Magi":  good good
+08/10/2024 18:58:49-- {Elva Chou}":" [ deso mon bot a failli crever haha ]
+08/10/2024 18:58:53-- {Elva Chou}":" [ j l avais oublie sur le spot ]
+08/10/2024 18:59:12-- {Elva Chou}":" [ hehe nice ]
+08/10/2024 18:59:16-- {Elva Chou}":" [ xD ]
+08/10/2024 19:00:33-- ["Vente"] "Saga Wind": Qqun vendrait des bottes HE ?
+08/10/2024 19:00:59-- ["Vente"] "Piemur De Pern": Faut whisper Mkrsh P'Tangh
+08/10/2024 19:04:53-- {Porteur de potion}":" oui
+08/10/2024 19:08:19-- ["Main"] "Tekk": Bonne nuit a tous
+08/10/2024 19:10:00-- {Porteur de potion}":" tache
+08/10/2024 19:10:01-- {Porteur de potion}":" tache
+08/10/2024 19:10:04-- {Porteur de potion}":" oui
+08/10/2024 19:10:05-- {Porteur de potion}":" tache
+08/10/2024 19:10:35-- {Tanjeh Rhynn}":" entrainer
+08/10/2024 19:11:27-- {Morgus}":" [ :) ]
+08/10/2024 19:12:22-- ["Main"] "Yvan Dérenai <> {Boutique : renaissance}": Félicitations à {Sieverstein} pour sa première renaissance !
+08/10/2024 19:12:31-- ["Main"] "Elva": Solide !
+08/10/2024 19:12:36-- ["Main"] "Sieverstein": paye to win 
+08/10/2024 19:12:38-- ["Main"] "Sieverstein": thank
+08/10/2024 19:12:49-- ["Main"] "Elva": Ca aide le serveur! Merci a toi =)
+08/10/2024 19:12:53-- ["Main"] "Sieverstein": plaisier
+08/10/2024 19:13:03-- ["Main"] "Piemur De Pern":  GG
+08/10/2024 19:13:15-- ["Main"] "Sieverstein": too easy ! thank you very much
+08/10/2024 19:14:34-- ["Main"] "Piemur De Pern":  Ca sert à quelque chose liqueur de llimon?
+08/10/2024 19:15:05-- {Sieverstein}":" tâche
+08/10/2024 19:16:22-- {Margah Rhynn}":" entrainer
+08/10/2024 19:20:43-- {Sieverstein}":" tâche
+08/10/2024 19:20:54-- {Sieverstein}":" oui
+08/10/2024 19:20:56-- {Sieverstein}":" tâche
+08/10/2024 19:21:02-- {Sofian}":" *Pleure* Sniff.. snifff... Ma maison.. Mais pourquoi ma "maison" ?!
+08/10/2024 19:21:03-- {Sofian}":" Ils m'ont tout pris, "pillé" et brûlé ma maison... Regardez moi ça ! Un vrai désastre !! Ce n'est sûrement pas le Bourgmestre qui va m'aider à reconstruire cette maison...
+08/10/2024 19:21:04-- {Sofian}":" Il s’agit de la "guilde de l'ombre", ce sont des bandits ! Des malfaiteurs ! Des voleurs !
+08/10/2024 19:21:04-- {Sofian}":" Un jour lorsque j'allais à "Windhowl", ils m'ont attaqué et m'ont assuré qu’ils ne me tueraient pas si je leurs amenais un sac de blé toute les semaines. Chose que j'ai faite pendant plusieurs lunes... Jusqu'au jour où ils ont changé d'avis...
+08/10/2024 19:21:05-- {Sofian}":" Oui, ils ont un campement sur le chemin en direction de Windhowl. "Ils" ne sont jamais seuls, ils agissent toujours en bande.
+08/10/2024 19:21:08-- {Sofian}":" Le blé ne les intéressait plus.. Sans doute en avaient t'ils assez, et puis ... que vaut de la nourriture face à des pièces d'or ? L'"argent" est tellement important.
+08/10/2024 19:21:10-- {Sofian}":" Malheureusement, je n'ai pu assouvir leurs désirs.. L’argent que je gagne m'"aide" tout juste à me nourrir et payer ma maison. La vie est très chère a Lighthaven vous savez.. Surtout depuis que la ville a retrouvé son havre de paix.
+08/10/2024 19:21:10-- {Sofian}":" Pardon... ? Vous êtes sûr de vouloir m'aider "?"
+08/10/2024 19:21:13-- {Morgus}":" oui
+08/10/2024 19:21:13-- {Sofian}":" Eh bien, c'est très aimable de votre part mais... vous n'avez rien à y gagner en me proposant votre aide. Et donner une "correction" aux brigands ne servirait pas à grand chose...
+08/10/2024 19:21:14-- {Sofian}":" En effet la ville va maintenant prendre de meilleures mesures de sécurité... ils ne risquent pas de revenir, mais sortir sera très dangereux pour moi de même que pour vous si vous alliez leurs rendre une petite "visite" !
+08/10/2024 19:21:15-- {Sofian}":" C'est comme vous voulez ! Mais faites très attention leurs chef est extrêmement habile à l'épée ! Je vais vous "indiquer" ou se trouve exactement l'endroit où je m'étais fait interpeller.
+08/10/2024 19:21:16-- {Sofian}":" Vous devez sans doute connaître le camp gobelin ? Une fois arrivé là-bas, empruntez le chemin en direction du sud. Vous arriverez à une intersection, continuez toujours dans la même direction. Si vous avez bien suivi mes conseils vous verrez une étendue d'eau, à l'est de celle-ci il y a un gros rocher c'est ici que je me suis fait {avoir}...
+08/10/2024 19:23:31-- {Saga Wind}":" apprendre
+08/10/2024 19:23:34-- {Saga Wind}":" adieu
+08/10/2024 19:23:40-- {Saga Wind}":" apprendre
+08/10/2024 19:23:47-- {Saga Wind}":" entrainer
+08/10/2024 19:23:50-- {Saga Wind}":" entrainer
+08/10/2024 19:25:52-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/10/2024 19:25:53-- {Kilhiam}":" Les gens d'ici sont aimables. Si vous voulez connaître le "nom" d'une personne, vous n'avez qu'à le lui demander. C'est la même chose pour leur "travail". La plupart d'entre eux vous le diront sans protester.
+08/10/2024 19:25:57-- {Sieverstein}":" apprendre
+08/10/2024 19:25:57-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/10/2024 19:25:59-- {Sieverstein}":" lumiere
+08/10/2024 19:25:59-- {Kilhiam}":" Voulez-vous l'apprendre maintenant ?
+08/10/2024 19:26:00-- {Sieverstein}":" oui
+08/10/2024 19:26:04-- {Kilhiam}":" Adieu, mon ami.
+08/10/2024 19:26:54-- {Sofian}":" Hum, je vous conseille d'aller voir maintenant du côté du campement brigands près de LightHaven. Je ne vous en dirai pas davantage !
+08/10/2024 19:28:55-- {Porteur de potion}":" entrainer
+08/10/2024 19:29:22-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/10/2024 19:29:27-- {Porteur de potion}":" apprendre
+08/10/2024 19:29:27-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/10/2024 19:29:29-- {Porteur de potion}":" oui
+08/10/2024 19:29:39-- {Porteur de potion}":" [ apprendre ]
+08/10/2024 19:29:52-- {Porteur de potion}":" apprendre
+08/10/2024 19:30:01-- {Porteur de potion}":" apprendre
+08/10/2024 19:31:13-- {Vénérothe}":" entrainer
+08/10/2024 19:31:45-- {Vénérothe}":" entrainer
+08/10/2024 19:32:10-- {Sieverstein}":" apprendre
+08/10/2024 19:34:04-- {Sofian}":" Ah ! Vous êtes de retour ! Ca me soulage de vous voir encore en vie. Quoi ?! Vous avez combattu leur chef ? Mais vous êtes dingue "?!"
+08/10/2024 19:34:09-- {Sofian}":" A bientôt !
+08/10/2024 19:34:09-- {Sofian}":" Ah ! Vous êtes de retour ! Ca me soulage de vous voir encore en vie. Quoi ?! Vous avez combattu leur chef ? Mais vous êtes dingue "?!"
+08/10/2024 19:34:10-- {Sofian}":" A bientôt !
+08/10/2024 19:34:23-- {Sofian}":" Ah ! Vous êtes de retour ! Ca me soulage de vous voir encore en vie. Quoi ?! Vous avez combattu leur chef ? Mais vous êtes dingue "?!"
+08/10/2024 19:34:23-- {Morgus}":" oui
+08/10/2024 19:34:23-- {Sofian}":" Grâce à votre acte très courageux je vais très certainement pouvoir reconstruire ma maison. Je n'ai malheureusement qu'une modeste récompense pour vous ! Je m'en vais de ce pas acheter quelques bûches au marché ! A très bientôt.
+08/10/2024 19:34:25-- {Sofian}":" A bientôt !
+08/10/2024 19:34:28-- {Sieverstein}":" acheter
+08/10/2024 19:50:35-- {Sieverstein}":" acheter
+08/10/2024 19:52:32-- {Sieverstein}":" [ thank you :) ]
+08/10/2024 19:52:37-- {Jed petit pretre}":" [ np ]
+08/10/2024 19:52:40-- {Sieverstein}":" [ ;) ]
+08/10/2024 19:56:35-- ["Main"] "Pedro Gomez": Bonsoir, savez vous si il existe un ,moyen de sauter le tutoriel?
+08/10/2024 19:56:45-- ["Main"] "Sieverstein":  lu et approuvé
+08/10/2024 19:56:48-- ["Main"] "Sieverstein":  et abandon apres
+08/10/2024 19:56:54-- ["Main"] "Pedro Gomez": ah ok merci!
+08/10/2024 19:57:02-- ["Main"] "Sieverstein":  de rien je l'ai fait il y a 1h xd
+08/10/2024 19:57:19-- ["Main"] "Pedro Gomez": haha :)
+08/10/2024 19:57:26-- ["Main"] "Sieverstein":  ;) je suis noob aussi tkt 
+08/10/2024 19:58:16-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/10/2024 19:59:31-- Le saviez-vous ? <> Votre personnage se fatigue en arpentant en long et en large les différentes parties de l'île de Grim Hawk ? Parlez au {marchand de votre faction}, il vous proposera des articles intéressants.
+08/10/2024 20:01:47-- {Sofian}":" *Pleure* Sniff.. snifff... Ma maison.. Mais pourquoi ma "maison" ?!
+08/10/2024 20:01:48-- {Sofian}":" Ils m'ont tout pris, "pillé" et brûlé ma maison... Regardez moi ça ! Un vrai désastre !! Ce n'est sûrement pas le Bourgmestre qui va m'aider à reconstruire cette maison...
+08/10/2024 20:01:49-- {Sofian}":" Il s’agit de la "guilde de l'ombre", ce sont des bandits ! Des malfaiteurs ! Des voleurs !
+08/10/2024 20:01:50-- {Sofian}":" Un jour lorsque j'allais à "Windhowl", ils m'ont attaqué et m'ont assuré qu’ils ne me tueraient pas si je leurs amenais un sac de blé toute les semaines. Chose que j'ai faite pendant plusieurs lunes... Jusqu'au jour où ils ont changé d'avis...
+08/10/2024 20:01:52-- {Sofian}":" Oui, ils ont un campement sur le chemin en direction de Windhowl. "Ils" ne sont jamais seuls, ils agissent toujours en bande.
+08/10/2024 20:01:53-- {Sofian}":" Le blé ne les intéressait plus.. Sans doute en avaient t'ils assez, et puis ... que vaut de la nourriture face à des pièces d'or ? L'"argent" est tellement important.
+08/10/2024 20:01:53-- {Sofian}":" Malheureusement, je n'ai pu assouvir leurs désirs.. L’argent que je gagne m'"aide" tout juste à me nourrir et payer ma maison. La vie est très chère a Lighthaven vous savez.. Surtout depuis que la ville a retrouvé son havre de paix.
+08/10/2024 20:01:54-- {Sofian}":" Pardon... ? Vous êtes sûr de vouloir m'aider "?"
+08/10/2024 20:01:56-- {Sofian}":" Eh bien, c'est très aimable de votre part mais... vous n'avez rien à y gagner en me proposant votre aide. Et donner une "correction" aux brigands ne servirait pas à grand chose...
+08/10/2024 20:01:57-- {Sofian}":" En effet la ville va maintenant prendre de meilleures mesures de sécurité... ils ne risquent pas de revenir, mais sortir sera très dangereux pour moi de même que pour vous si vous alliez leurs rendre une petite "visite" !
+08/10/2024 20:01:59-- {Sofian}":" C'est comme vous voulez ! Mais faites très attention leurs chef est extrêmement habile à l'épée ! Je vais vous "indiquer" ou se trouve exactement l'endroit où je m'étais fait interpeller.
+08/10/2024 20:02:00-- {Sofian}":" Vous devez sans doute connaître le camp gobelin ? Une fois arrivé là-bas, empruntez le chemin en direction du sud. Vous arriverez à une intersection, continuez toujours dans la même direction. Si vous avez bien suivi mes conseils vous verrez une étendue d'eau, à l'est de celle-ci il y a un gros rocher c'est ici que je me suis fait {avoir}...
+08/10/2024 20:12:00-- {Sofian}":" Hum, je vous conseille d'aller voir maintenant du côté du campement brigands près de LightHaven. Je ne vous en dirai pas davantage !
+08/10/2024 20:14:10-- {Vanillette}":" acheter
+08/10/2024 20:15:26-- Système : le serveur s'arrêtera dans 20 minute(s) (message automatique).
+08/10/2024 20:16:38-- {Sofian}":" Ah ! Vous êtes de retour ! Ca me soulage de vous voir encore en vie. Quoi ?! Vous avez combattu leur chef ? Mais vous êtes dingue "?!"
+08/10/2024 20:16:41-- {Darth Nihilus}":" oui
+08/10/2024 20:16:41-- {Sofian}":" Grâce à votre acte très courageux je vais très certainement pouvoir reconstruire ma maison. Je n'ai malheureusement qu'une modeste récompense pour vous ! Je m'en vais de ce pas acheter quelques bûches au marché ! A très bientôt.
+08/10/2024 20:20:26-- Système : le serveur s'arrêtera dans 15 minute(s) (message automatique).
+08/10/2024 20:20:51-- ["Main"] "Vanillette": il s arrete longtemps ou juste redemarre ?
+08/10/2024 20:20:57-- ["Main"] "Sieverstein":  reboot
+08/10/2024 20:21:02-- ["Main"] "Vanillette": ok
+08/10/2024 20:21:03-- ["Main"] "Easy": juste reboot
+08/10/2024 20:25:26-- Système : le serveur s'arrêtera dans 10 minute(s) (message automatique).
+08/10/2024 20:26:04-- ["Main"] "Sieverstein": someone have bless plz i need it for my aventure !
+08/10/2024 20:28:45-- ["Main"] "Sieverstein": thank you very much
+08/10/2024 20:28:56-- ["Main"] "Darth Nihilus": yw
+08/10/2024 20:29:11-- ["Main"] "Sieverstein": ;)
+08/10/2024 20:30:26-- Système : le serveur s'arrêtera dans 5 minute(s) (message automatique).
+08/10/2024 20:31:26-- Système : le serveur s'arrêtera dans 4 minute(s) (message automatique).
+08/10/2024 20:32:26-- Système : le serveur s'arrêtera dans 3 minute(s) (message automatique).
+08/10/2024 20:33:26-- Système : le serveur s'arrêtera dans 2 minute(s) (message automatique).
+08/10/2024 20:34:26-- Système : le serveur s'arrêtera dans 1 minute(s) (message automatique).
+08/10/2024 20:35:26-- Système : le serveur s'arrête MAINTENANT ! (message automatique)
+08/10/2024 21:00:32-- Bienvenue sur T4C Neerya !
+08/10/2024 21:04:45-- ["Main"] "Giz Bow": up ss/gb
+08/10/2024 21:23:26-- You are too far !
+08/10/2024 21:23:30-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 21:23:30-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 21:28:50-- ["Main"] "Astaroth Asgard": thx
+08/10/2024 21:30:53-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Sieverstein, Giz Bow et Vanillette) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/10/2024 21:35:17-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Vanillette, Sieverstein et Giz Bow) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/10/2024 21:38:24-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 21:39:49-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Giz Bow, Sieverstein et Vanillette) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/10/2024 21:41:44-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 21:41:44-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 21:41:58-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 21:41:58-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 21:42:11-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 21:42:11-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 21:43:03-- You are too far !
+08/10/2024 21:43:06-- You are too far !
+08/10/2024 21:43:08-- You are too far !
+08/10/2024 21:43:13-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 21:43:13-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 21:44:59-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Giz Bow, Vanillette et Sieverstein) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/10/2024 21:50:20-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Giz Bow, Vanillette et Sieverstein) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/10/2024 21:50:24-- {Vénérothe}":" entrainer
+08/10/2024 21:54:27-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Vanillette, Sieverstein et Giz Bow) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/10/2024 21:59:32-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Sieverstein, Vanillette et Giz Bow) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/10/2024 22:01:55-- Le compteur des quêtes journalières, le combat contre le Seigneur-Sorcier et ceux contre les prisonniers du temps ont été réinitialisés. Vous pouvez, à nouveau, les effectuer.
+08/10/2024 22:05:19-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/10/2024 22:05:45-- {Danzo}":" parchemain magique vierge
+08/10/2024 22:05:45-- {Araknor}":" Ne m'embêtez pas avec cela.
+08/10/2024 22:06:02-- {Danzo}":" parchemin magique vierge
+08/10/2024 22:06:02-- {Araknor}":" Vous voulez que je vous confectionne un parchemin magique vierge?
+08/10/2024 22:06:06-- {Danzo}":" oui
+08/10/2024 22:06:06-- {Araknor}":" Hum. Vous avez tout ce qu'il faut. Mettons-nous à l'ouvrage... voilà, c'est prêt. Voici votre parchemin magique vierge.
+08/10/2024 22:06:20-- {Danzo}":" parchemin magique vierge
+08/10/2024 22:06:20-- {Araknor}":" Vous voulez que je vous confectionne un parchemin magique vierge?
+08/10/2024 22:06:23-- {Danzo}":" oui
+08/10/2024 22:06:23-- {Araknor}":" Hum. Vous avez tout ce qu'il faut. Mettons-nous à l'ouvrage... voilà, c'est prêt. Voici votre parchemin magique vierge.
+08/10/2024 22:06:41-- {Danzo}":" parchemin magique vierge
+08/10/2024 22:06:41-- {Araknor}":" Vous voulez que je vous confectionne un parchemin magique vierge?
+08/10/2024 22:06:47-- {Danzo}":" oui
+08/10/2024 22:06:47-- {Araknor}":" Hum. Vous avez tout ce qu'il faut. Mettons-nous à l'ouvrage... voilà, c'est prêt. Voici votre parchemin magique vierge.
+08/10/2024 22:06:58-- {Danzo}":" parchemain magique vierge
+08/10/2024 22:06:58-- {Araknor}":" Ne m'embêtez pas avec cela.
+08/10/2024 22:07:12-- {Danzo}":" parchemin magique vierge
+08/10/2024 22:07:12-- {Araknor}":" Vous voulez que je vous confectionne un parchemin magique vierge?
+08/10/2024 22:07:15-- {Danzo}":" oui
+08/10/2024 22:07:15-- {Araknor}":" Hum. Vous avez tout ce qu'il faut. Mettons-nous à l'ouvrage... voilà, c'est prêt. Voici votre parchemin magique vierge.
+08/10/2024 22:07:31-- {Danzo}":" parchemin magique vierge
+08/10/2024 22:07:31-- {Araknor}":" Vous voulez que je vous confectionne un parchemin magique vierge?
+08/10/2024 22:07:35-- {Danzo}":" oui
+08/10/2024 22:07:35-- {Araknor}":" Hum. Vous avez tout ce qu'il faut. Mettons-nous à l'ouvrage... voilà, c'est prêt. Voici votre parchemin magique vierge.
+08/10/2024 22:07:58-- {Danzo}":" parchemin magique vierge
+08/10/2024 22:07:58-- {Araknor}":" Vous voulez que je vous confectionne un parchemin magique vierge?
+08/10/2024 22:08:01-- {Danzo}":" oui
+08/10/2024 22:08:01-- {Araknor}":" Hum. Vous avez tout ce qu'il faut. Mettons-nous à l'ouvrage... voilà, c'est prêt. Voici votre parchemin magique vierge.
+08/10/2024 22:08:17-- {Araknor}":" N'oubliez pas : les morts erreront toujours dans le royaume.
+08/10/2024 22:16:08-- ["Main"] "Elsi": quelqu'un a un pretre nexus pour bene? svp
+08/10/2024 22:22:56-- ["Main"] "Teppei": Bonjour a tous 
+08/10/2024 22:23:14-- ["Main"] "Easy": Salut
+08/10/2024 22:23:14-- ["Main"] "Elva": Salut !
+08/10/2024 22:23:17-- ["Main"] "Stecy": Bonjour
+08/10/2024 22:24:53-- Système : le serveur s'arrête MAINTENANT ! (message automatique)
+08/10/2024 23:18:30-- Bienvenue sur T4C Neerya !
+08/10/2024 23:19:36-- You said: [ Hé, peux-tu m'aider avec ça ? ]
+08/10/2024 23:19:51-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 23:19:51-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 23:20:31-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/10/2024 23:20:35-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 23:20:39-- You are too far !
+08/10/2024 23:20:42-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/10/2024 23:20:55-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 23:20:55-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 23:21:33-- ["Main"] "Astaroth Asgard": re tlm
+08/10/2024 23:21:55-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/10/2024 23:21:55-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/10/2024 23:22:14-- Screenshot taken.
+08/10/2024 23:29:39-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 23:29:39-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 23:32:57-- [Monstre élite du Draconis Sanctum] Le loup géant Freki sort de sa tanière et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+08/10/2024 23:36:16-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 23:36:16-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 23:36:35-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 23:36:35-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 23:36:38-- You are too far !
+08/10/2024 23:36:41-- {Brother Kiran}":" Greetings, my friend.
+08/10/2024 23:36:49-- You are too far !
+08/10/2024 23:36:53-- [Invasions] Alors que vous passez à proximité d'un crieur de rue, celui-ci vous fait signe de venir : vous devriez écouter ce qu'il a à vous dire.
+08/10/2024 23:36:55-- {Un crieur de rue}":" Ah ! *sourire* J'ai enfin réussi à capter votre attention. Mon rôle est de vous informer que l'île d'Arakas est l'objet d'une lutte d'influence entre plusieurs "factions rivales" qui ont chacune grand besoin de nouvelles recrues.
+08/10/2024 23:37:01-- Screenshot taken.
+08/10/2024 23:41:16-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/10/2024 23:41:16-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/10/2024 23:41:18-- {Tifany Taulern}":" acheter
+08/10/2024 23:41:31-- {Abalister}":" [ Humm ]
+08/10/2024 23:41:32-- {Abalister}":" [ ohohhh ]
+08/10/2024 23:41:36-- {Tifany Taulern}":" salut :)
+08/10/2024 23:41:36-- {Abalister}":" [ mais que vois-je ! ]
+08/10/2024 23:41:40-- {Tifany Taulern}":" hehe
+08/10/2024 23:43:52-- L'accès à l'{aile Nord d'Anwynn} est ouvert pendant une heure.
+08/10/2024 23:55:52-- {Valeska De Scyla}":" acheter
+08/10/2024 23:57:58-- [Monstre élite du Draconis Sanctum] La monstrueuse Veuve aux mille yeux quitte son nid et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+08/11/2024 00:01:00-- ["Main"] "Mandorall": bonjour à toute et à tous !
+08/11/2024 00:01:20-- ["Main"] "Stecy": Bonjour
+08/11/2024 00:01:34-- ["Main"] "Teppei": lut
+08/11/2024 00:01:39-- ["Main"] "Dakunaito Ardens": Salut !
+08/11/2024 00:02:48-- {Myaelys San}":" :p
+08/11/2024 00:02:53-- {Daroou}":" [ ;p ]
+08/11/2024 00:04:46-- ["Main"] "Naura Andara": Bonjour
+08/11/2024 00:05:20-- ["Main"] "Easy": Salut
+08/11/2024 00:09:29-- ["Vente"] "Naura Andara": Achete Jambière de cuir Centaure me mp
+08/11/2024 00:10:11-- ["Vente"] "Dakunaito Ardens": pour seulement 6 283 522 po, elles sont à toi !
+08/11/2024 00:10:48-- ["Vente"] "Naura Andara": 1M !
+08/11/2024 00:13:12-- {Marcel Altheric}":" [ excuse moi ]
+08/11/2024 00:20:11-- ["Main"] "Abalister":  le parchemin elfique vierge des ombres anwyn-3 se drope en declenchant la quete oracle neutre ou pas ?
+08/11/2024 00:20:32-- ["Main"] "Marcel Altheric": oui il faut la quête
+08/11/2024 00:20:38-- ["Main"] "Abalister":  ok merci
+08/11/2024 00:31:33-- ["Main"] "Easy": je viens de porter mon vip, lvl 126, j'aurais 250 endu si la purif faite =)
+08/11/2024 00:31:39-- ["Main"] "Easy": oula joli miss
+08/11/2024 00:38:03-- ["Main"] "Gahz Hole": ya t'il que moi qui est des moments de 'pause' apres un tp ?
+08/11/2024 00:38:04-- ["Vente"] "Naura Andara": Achete Jambière de cuir Centaure me mp
+08/11/2024 00:38:30-- ["Main"] "Gahz Hole": je parle de lag de 2 s ou l'ecran se fige
+08/11/2024 00:39:15-- ["Main"] "Astaroth Asgard": essaye de deco reco moi ca va pas de lag
+08/11/2024 00:39:54-- ["Main"] "Gahz Hole": c'es tpas un 'lag'. Je fais Rappel: j'ai le Boom sur mon perso, ca fige sur cette image 2s et j'arrive au temple
+08/11/2024 00:42:14-- ["Main"] "Stecy": poudre
+08/11/2024 00:42:17-- ["Main"] "Stecy": oups
+08/11/2024 00:47:02-- {Chou}":" [ atta ]
+08/11/2024 00:47:28-- {Saga Wind}":" [ bah putain ]
+08/11/2024 00:47:40-- {Chou}":" [ deso manque les essentiels ]
+08/11/2024 00:47:45-- {Chou}":" [ genre vip et rognar ]
+08/11/2024 00:47:49-- {Saga Wind}":" [ nickel tkt ]
+08/11/2024 00:47:52-- {Chou}":" [ mais si on me rend la vip a temps j te la passe ]
+08/11/2024 00:47:57-- {Chou}":" [ la rognar par contre j ai pas ]
+08/11/2024 00:48:02-- {Saga Wind}":" [ J'ai ptet qqpart ]
+08/11/2024 00:48:10-- {Arthurys Pendragon}":" [ Salut ]
+08/11/2024 00:48:14-- {Chou}":" [ Salut ! ]
+08/11/2024 00:48:19-- {José Paldhyr}":" [ plop ]
+08/11/2024 00:48:22-- ["Main"] "Arthurys Pendragon": Bonjour
+08/11/2024 00:48:22-- {Chou}":" [ Yoyo ! ]
+08/11/2024 00:48:33-- ["Main"] "Duncyx": hello !
+08/11/2024 00:48:45-- ["Main"] "Stecy": Bonjour
+08/11/2024 00:49:08-- Gahz Hole vient de débarquer au campement spellshorien, sur le Draconis Sanctum !
+08/11/2024 00:49:15-- ["Main"] "Simon Phoenix": gg
+08/11/2024 00:49:20-- ["Main"] "Arthurys Pendragon": bravo
+08/11/2024 00:49:21-- ["Main"] "Duncyx": gg
+08/11/2024 00:49:24-- ["Main"] "Gahz Hole": merci
+08/11/2024 00:49:28-- ["Main"] "Selmak": gg aventurier
+08/11/2024 00:49:30-- ["Main"] "Mandorall": gg :)
+08/11/2024 00:52:31-- Amansae vient de débarquer au campement spellshorien, sur le Draconis Sanctum !
+08/11/2024 00:53:01-- [Monstre élite du Draconis Sanctum] Perverti par une magie impie des Marais bouillonnants, le Saule vengeur autrefois majestueux n'est plus que colère et destruction.
+08/11/2024 00:55:49-- {Rhaenys}":" acheter
+08/11/2024 00:57:46-- ["Main"] "Elsi": sa serre a quoi les minerais enchanter?svp
+08/11/2024 00:58:06-- ["Main"] "Simon Phoenix": une autre quete
+08/11/2024 00:58:11-- ["Main"] "Elsi": ok
+08/11/2024 01:01:50-- ["Main"] "Abalister":  pourquoi falanthar druidre de rd refuse de me parler quete oracle?
+08/11/2024 01:02:07-- ["Main"] "Marcel Altheric": la prince il parle pas à toi
+08/11/2024 01:02:27-- ["Main"] "Simon Phoenix": mais le prince il parle Français
+08/11/2024 01:03:11-- ["Main"] "Abalister":  quand je lui dit Essence de Gaia il me fait le spitch qui bloque
+08/11/2024 01:03:24-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/11/2024 01:03:25-- {Kaitzz}":" parchemin nécromantique 
+08/11/2024 01:03:25-- {Araknor}":" Vous avez besoin de Parchemins Nécromantiques? Hmm, je pense que je peux vous en vendre. Je n'en ai pas pour l'instant, dons laissez moi le temps d'en confectionner quelques-uns. Je dois vous avertir qu'un parchemin ne vous coûtera pas moins de 10 000 pièces d'or. Êtes-vous toujours intéressé?
+08/11/2024 01:03:28-- {Kaitzz}":" oui
+08/11/2024 01:03:28-- {Araknor}":" Très bien, je vais m'y mettre tout de suite. Maintenant, dites-moi, combien de parchemins voulez-vous?
+08/11/2024 01:03:31-- {Kaitzz}":" 4
+08/11/2024 01:03:31-- {Araknor}":" Bien. J'estime que la création de chaque parchemin va me prendre environ 5 minutes.
+08/11/2024 01:03:47-- ["Main"] "Marcel Altheric": tu avais bien tout fini avec Harune ?
+08/11/2024 01:03:53-- ["Main"] "Abalister":  ah merde j'ai pas parler a evan
+08/11/2024 01:04:05-- ["Main"] "Marcel Altheric": c'est ça
+08/11/2024 01:11:39-- ["Main"] "Stecy": pret
+08/11/2024 01:13:03-- Le saviez-vous ? <> Vous pouvez maintenant conserver un {karma neutre} afin d'accèder à Raven's Dust, à Stoneheim puis à l'Oracle ! La {déesse Neerya} vous accordera alors une partie de son pouvoir.
+08/11/2024 01:14:51-- ["Main"] "L'Oracle": Félicitations à Hémoglobine pour sa seconde renaissance !
+08/11/2024 01:14:58-- ["Main"] "Adrielle":  GG
+08/11/2024 01:14:59-- ["Main"] "Arthurys Pendragon": gg
+08/11/2024 01:15:02-- ["Main"] "Simon Phoenix": gg
+08/11/2024 01:15:02-- ["Main"] "Selmak": gg
+08/11/2024 01:15:04-- ["Main"] "Easy": gg
+08/11/2024 01:15:05-- ["Main"] "Hémoglobine": Merci à Saga Winds de m'avoir frayé un chemin :)
+08/11/2024 01:15:08-- ["Main"] "Heruhur": Gg
+08/11/2024 01:15:09-- ["Main"] "Hémoglobine": Merci à tous
+08/11/2024 01:15:12-- ["Main"] "Emmanuelle": gg
+08/11/2024 01:15:13-- ["Main"] "RepondPlusViteQueCa": gg
+08/11/2024 01:15:16-- ["Main"] "Lamoueste": gg et bonjour neerya
+08/11/2024 01:15:23-- ["Main"] "Ambroisie": gg
+08/11/2024 01:15:44-- ["Main"] "Morty Ardens": Bonjour Neerya
+08/11/2024 01:15:46-- {Araknor}":" J'ai besoin de plus de temps... Revenez plus tard. Je suis occupé.
+08/11/2024 01:16:03-- ["Main"] "Arthurys Pendragon": morty si je te vends la position de daikinato tu le tue ?
+08/11/2024 01:16:06-- ["Main"] "Arthurys Pendragon": ^^
+08/11/2024 01:17:04-- ["Main"] "Arthurys Pendragon": ;)
+08/11/2024 01:17:47-- {Araknor}":" J'ai besoin de plus de temps... Revenez plus tard. Je suis occupé.
+08/11/2024 01:18:09-- {Easy}":" acheter
+08/11/2024 01:18:24-- {Dakunaito Ardens}":" [ Le Salut ! ]
+08/11/2024 01:18:54-- {Hémoglobine}":" refuge insulaire
+08/11/2024 01:18:57-- ["Main"] "Lamoueste": oui
+08/11/2024 01:18:59-- ["Main"] "Lamoueste": vendre
+08/11/2024 01:19:04-- ["Main"] "Laure Jador <> {Seconde renaissance bis}": Félicitations à {Saga Wind} pour sa {nouvelle} seconde renaissance !
+08/11/2024 01:19:09-- ["Main"] "Arthurys Pendragon": gg
+08/11/2024 01:19:10-- ["Main"] "Dakunaito Ardens": GG !
+08/11/2024 01:19:14-- ["Main"] "Selmak": gg
+08/11/2024 01:19:38-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/11/2024 01:19:38-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/11/2024 01:19:50-- ["Main"] "Elvanya": Solide !

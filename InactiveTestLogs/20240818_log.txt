@@ -1,0 +1,529 @@
+08/18/2024 16:19:40-- ["Main"] "Bras Jaune": ouep
+08/18/2024 16:20:15-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Rivka et Solonavi) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/18/2024 16:21:44-- {Varriw}":" Ah, Bacarat ! Comme on se retrouve. Comment allez-vous, mon ami ? Êtes-vous allé au temple de Windhowl ou voulez-vous que je vous indique la direction à prendre ?
+08/18/2024 16:21:51-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/18/2024 16:21:51-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/18/2024 16:22:52-- {Araknor}":" ... Yes? Be brief, I have "important" matters to attend to.
+08/18/2024 16:22:53-- {Araknor}":" I must contend with the dreaded necromancer known as "Jarko", also known as the "Decrepit" One. I must have his "spellbook". I MUST!
+08/18/2024 16:22:56-- {Araknor}":" The spellbook is the most precious object a mage has. Whenever I can put my hands on an ancient spellbook, I literally devour its pages to learn new spells. Of course, more spells means more power for me.
+08/18/2024 16:22:58-- {Araknor}":" Remember, the dead will always walk the realm.
+08/18/2024 16:23:20-- {Isei}":" confie
+08/18/2024 16:23:44-- {Isei}":" adieu
+08/18/2024 16:23:54-- {Doxir}":" confie
+08/18/2024 16:23:59-- {Isei}":" apprendre
+08/18/2024 16:24:37-- {Myrtosa}":" [ merci ]
+08/18/2024 16:24:51-- ["Main"] "Eikouna": sinistre epee de guerre ca sert pour une quete ou je confond ?
+08/18/2024 16:25:35-- ["Main"] "Tashi": d'après le wiki s'est juste une arme 
+08/18/2024 16:25:51-- ["Main"] "Eikouna": ok merci 
+08/18/2024 16:27:11-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/18/2024 16:27:13-- {Doxir}":" 1apprendre
+08/18/2024 16:27:13-- {Kilhiam}":" Je ne peux vous aider pour cela.
+08/18/2024 16:27:15-- {Doxir}":" apprendre
+08/18/2024 16:27:15-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/18/2024 16:27:18-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Rivka et Solonavi) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/18/2024 16:27:24-- {Doxir}":" [ apprendre ]
+08/18/2024 16:27:27-- {Doxir}":" <apprendre
+08/18/2024 16:27:29-- {Doxir}":" apprendre
+08/18/2024 16:27:32-- {Doxir}":" apprendre
+08/18/2024 16:30:07-- {Woodow}":" [ merci bien ]
+08/18/2024 16:31:08-- {Araknor}":" Oui c'est exact, j'ai fini ! Voici ce que vous aviez demandé.
+08/18/2024 16:31:42-- {Bruenelda}":" vendre
+08/18/2024 16:31:56-- {Bruenelda}":" ;)
+08/18/2024 16:32:59-- ["Main"] "Iollan": je manque d'argent personne pour m'acheter des truc des kriss des évicerative ...je campe vos anneau zerk
+08/18/2024 16:33:07-- {Bruenelda}":" Ientrainement
+08/18/2024 16:33:13-- {Bruenelda}":" entrainement
+08/18/2024 16:33:43-- ["Main"] "Ynem Wapasir": Quelqu'un a portail Z2 ?
+08/18/2024 16:33:52-- {Bruenelda}":" deja
+08/18/2024 16:34:06-- {Bruenelda}":" karma
+08/18/2024 16:34:11-- {Fatso}":" [ ty ]
+08/18/2024 16:34:18-- {Bruenelda}":" sombre
+08/18/2024 16:34:19-- ["Main"] "Ynem Wapasir": Mci :)
+08/18/2024 16:34:25-- ["Main"] "Iollan": Mon huc xD ?
+08/18/2024 16:34:30-- ["Main"] "Valence": Je parle a 
+08/18/2024 16:34:33-- {Bruenelda}":" merci
+08/18/2024 16:35:12-- ["Main"] "Valence": Je parle a Elfirias Mornechagrin et il me demande de tuer les 10 seraph (pour la Mandragore) mais ensuite le mec en rouge (Peredhil) ne me laisse pas passer.... Il me dit "vous n'avez rien a faire ici"
+08/18/2024 16:36:40-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Rivka et Solonavi) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/18/2024 16:37:27-- ["Main"] "Valence": Un GM de connecter?
+08/18/2024 16:37:32-- {Bruenelda}":" karma
+08/18/2024 16:37:36-- {Bruenelda}":" neutre
+08/18/2024 16:38:58-- {Bruenelda}":" recherche
+08/18/2024 16:39:12-- {Bruenelda}":" anwynn
+08/18/2024 16:39:31-- {Bruenelda}":" fissure
+08/18/2024 16:40:50-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/18/2024 16:40:52-- {Kilhiam}":" People are nice around here. If you need to know someone's "name", just ask them. It's the same for their "work" too. Most of them will tell you without any complaints.
+08/18/2024 16:40:54-- {Kilhiam}":" People are nice around here. If you need to know someone's "name", just ask them. It's the same for their "work" too. Most of them will tell you without any complaints.
+08/18/2024 16:40:59-- {Kilhiam}":" Farewell, my friend.
+08/18/2024 16:43:57-- ["Main"] "Executor": pour soigner l'eveque je doit parler a chambellan en premier ou deliah ??
+08/18/2024 16:44:40-- {Doxir}":" guérir
+08/18/2024 16:44:42-- {Isei}":" guerir
+08/18/2024 16:44:42-- {Doxir}":" oui
+08/18/2024 16:44:43-- {Isei}":" oui
+08/18/2024 16:44:46-- {Isei}":" adieu
+08/18/2024 16:44:49-- {Doxir}":" guérir
+08/18/2024 16:44:51-- {Doxir}":" oui
+08/18/2024 16:44:53-- {Doxir}":" adieu
+08/18/2024 16:44:54-- {Isei}":" guerir
+08/18/2024 16:44:59-- {Isei}":" adieu
+08/18/2024 16:46:06-- {Varriw}":" Ah, Bacarat ! Comme on se retrouve. Comment allez-vous, mon ami ? Êtes-vous allé au temple de Windhowl ou voulez-vous que je vous indique la direction à prendre ?
+08/18/2024 16:46:10-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/18/2024 16:46:10-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/18/2024 16:46:21-- You are too far !
+08/18/2024 16:46:24-- You receive 1000 gold pieces.
+08/18/2024 16:46:26-- You receive 1000 gold pieces.
+08/18/2024 16:46:32-- You cannot carry any more weight.
+08/18/2024 16:46:42-- {Isei}":" [ merci ]
+08/18/2024 16:46:50-- You receive 10000 gold pieces.
+08/18/2024 16:47:10-- You receive 10000 gold pieces.
+08/18/2024 16:50:26-- ["Main"] "Betty": quelqu'un peut m'aider avec un reskin robe ?
+08/18/2024 16:51:08-- ["Main"] "Betty": j'ai le bon, sa l'air que je dois avoir la robe au skin que je veut pour transformer celle que je porte en celle que je veux ?
+08/18/2024 16:51:14-- Le saviez-vous ? <> Plusieurs petites îles périphériques sont dédiées aux animations. Sur l'une d'entre elles, vous pouvez affronter le dangereux {Changeant}. Il est possible de trouver sur son cadavre des {bons de façonnage}.
+08/18/2024 16:51:31-- ["Main"] "Executor": il est ou l'evesque ?
+08/18/2024 16:51:42-- ["Main"] "Zolthan du Lac": sur l'ile Roy 
+08/18/2024 16:51:44-- ["Main"] "Betty": dans le nouveau chateau sur l'ile du roi
+08/18/2024 16:52:02-- ["Main"] "Executor": ahh je les pas vu il est dans le chateau ?? jai vue dahlia le roi et chamberlan
+08/18/2024 16:52:05-- ["Main"] "Giz Bow": le marin au nord du temple
+08/18/2024 16:52:22-- ["Main"] "Zolthan du Lac": au fond a coté du roi
+08/18/2024 16:52:28-- ["Main"] "Executor": dans le wiki il dise de parler a dahlia avant chamberlan ??
+08/18/2024 16:54:29-- ["Main"] "Ed Pettrovitch": dispo SS/Gb
+08/18/2024 16:55:20-- ["Main"] "Zolthan du Lac": quelqu'un a envie de faire l'intance AR en NM avec moi ?
+08/18/2024 16:55:26-- {Cayle Wiseful}":" Hors de ma vue ! Je n'ai rien à faire avec les gens de votre espèce.
+08/18/2024 16:56:37-- {Alain Quatre-Mains}":" Excusez moi j'ai du travail.
+08/18/2024 16:57:16-- You receive 300 gold pieces.
+08/18/2024 16:57:19-- You cannot carry any more weight.
+08/18/2024 16:57:20-- You cannot carry any more weight.
+08/18/2024 16:57:21-- You have used "Potion of healing" (1 left).
+08/18/2024 16:57:22-- You cannot carry any more weight.
+08/18/2024 16:57:34-- {Skraug Terrsortilah}":" Kess'tu veux toi ? {*renifle*} Moi ch'man skraug très "puissah" !
+08/18/2024 16:57:35-- {Skraug Terrsortilah}":" Moi 'venté "sortilah" très util' ! Humains pas connaît' ça... eux êtr' très bêtes.
+08/18/2024 16:57:37-- {Skraug Terrsortilah}":" Koi ? 'veux "apprendre" magie ?
+08/18/2024 16:57:39-- {Skraug Terrsortilah}":" D'acc !
+08/18/2024 16:57:51-- Learned spell Lapidation.
+08/18/2024 16:58:09-- Macro "Lapidation" added.
+08/18/2024 16:58:28-- You receive 13 gold pieces.
+08/18/2024 16:58:32-- You receive 14 gold pieces.
+08/18/2024 16:58:38-- You receive 56 gold pieces.
+08/18/2024 16:58:58-- ["Main"] "Bacarat": Où puis-je apprendre les sorts de guérison de bas niveau?
+08/18/2024 16:59:10-- ["Main"] "Betty": temple a lh
+08/18/2024 16:59:18-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Zolthan du Lac et Solonavi) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/18/2024 16:59:18-- ["Main"] "Clary Eracles": moonrock
+08/18/2024 16:59:27-- ["Main"] "Bacarat": Merci
+08/18/2024 17:01:02-- You cannot carry any more weight.
+08/18/2024 17:01:03-- You cannot carry any more weight.
+08/18/2024 17:01:05-- You have used "Potion of mana" (26 left).
+08/18/2024 17:01:22-- You receive 56 gold pieces.
+08/18/2024 17:01:28-- You receive 11 gold pieces.
+08/18/2024 17:05:54-- You are too far !
+08/18/2024 17:05:56-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/18/2024 17:05:57-- You said: learn
+08/18/2024 17:05:57-- {Moonrock}":" Very well. This is what I can teach you.
+08/18/2024 17:06:12-- Learned spell Heal Light.
+08/18/2024 17:06:12-- Learned spell Cure Poison.
+08/18/2024 17:06:12-- Learned spell Protection.
+08/18/2024 17:06:13-- {Moonrock}":" May "Artherk" bless you, my friend. May you find what you seek in this holy temple.
+08/18/2024 17:06:14-- You said: learn
+08/18/2024 17:06:14-- {Moonrock}":" Very well. This is what I can teach you.
+08/18/2024 17:06:18-- Learned spell Heal Serious.
+08/18/2024 17:06:32-- You receive 2000 gold pieces.
+08/18/2024 17:06:34-- You receive 2000 gold pieces.
+08/18/2024 17:06:36-- You receive 2000 gold pieces.
+08/18/2024 17:06:38-- You receive 2000 gold pieces.
+08/18/2024 17:06:42-- You receive 2000 gold pieces.
+08/18/2024 17:06:44-- You receive 1000 gold pieces.
+08/18/2024 17:06:46-- You receive 8000 gold pieces.
+08/18/2024 17:06:48-- You receive 30000 gold pieces.
+08/18/2024 17:06:50-- You receive 1000 gold pieces.
+08/18/2024 17:06:52-- You receive 2000 gold pieces.
+08/18/2024 17:06:54-- You receive 2000 gold pieces.
+08/18/2024 17:06:56-- You receive 1000 gold pieces.
+08/18/2024 17:06:58-- You receive 2000 gold pieces.
+08/18/2024 17:07:00-- You receive 2000 gold pieces.
+08/18/2024 17:07:08-- You receive 1000 gold pieces.
+08/18/2024 17:07:10-- You receive 2000 gold pieces.
+08/18/2024 17:07:12-- You receive 1000 gold pieces.
+08/18/2024 17:07:14-- You receive 2000 gold pieces.
+08/18/2024 17:07:18-- You receive 1000 gold pieces.
+08/18/2024 17:07:20-- You receive 2000 gold pieces.
+08/18/2024 17:07:28-- You receive 2000 gold pieces.
+08/18/2024 17:07:30-- You receive 2000 gold pieces.
+08/18/2024 17:07:32-- You receive 1000 gold pieces.
+08/18/2024 17:07:34-- You receive 3000 gold pieces.
+08/18/2024 17:07:38-- You receive 1000 gold pieces.
+08/18/2024 17:07:40-- You receive 3000 gold pieces.
+08/18/2024 17:07:42-- You receive 3000 gold pieces.
+08/18/2024 17:07:49-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Rivka et Eleia) entre dans La Folie du Traître !
+08/18/2024 17:08:06-- Macro "Protection" added.
+08/18/2024 17:08:08-- Macro "Heal Serious" added.
+08/18/2024 17:09:07-- You said: [ merci ]
+08/18/2024 17:09:15-- You cannot carry any more weight.
+08/18/2024 17:09:22-- You cannot carry any more weight.
+08/18/2024 17:09:23-- You cannot carry any more weight.
+08/18/2024 17:09:23-- You cannot carry any more weight.
+08/18/2024 17:09:37-- {Woodow}":" [ merci bien! ]
+08/18/2024 17:11:18-- You cannot carry any more weight.
+08/18/2024 17:11:50-- You cannot carry any more weight.
+08/18/2024 17:11:52-- You cannot carry any more weight.
+08/18/2024 17:11:52-- You cannot carry any more weight.
+08/18/2024 17:12:05-- {Varriw}":" Ah, Bacarat ! Comme on se retrouve. Comment allez-vous, mon ami ? Êtes-vous allé au temple de Windhowl ou voulez-vous que je vous indique la direction à prendre ?
+08/18/2024 17:12:25-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 17:12:27-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 17:15:14-- ["Vente"] "Miya": quelqun vend une fiole de sang gob ??
+08/18/2024 17:15:25-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+08/18/2024 17:15:32-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 17:15:38-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 17:15:39-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/18/2024 17:15:42-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 17:15:45-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 17:15:46-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/18/2024 17:15:49-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 17:15:52-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 17:15:53-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/18/2024 17:20:43-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Eleia, Zolthan du Lac et Rivka) entre dans La Folie du Traître !
+08/18/2024 17:21:25-- {Isei}":" acheter
+08/18/2024 17:21:29-- {Isei}":" adieu
+08/18/2024 17:21:40-- {Isei}":" acheter
+08/18/2024 17:21:47-- {Isei}":" adieu
+08/18/2024 17:22:12-- ["Main"] "Eikouna": ou se trouve le sanctuaire neeryen pour la quete zo neutre ?
+08/18/2024 17:22:17-- ["Main"] "Eikouna": svp :)
+08/18/2024 17:22:49-- ["Main"] "Eleia": ses pas isil ca
+08/18/2024 17:22:57-- ["Main"] "Eikouna": si 
+08/18/2024 17:23:03-- ["Main"] "Ciri Highwind": tu dois passer par la grotte a lh pres de darkfang
+08/18/2024 17:23:06-- ["Main"] "Eleia": eau fraiche dans les tache
+08/18/2024 17:23:07-- ["Main"] "Eikouna": ah oui cest arakas ca 
+08/18/2024 17:23:12-- ["Main"] "Eikouna": merci :)
+08/18/2024 17:25:31-- ["Vente"] "Miya": j'achete fiole de sang gob 
+08/18/2024 17:27:24-- ["Gamealot"] "Bacarat": merci
+08/18/2024 17:27:32-- ["Main"] "Bacarat": merci
+08/18/2024 17:27:48-- ["Gamealot"] "Bacarat": merci
+08/18/2024 17:29:29-- ["Gamealot"] "Bacarat": merci
+08/18/2024 17:30:16-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Zolthan du Lac, Eleia et Solonavi) entre dans La Folie du Traître !
+08/18/2024 17:31:13-- ["Gamealot"] "Bacarat": merci
+08/18/2024 17:31:25-- ["Gamealot"] "Bacarat": merci
+08/18/2024 17:32:34-- ["Gamealot"] "Bacarat": merci
+08/18/2024 17:32:47-- ["Gamealot"] "Bacarat": merci
+08/18/2024 17:35:12-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 17:35:14-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 17:35:15-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/18/2024 17:35:18-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 17:35:19-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 17:35:22-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/18/2024 17:35:46-- ["Vente"] "Miya": pour la fiole de sang gob je suis tu mieu dans cave a jarko ou dans les montagne
+08/18/2024 17:36:19-- ["Main"] "Miya": pour la fiole de sang gob ces ou que jai plus de chance de la faire droper
+08/18/2024 17:38:29-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 17:38:31-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 17:38:32-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/18/2024 17:38:34-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 17:38:35-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 17:38:37-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/18/2024 17:38:47-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Eleia, Solonavi et Rivka) entre dans La Folie du Traître !
+08/18/2024 17:38:54-- ["Main"] "Fardeorn": Bonne question
+08/18/2024 17:45:44-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+08/18/2024 17:47:31-- {Fatso}":" [ sell ]
+08/18/2024 17:47:38-- {Fatso}":" sell
+08/18/2024 17:49:41-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/18/2024 17:49:50-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Solonavi, Zolthan du Lac et Eleia) entre dans La Folie du Traître !
+08/18/2024 17:49:52-- L'accès à l'{aile Nord d'Anwynn} est ouvert pendant une heure.
+08/18/2024 17:55:08-- ["Vente"] "Miya": J'achete toujours fiole de sang gob svp
+08/18/2024 17:58:56-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Zolthan du Lac, Solonavi et Eleia) entre dans La Folie du Traître !
+08/18/2024 18:01:16-- [Monstre élite du Draconis Sanctum] La monstrueuse Veuve aux mille yeux quitte son nid et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+08/18/2024 18:08:19-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Rivka, Eleia et Solonavi) entre dans La Folie du Traître !
+08/18/2024 18:11:00-- ["Vente"] "Woodow": Bonsoir, je recherche une robe noire flottante
+08/18/2024 18:11:38-- {Isei}":" vendre
+08/18/2024 18:11:46-- {Doxir}":" acheter
+08/18/2024 18:11:47-- {Isei}":" adieu
+08/18/2024 18:11:56-- {Doxir}":" vendre
+08/18/2024 18:12:38-- {Isei}":" acheter
+08/18/2024 18:12:48-- {Isei}":" acheter
+08/18/2024 18:12:53-- {Doxir}":" [ Serait-ce possible d'être béni svp ?  ]
+08/18/2024 18:12:57-- {Doxir}":" acheter
+08/18/2024 18:12:59-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+08/18/2024 18:13:05-- {Doxir}":" acheter
+08/18/2024 18:13:12-- {Isei}":" acheter
+08/18/2024 18:13:20-- {Isei}":" acheter
+08/18/2024 18:13:21-- {Doxir}":" vendre
+08/18/2024 18:13:27-- {Doxir}":" vendre
+08/18/2024 18:13:46-- {Isei}":" vendre
+08/18/2024 18:13:53-- {Isei}":" adieu
+08/18/2024 18:13:59-- {Isei}":" acheter
+08/18/2024 18:14:06-- {Isei}":" adieu
+08/18/2024 18:14:08-- {Doxir}":" Sacheter
+08/18/2024 18:14:13-- {Doxir}":" acheter
+08/18/2024 18:14:54-- {Doxir}":" Ivendre
+08/18/2024 18:14:56-- {Doxir}":" vendre
+08/18/2024 18:15:05-- {Doxir}":" acheter
+08/18/2024 18:15:10-- {Doxir}":" acheter
+08/18/2024 18:15:23-- {Doxir}":" vendre
+08/18/2024 18:15:35-- {Doxir}":" acheter
+08/18/2024 18:15:49-- {Doxir}":" vendre
+08/18/2024 18:15:53-- {Doxir}":" acheter
+08/18/2024 18:16:20-- {Doxir}":" acheter
+08/18/2024 18:16:26-- ["Main"] "Rivka": ')
+08/18/2024 18:16:29-- {Doxir}":" acheter
+08/18/2024 18:16:29-- ["Main"] "Rivka": sw
+08/18/2024 18:16:46-- {Doxir}":" acheter
+08/18/2024 18:16:56-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+08/18/2024 18:17:07-- {Geena}":" Bonjour ! En quoi puis-je vous aider?
+08/18/2024 18:17:10-- {Isei}":" travail
+08/18/2024 18:17:10-- {Geena}":" Je suis serveuse ici. J'aide "Halam" dans son travail.
+08/18/2024 18:17:12-- {Isei}":" halam
+08/18/2024 18:17:12-- {Geena}":" Il est très gentil et toujours joyeux. Il parle à tous les "voyageurs".
+08/18/2024 18:17:15-- {Isei}":" voyageurs
+08/18/2024 18:17:15-- {Geena}":" Nous n'en avons pas vu beaucoup, ces derniers temps. J'attends le jour où un bel aventurier me demandera de l'"épouser".
+08/18/2024 18:17:18-- {Isei}":" epouser
+08/18/2024 18:17:18-- {Geena}":" J'attendrai jusqu'à ce qu'un riche aventurier vienne pour m'épouser.
+08/18/2024 18:17:19-- {Isei}":" adieu
+08/18/2024 18:17:19-- {Geena}":" Allez, au revoir !
+08/18/2024 18:18:35-- {Halam}":" Bien le bonjour !
+08/18/2024 18:19:59-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Eleia, Rivka et Solonavi) entre dans La Folie du Traître !
+08/18/2024 18:28:57-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Rivka, Eleia et Solonavi) entre dans La Folie du Traître !
+08/18/2024 18:33:43-- {Dalbert}":" Bonjour, Woodow. Alors comme ça vous venez d'arriver en ville ? Oh... vous avez rencontré mon ami "Varriw" de Spellshore, le port de l'île de Grim Hawk.
+08/18/2024 18:33:46-- {Dalbert}":" Vraiment, une lettre pour moi ? Laissez-moi voir... {*lit la lettre*} Ah, je comprends mieux le motif de sa venue. Apparemment, il souhaite entrer au service de la "Baronnie".
+08/18/2024 18:33:52-- {Dalbert}":" Oui, Lighthaven est dirigée par un Baron ou une Baronne, au nom du royaume de Goldmoon dont nous sommes les vassaux... enfin, en théorie. Si vous voulez aider mon ami à se faire une place ici, je vous conseille d'aller voir "Ryla".
+08/18/2024 18:33:57-- {Dalbert}":" {Ryla} est la servante de compagnie. Allez-lui parler en mon nom, je suis ami avec elle depuis longtemps et je suis certain qu'elle saura aider Varriw à se faire une place dans notre village. Ah, j'oubliais : ne faites pas attention à son air guindé. Sortez de la taverne, suivez le chemin vers le sud jusqu'à la place du village. Ryla est dans la plus grand maison au {sud}.
+08/18/2024 18:34:04-- {Dalbert}":" Au plaisir.
+08/18/2024 18:39:13-- {Himinbjörg}":" acheter
+08/18/2024 18:40:17-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Solonavi, Eleia et Rivka) entre dans La Folie du Traître !
+08/18/2024 18:41:22-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 18:41:24-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 18:41:26-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/18/2024 18:41:28-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 18:41:29-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 18:41:34-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/18/2024 18:41:46-- {Valerius}":" A la revoyure, graine de champion !
+08/18/2024 18:41:50-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+08/18/2024 18:42:02-- ["Gamealot"] "Bacarat": merci
+08/18/2024 18:45:15-- {Bardock}":" .xpstat
+08/18/2024 18:49:59-- {Isei}":" acheter
+08/18/2024 18:50:08-- {Isei}":" acheter
+08/18/2024 18:50:22-- {Isei}":" acheter
+08/18/2024 18:50:27-- {Isei}":" adieu
+08/18/2024 18:50:31-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Eleia, Solonavi et Rivka) entre dans La Folie du Traître !
+08/18/2024 18:51:18-- Le saviez-vous ? <> Les 5 Prisonniers du temps représentent le défi stratégique ultime de fin de jeu pour des groupes de joueurs de niveau supérieur à 180.  Oserez-vous vous mesurez à eux?
+08/18/2024 18:52:50-- {Tomohiro}":" acheter
+08/18/2024 18:56:40-- "Tanjeh Rhynn" vient d'accoster au port de "Spellshore" !
+08/18/2024 18:56:43-- "Margah Rhynn" vient d'accoster au port de "Spellshore" !
+08/18/2024 18:56:53-- ["Main"] "Darth Nihilus": ggx2
+08/18/2024 18:56:54-- ["Main"] "El Brutos": GG les Rhynn
+08/18/2024 18:56:55-- ["Main"] "Acquerys Alyn": gg
+08/18/2024 18:57:00-- ["Main"] "Tanjeh Rhynn": Merci!
+08/18/2024 18:57:06-- ["Main"] "Margah Rhynn": Merci
+08/18/2024 18:58:29-- ["Vente"] "Sarge": J'echange des Moufles en Laine ou Lacerees (moi) contre Leger (toi)
+08/18/2024 18:58:51-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Solonavi, Eleia et Rivka) entre dans La Folie du Traître !
+08/18/2024 19:01:18-- [Monstre élite du Draconis Sanctum] Le loup géant Freki sort de sa tanière et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+08/18/2024 19:02:21-- ["Main"] "Sarge": Je suis aux loups si jamais un ptit groupe veux passer faire Freki
+08/18/2024 19:04:24-- ["Main"] "El Brutos": mon pote se fait auto deco quand il tente de se connecter
+08/18/2024 19:04:36-- ["Main"] "El Brutos": quelqu'un connait le fuuuck ?
+08/18/2024 19:04:39-- ["Main"] "Elva": dis lui de faire une verification des fichiers
+08/18/2024 19:04:47-- ["Main"] "Elva": ca m a fait la meme avant hier a cause de la mini update
+08/18/2024 19:05:02-- ["Main"] "Sarge": Same hier aussi
+08/18/2024 19:05:08-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 19:05:12-- You are too far !
+08/18/2024 19:05:12-- ["Main"] "El Brutos": ok merci
+08/18/2024 19:05:17-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 19:05:18-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 19:05:19-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/18/2024 19:06:18-- [Monstre élite du Draconis Sanctum] Autrefois fournisseuse du miel des larves de dragons, l'abeille Apis n'est plus que l'instrument d'un sombre sorcier qui l'utilise comme arme pour dévorer les aventuriers, au Cimetière des dragons.
+08/18/2024 19:08:01-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Eleia, Rivka et Solonavi) entre dans La Folie du Traître !
+08/18/2024 19:16:57-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Solonavi, Rivka et Eleia) entre dans La Folie du Traître !
+08/18/2024 19:26:01-- ["Main"] "Iollan": feeh the machine
+08/18/2024 19:27:48-- {Monglane}":" acheter
+08/18/2024 19:31:09-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Solonavi, Eleia et Rivka) entre dans La Folie du Traître !
+08/18/2024 19:31:19-- [Monstre élite du Draconis Sanctum] Perverti par une magie impie des Marais bouillonnants, le Saule vengeur autrefois majestueux n'est plus que colère et destruction.
+08/18/2024 19:31:38-- {Fatso}":" acceder
+08/18/2024 19:33:30-- {Fatso}":" acceder
+08/18/2024 19:36:08-- {Fatso}":" acceder
+08/18/2024 19:36:26-- ["Main"] "Isei":  C'est quoi la touche pour le journal déjà?
+08/18/2024 19:37:05-- ["Main"] "Floush": moi je click dessus avec la souris ;p
+08/18/2024 19:37:14-- ["Main"] "Ribambelle": icone (livre) au dessus de l'icone pour fermer le jeu
+08/18/2024 19:37:37-- ["Main"] "Floush": toi returne dans ton bobcat
+08/18/2024 19:37:48-- ["Main"] "Ribambelle": mdr va chier :p
+08/18/2024 19:37:59-- ["Main"] "Floush": hihihi
+08/18/2024 19:41:03-- "Cotelette" vient d'accoster au port de "Spellshore" !
+08/18/2024 19:41:12-- ["Main"] "Eleia": ggg
+08/18/2024 19:41:42-- ["Main"] "Ribambelle": gg, bbq party !
+08/18/2024 19:42:02-- ["Main"] "Petrolia": I see what you did there
+08/18/2024 19:43:01-- {Woodow}":" tache
+08/18/2024 19:43:07-- {Woodow}":" taches
+08/18/2024 19:43:24-- {Woodow}":" tache
+08/18/2024 19:47:45-- {Woodow}":" tâches
+08/18/2024 19:47:52-- {Woodow}":" tâche
+08/18/2024 19:51:03-- ["Main"] "Neeko": C'est qui deja le pere du roi actual de goldmoon
+08/18/2024 19:51:07-- ["Main"] "Neeko": xanth qqc?
+08/18/2024 19:51:20-- ["Main"] "Ribambelle": nom de l'aveugle ca
+08/18/2024 19:51:22-- ["Main"] "Floush": theopold ?
+08/18/2024 19:51:26-- ["Main"] "Ribambelle": theopold
+08/18/2024 19:51:40-- ["Main"] "Neeko": ouep mrci
+08/18/2024 19:51:45-- ["Vente"] "Petrolia": J'achete un anneau Orichalque (pas arca ou lumineux)
+08/18/2024 19:51:45-- ["Main"] "Eleia": me semble ses teopold
+08/18/2024 19:51:53-- ["Main"] "Eleia": theopold
+08/18/2024 19:51:53-- ["Main"] "Ribambelle": vroum vroum *roule sur Floush* :p
+08/18/2024 19:52:02-- ["Main"] "El Brutos": mdr
+08/18/2024 19:52:14-- ["Main"] "Floush": lolll
+08/18/2024 19:52:35-- ["Main"] "Neeko": y a un moyen de rearranger la resolution comme avant?? depuis la MaJ ma resolution est weird et la police de caractere se it super mal
+08/18/2024 19:52:54-- ["Main"] "Elva": dans les options du launcher y a toutes les resolutions dispo
+08/18/2024 19:54:27-- Système : le serveur s'arrêtera dans 20 minute(s) (message automatique).
+08/18/2024 19:56:50-- [Instance d'Arakas Héroïque] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Eleia et Solonavi) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/18/2024 19:59:26-- Système : le serveur s'arrêtera dans 15 minute(s) (message automatique).
+08/18/2024 20:04:26-- Système : le serveur s'arrêtera dans 10 minute(s) (message automatique).
+08/18/2024 20:09:26-- Système : le serveur s'arrêtera dans 5 minute(s) (message automatique).
+08/18/2024 20:10:26-- Système : le serveur s'arrêtera dans 4 minute(s) (message automatique).
+08/18/2024 20:11:26-- Système : le serveur s'arrêtera dans 3 minute(s) (message automatique).
+08/18/2024 20:12:26-- Système : le serveur s'arrêtera dans 2 minute(s) (message automatique).
+08/18/2024 20:13:27-- Système : le serveur s'arrêtera dans 1 minute(s) (message automatique).
+08/18/2024 20:14:26-- Système : le serveur s'arrête MAINTENANT ! (message automatique)
+08/18/2024 21:39:12-- Bienvenue sur T4C Neerya !
+08/18/2024 21:40:14-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 21:40:31-- {Doxir}":" accéder
+08/18/2024 21:40:46-- {Doxir}":" accéder
+08/18/2024 21:50:14-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 21:52:05-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 21:54:47-- You are too far !
+08/18/2024 21:54:51-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 21:56:19-- ["Main"] "Astaroth Asgard": du monde pour sh nm?
+08/18/2024 22:00:56-- Le compteur des quêtes journalières, le combat contre le Seigneur-Sorcier et ceux contre les prisonniers du temps ont été réinitialisés. Vous pouvez, à nouveau, les effectuer.
+08/18/2024 22:07:52-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Heruhur et Astaroth Asgard) entre dans La Folie du Traître !
+08/18/2024 22:11:52-- ["Main"] "Padre Pio": la meditation on peu y ajouter des point?
+08/18/2024 22:12:04-- ["Main"] "Simkin": Prend pas meditation
+08/18/2024 22:12:12-- ["Main"] "Padre Pio": pk
+08/18/2024 22:12:35-- ["Main"] "Simkin": Y'a des biens meilleurs moyens de recup de la mana
+08/18/2024 22:12:40-- ["Main"] "Simkin": c'est un gachis de pt
+08/18/2024 22:12:52-- ["Main"] "Padre Pio": ok 
+08/18/2024 22:13:12-- ["Main"] "Simkin": Prend le kepesh a la faction
+08/18/2024 22:13:15-- ["Main"] "Simkin": Au débug
+08/18/2024 22:13:23-- ["Main"] "Padre Pio": sa j'ai pris dejas
+08/18/2024 22:13:31-- ["Main"] "Simkin": Et après y'a les gant de soricers/priants avancés
+08/18/2024 22:13:39-- ["Main"] "Padre Pio": ok
+08/18/2024 22:13:50-- ["Main"] "Doxir": quelqu'un peut m'expliquer ? Je dois récuper de l'eau frâiche de la fontaine d'Isil 
+08/18/2024 22:14:12-- ["Main"] "Simkin": Va près de la fontaine et double clique sur le bol
+08/18/2024 22:14:46-- ["Main"] "Elva": tu vas a LH, a gauche de Ryla/Darkfang dans le flanc de colline y a la grotte de graxx, tu prend la premiere sortie au nord et t arrives dans le jardin. c est plein sud y a la fontaine
+08/18/2024 22:15:34-- ["Main"] "Doxir":  super merci !!
+08/18/2024 22:15:56-- Le saviez-vous ? <> Consulter le wiki T4C Neerya depuis {t4c-neerya.com/wiki} est utile pour savoir quels sont les ajouts propres au serveur. N'hésitez pas à le compléter en utilisant votre compte forum !
+08/18/2024 22:20:28-- ["Main"] "Tereshkova": Qqun peut me donner le nom de la princesse d'Orkanis svp?
+08/18/2024 22:20:36-- ["Main"] "Elva": Annabelle je crois
+08/18/2024 22:20:48-- ["Main"] "Tereshkova": Exact :)
+08/18/2024 22:20:51-- ["Main"] "Tereshkova": merci
+08/18/2024 22:26:07-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:26:32-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:26:41-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 13 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 22:27:46-- ["Main"] "Astaroth Asgard": fontaines de guérison et mana ca se gagne en faisant une instance non?
+08/18/2024 22:27:55-- ["Main"] "Leto": oui
+08/18/2024 22:28:00-- ["Main"] "Elviradora": Oui arakas
+08/18/2024 22:28:06-- ["Main"] "Astaroth Asgard": ah c arakas
+08/18/2024 22:28:11-- ["Main"] "Astaroth Asgard": on a fait sh hihi
+08/18/2024 22:28:12-- ["Main"] "Dorothy": Toutes les instances non ?
+08/18/2024 22:28:12-- ["Main"] "Leto": non toutes les instances
+08/18/2024 22:28:17-- ["Main"] "Elviradora": Ah ok 
+08/18/2024 22:28:21-- ["Main"] "Elviradora": ca j etais pas sur
+08/18/2024 22:28:24-- ["Main"] "Astaroth Asgard": parce qu'on a fait sh mais il a pas recu 
+08/18/2024 22:28:35-- ["Main"] "Astaroth Asgard": c pas systématique?
+08/18/2024 22:28:38-- ["Main"] "Dorothy": Ah ça par contre, c'est pas automatique, c'est une petite chacne à chaque fois
+08/18/2024 22:28:43-- ["Main"] "Elviradora": Non c rare ;)
+08/18/2024 22:28:45-- ["Main"] "Astaroth Asgard": ah oki
+08/18/2024 22:29:01-- ["Main"] "Leto": c'est automatique si tu as fait 35 runs
+08/18/2024 22:29:02-- ["Main"] "Astaroth Asgard": des volontaires pour un deuxieme tour sh normale?
+08/18/2024 22:30:01-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Astaroth Asgard et Heruhur) entre dans La Folie du Traître !
+08/18/2024 22:35:03-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:36:29-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:37:14-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:38:45-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:38:59-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 13 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 22:39:25-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:41:25-- You are too far !
+08/18/2024 22:41:28-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:44:08-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:53:07-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:53:36-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:53:45-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:54:42-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Heruhur et Astaroth Asgard) entre dans La Folie du Traître !
+08/18/2024 22:55:51-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 22:59:20-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:00:46-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:00:56-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:01:06-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 13 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 23:02:50-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:04:22-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:04:45-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:05:02-- ["Main"] "Padre Pio": qui pour me faire faire quelque tour rd nm pour fontaigne svp
+08/18/2024 23:06:39-- ["Main"] "Padre Pio": personne sniff
+08/18/2024 23:06:42-- ["Main"] "Padre Pio": :(
+08/18/2024 23:09:30-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Heruhur et Astaroth Asgard) entre dans La Folie du Traître !
+08/18/2024 23:11:17-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:12:34-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:14:15-- ["Main"] "Padre Pio": Cc
+08/18/2024 23:15:53-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/18/2024 23:16:13-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:17:40-- {Halam}":" Bien le bonjour !
+08/18/2024 23:18:12-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:19:38-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:20:22-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:22:44-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 23:22:47-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Astaroth Asgard et Heruhur) entre dans La Folie du Traître !
+08/18/2024 23:28:31-- {Halam}":" Bien le bonjour !
+08/18/2024 23:37:36-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Heruhur et Astaroth Asgard) entre dans La Folie du Traître !
+08/18/2024 23:53:44-- ["Main"] "Madame Poizet": Salut les Geek ! <3
+08/18/2024 23:54:16-- ["Main"] "Cyste": Bonjour
+08/19/2024 00:02:31-- ["Main"] "Astaroth Asgard": du monde pour ar Hm?
+08/19/2024 00:02:48-- ["Main"] "Barbie Eres": up
+08/19/2024 00:03:28-- ["Main"] "Fiorenzo": up
+08/19/2024 00:04:58-- ["Main"] "Astaroth Asgard": 4/8
+08/19/2024 00:05:02-- ["Main"] "Astaroth Asgard": d'autre?
+08/19/2024 00:05:11-- ["Main"] "Kaé": Bonjour tous
+08/19/2024 00:07:58-- ["Main"] "Astaroth Asgard": zetes en route?
+08/19/2024 00:08:15-- ["Main"] "Barbie Eres": t'as pas invité :D
+08/19/2024 00:10:10-- {Halam}":" Bien le bonjour !
+08/19/2024 00:14:47-- [Instance d'Arakas Héroïque] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (parmi lesquels Barbie Eres, Madame Poizet et Mysticfist) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/19/2024 00:16:00-- Le saviez-vous ? <> Les appartements du Roi Noir, au deuxième étage de la Tour d'{Ebon Hold}, renferment des trésors et des monstres à découvrir !
+08/19/2024 00:18:02-- {Apadravya}":" acheter
+08/19/2024 00:24:25-- ["Main"] "Killicky": Bonjour tlm :)
+08/19/2024 00:25:02-- ["Vente"] "Madame Poizet": J'achete une Toge SAnctifiée. Merci :)
+08/19/2024 00:28:15-- ["Main"] "Barbie Eres": du monde pour ar hm avant qu'on reparte ?
+08/19/2024 00:28:22-- [Instance d'Arakas Héroïque] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (parmi lesquels Fiorenzo, Mysticfist et Astaroth Asgard) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/19/2024 00:42:37-- {Isaack}":" acheter
+08/19/2024 00:43:00-- [Instance d'Arakas Héroïque] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (parmi lesquels Astaroth Asgard, Fiorenzo et Barbie Eres) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/19/2024 00:46:27-- {Isaack}":" acheter
+08/19/2024 01:02:31-- ["Main"] "Padre Pio": du monde pour faire quelque tour rd nm pour fontaine svp ^^
+08/19/2024 01:04:10-- {Isaack}":" acheter
+08/19/2024 01:04:54-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+08/19/2024 01:05:26-- {Isaack}":" acheter
+08/19/2024 01:06:51-- [Instance d'Arakas Héroïque] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (parmi lesquels Mysticfist, Barbie Eres et Astaroth Asgard) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/19/2024 01:14:00-- {Thanga}":" factions rivales
+08/19/2024 01:14:03-- {Thanga}":" avantages
+08/19/2024 01:14:07-- {Thanga}":" bons de ravitaillement
+08/19/2024 01:14:09-- ["Main"] "Padre Pio": du monde pour faire quelque tour rd nm pour fontaine svp ^^
+08/19/2024 01:14:11-- {Thanga}":" anneau de lien
+08/19/2024 01:14:15-- {Thanga}":" personnaliser
+08/19/2024 01:14:19-- {Thanga}":" corsaires
+08/19/2024 01:14:22-- {Thanga}":" artherkiens
+08/19/2024 01:14:28-- {Thanga}":" ogrimariens
+08/19/2024 01:14:31-- {Thanga}":" neeryens
+08/19/2024 01:14:36-- {Thanga}":" haruspiciens
+08/19/2024 01:14:38-- {Thanga}":" druides
+08/19/2024 01:14:40-- {Thanga}":" choix
+08/19/2024 01:15:27-- {Thanga}":" choix
+08/19/2024 01:15:35-- {Thanga}":" cité des cieux
+08/19/2024 01:16:42-- {Thanga}":" sell
+08/19/2024 01:17:32-- ["Main"] "Eikouna": Bonjour Neerya
+08/19/2024 01:25:01-- [Instance de Raven's Dust Normale] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (Padre Pio, Liselle et Valeska De Scyla) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/19/2024 01:25:08-- [Instance d'Arakas Héroïque] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (parmi lesquels Astaroth Asgard, Fiorenzo et Barbie Eres) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/19/2024 01:26:50-- ["Main"] "Caradoc Brutal": ss de 21h 4 sur 8  
+08/19/2024 01:26:55-- ["Main"] "Tekk": Bonjour bonjour
+08/19/2024 01:29:02-- ["Main"] "Eikouna": bonjour, sur la quete ZO, on me dit d'aller parler au scribe errant au sud ouest de l'ile de bane, mais quand je lui parle il me dit de le laisser mediter en paix et je ne peux pas lui dire le mot clef 
+08/19/2024 01:29:22-- ["Main"] "Eikouna": j'ai bien parler a Isil qui m'a dit d'aller le voir pourtant
+08/19/2024 01:29:30-- ["Main"] "Eikouna": quete neutre
+08/19/2024 01:32:59-- {Pepper}":" acheter
+08/19/2024 01:33:05-- {ExzibiT}":" acheter
+08/19/2024 01:33:22-- [Instance de Raven's Dust Normale] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (Padre Pio, Liselle et Valeska De Scyla) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/19/2024 01:35:58-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+08/19/2024 01:36:07-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/19/2024 01:36:12-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 13 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/19/2024 01:36:20-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/19/2024 01:36:43-- {Murmuntag}":" *grogne* *reniflement*
+08/19/2024 01:39:49-- ["Main"] "Noshera":  Ahoy
+08/19/2024 01:41:41-- ["Main"] "Noshera":  Le reset pour les clés de fer n'est pas a 7h FR ?
+08/19/2024 01:41:48-- ["Main"] "Noshera":  c'est un cd interne ?
+08/19/2024 01:42:43-- [Instance de Raven's Dust Normale] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (Padre Pio, Liselle et Valeska De Scyla) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/19/2024 01:43:27-- {ExzibiT}":" acheter
+08/19/2024 01:43:44-- {ExzibiT}":" acheter
+08/19/2024 01:44:49-- ["Main"] "Khimae De Narisa": hello nosh , normalement ca reset en meme temps que les qj etc
+08/19/2024 09:40:01-- Your connection with the server has been lost.
+08/19/2024 09:40:04-- Your connection with the server has been lost.
+08/19/2024 09:40:07-- Your connection with the server has been lost.

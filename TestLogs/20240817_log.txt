@@ -1,0 +1,421 @@
+08/17/2024 14:13:24-- Bienvenue sur T4C Neerya !
+08/17/2024 14:13:48-- ["Game alot"] "Bacarat": test
+08/17/2024 14:14:17-- You are too far !
+08/17/2024 14:14:22-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/17/2024 14:14:26-- ["Game alot"] "Bacarat": test
+08/17/2024 14:14:46-- ["Game alot"] "Bacarat": test
+08/17/2024 14:15:09-- ["Gamealot"] "Bacarat": test
+08/17/2024 14:15:17-- ["Gamealot"] "Bacarat": test
+08/17/2024 14:15:18-- ["Main"] "Ward Wrym": dtc 1000 sag?
+08/17/2024 14:15:22-- ["Main"] "Ward Wrym": sw
+08/17/2024 14:15:24-- ["Game alot"] "Bacarat": test
+08/17/2024 14:16:18-- ["Game alot"] "Bacarat": test
+08/17/2024 14:16:32-- ["Game alot"] "Bacarat": test
+08/17/2024 14:16:40-- You are too far !
+08/17/2024 14:16:43-- {Emmanuelle}":" acheter
+08/17/2024 14:16:44-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (Twinny, Oxmose et Phoebe Halliwell) entre dans La Folie du Traître !
+08/17/2024 14:16:46-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/17/2024 14:16:50-- {Emmanuelle}":" adieu
+08/17/2024 14:17:12-- {Thorak}":" acceder
+08/17/2024 14:17:18-- ["Game alot"] "Bacarat": test
+08/17/2024 14:20:24-- ["Vente"] "Elyna":  jachete baton du pelerin
+08/17/2024 14:20:59-- ["Game alot"] "Bacarat": test
+08/17/2024 14:21:09-- ["Vente"] "Chimere De Narisa": vends robe saerimni
+08/17/2024 14:21:27-- {Thorak}":" acceder
+08/17/2024 14:22:05-- ["Game alot"] "Bacarat": test
+08/17/2024 14:22:32-- {Thorak}":" acceder
+08/17/2024 14:23:10-- ["Game alot"] "Bacarat": merci
+08/17/2024 14:23:24-- ["Game alot"] "Bacarat": merci
+08/17/2024 15:57:40-- Bienvenue sur T4C Neerya !
+08/17/2024 15:57:42-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/17/2024 15:57:46-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 15 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/17/2024 15:59:50-- You need to select a channel to talk into first.
+08/17/2024 16:00:00-- ["Gamealot"] "Bacarat": merci?
+08/17/2024 16:00:16-- ["Gamealot"] "Bacarat": merci!
+08/17/2024 16:00:31-- Screenshot taken.
+08/17/2024 16:00:32-- Le saviez-vous ? <> Consultez l'{hôtel des ventes}, il y a peut-être l'objet que vous cherchez à bon prix. Vous pouvez aussi regarder le forum dédié aux achats et aux ventes, sur le site {t4c-neerya.com}.
+08/17/2024 16:02:05-- ["Main"] "Yenifer": ynem tu cherches HAtu ?
+08/17/2024 16:02:13-- ["Main"] "Wilhjelm, le Maître de l'Esprit": "Lamoueste" vient d'abaisser les défenses de l'entrée d'"Ebon" "Hold" !
+08/17/2024 16:02:24-- ["Main"] "Maxim": GG La Mouette
+08/17/2024 16:02:40-- ["Main"] "Ynem Wapasir": Non, j'essais de tout faire pour que Hathu me parle
+08/17/2024 16:02:41-- ["Main"] "Tekk": gg
+08/17/2024 16:02:49-- ["Main"] "Lamoueste": Thx :)
+08/17/2024 16:03:28-- ["Main"] "Yenifer": ok risque pas ta vie a parler au drake de l'étage de léon ca sert a rien avec l'acces FS
+08/17/2024 16:03:36-- ["Vente"] "Imoën": Achète Vent du sud (arc)
+08/17/2024 16:03:45-- ["Main"] "Ynem Wapasir": ok
+08/17/2024 16:04:28-- ["Main"] "Iollan":  tu a bien regardé les prérequis a la quete ?
+08/17/2024 16:04:31-- ["Main"] "Yenifer": ca fait 3 fois que je te vois lui parler a chaque fois qu'on tue léon :p ca fait rien en fait
+08/17/2024 16:04:48-- ["Main"] "Ynem Wapasir": Lol, je comprend pas pourquoi Hathu me parle pas
+08/17/2024 16:05:06-- ["Main"] "Maxim": bha t'as pas validé les prérequis
+08/17/2024 16:05:22-- ["Main"] "Maxim": la quete est parfaitement expliquée sur le wiji
+08/17/2024 16:05:24-- {Ezean}":" acheter
+08/17/2024 16:05:25-- ["Main"] "Maxim": la quete est parfaitement expliquée sur le wiki*
+08/17/2024 16:05:37-- ["Main"] "Yenifer": tu dois avoir tuer 2-3 boss 180+ aussi si jme trompe pas 
+08/17/2024 16:05:45-- {Ezean}":" vendre
+08/17/2024 16:05:50-- {Jed petit pretre}":" [ lol ]
+08/17/2024 16:06:02-- ["Main"] "Chimere De Narisa": avoir fait les mini boss ds , 3 boss temporel
+08/17/2024 16:06:10-- ["Main"] "Iollan": oui ca c'est apres yene
+08/17/2024 16:06:10-- {Ezean}":" Merci !
+08/17/2024 16:06:14-- {Ezean}":" acheter
+08/17/2024 16:06:18-- ["Main"] "Chimere De Narisa": quete z1 Z2 Z3 faite aussi
+08/17/2024 16:06:40-- ["Main"] "Iollan": Et c'est 2 boss temporel mais , c'est au millieux de la quete
+08/17/2024 16:06:43-- {Ezean}":" acheter
+08/17/2024 16:06:55-- {Ezean}":" adieu
+08/17/2024 16:06:58-- ["Main"] "Ynem Wapasir": La quête Fs commence par Una n'est-ce pas? Si on a les prérequis?
+08/17/2024 16:07:14-- ["Main"] "Iollan": Si tu a fait les prérequis le drake te parle
+08/17/2024 16:07:23-- ["Main"] "Ynem Wapasir": ok
+08/17/2024 18:29:43-- Bienvenue sur T4C Neerya !
+08/17/2024 18:29:46-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/17/2024 18:30:05-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 15 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/17/2024 18:31:39-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/17/2024 18:31:54-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 15 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/17/2024 18:32:24-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/17/2024 18:33:35-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/17/2024 18:33:38-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 15 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/17/2024 18:33:48-- {Valerius}":" Voilà le classement actuel : <>Noshera (110) <>Krazor (110) <>Leto (110) <>Komeron (110) <>Floria (110) <>Cyclope Mc Fly (110) <>Sanguis (110) <>Mandalorian (110) <>Marah (110) <>Sweep (110) <>Mahoko (110) <>Hespéris (110) <>Fantom (110) <>Ad Patres (110) <>Gandor (110) <>Elm (110)
+08/17/2024 18:34:59-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/17/2024 18:35:11-- You said: test
+08/17/2024 18:35:11-- {Valerius}":" On n'est pas tous doté d'aussi grandes qualités que moi...
+08/17/2024 18:35:17-- You said: merci
+08/17/2024 18:35:17-- {Valerius}":" On n'est pas tous doté d'aussi grandes qualités que moi...
+08/17/2024 18:38:09-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/17/2024 18:40:10-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/17/2024 18:40:53-- ["Gamealot"] "Bacarat": merci
+08/17/2024 18:41:54-- You said: [ merci ]
+08/17/2024 18:41:57-- ["Gamealot"] "Bacarat": merci
+08/17/2024 18:45:09-- ["Main"] "Ed Pettrovitch": 2/8 gb
+08/17/2024 18:45:21-- ["Main"] "Ed Pettrovitch": .g a 5 ca pase
+08/17/2024 18:45:45-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/17/2024 18:46:09-- ["Gamealot"] "Bacarat": merci
+08/17/2024 18:46:13-- ["Main"] "L'Oracle": Félicitations à Cotelette pour sa seconde renaissance !
+08/17/2024 18:46:18-- ["Main"] "Tanjeh Rhynn": GG
+08/17/2024 18:46:20-- ["Main"] "Rivka": GG
+08/17/2024 18:46:20-- ["Main"] "Clary Eracles": gg
+08/17/2024 18:46:25-- ["Main"] "Gizmooh": Gratz
+08/17/2024 18:46:25-- ["Main"] "Fah Rhynn": GG
+08/17/2024 18:46:25-- ["Main"] "Eleia": gg
+08/17/2024 18:46:27-- ["Main"] "Ed Pettrovitch": quel talent
+08/17/2024 18:46:27-- ["Main"] "Kariboum":  gg
+08/17/2024 18:46:28-- ["Main"] "Freydis": Bravo !
+08/17/2024 18:46:41-- ["Main"] "Cotelette": merci
+08/17/2024 18:51:55-- Bienvenue sur T4C Neerya !
+08/17/2024 19:02:36-- {Cotelette}":" entrainer
+08/17/2024 19:16:14-- {Cyria}":" perle de sagesse oui
+08/17/2024 19:16:14-- {Cyria}":" perle de sagesse oui
+08/17/2024 19:16:15-- {Cyria}":" perle de sagesse oui
+08/17/2024 19:16:16-- {Cyria}":" perle de sagesse oui
+08/17/2024 19:24:00-- {Cyria}":" acheter
+08/17/2024 19:24:29-- {Cotelette}":" entrainer
+08/17/2024 19:32:07-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/17/2024 19:32:09-- {Araknor}":" J'ai affaire au redoutable nécromancien "Jarko" ou le "Décrépit". Je dois absolument me procurer son "grimoire". IL ME LE FAUT !
+08/17/2024 19:32:11-- {Araknor}":" Vous avez le Grimoire de Jarko ? Super ! L'échangeriez-vous contre un objet particulier ?
+08/17/2024 19:32:14-- {Giz Bow}":" oui
+08/17/2024 19:32:14-- {Araknor}":" Vous ne le regretterez pas, mon jeune ami. En gage de ma reconnaissance, je vous donne la chance d'apprendre la nécromancie en devenant mon "apprenti". De plus, je vous donne cet anneau de confiance.
+08/17/2024 19:32:16-- {Araknor}":" Il n'est pas facile de suivre la voie de la nécromancie. Pour cette première leçon, je vais vous apprendre l'"absorption" "de" "vie" "mineure".
+08/17/2024 19:32:17-- {Araknor}":" Ne m'embêtez pas avec cela.
+08/17/2024 19:32:21-- {Giz Bow}":" apprendre
+08/17/2024 19:32:21-- {Araknor}":" Commençons donc la leçon.
+08/17/2024 19:32:28-- {Araknor}":" N'oubliez pas : les morts erreront toujours dans le royaume.
+08/17/2024 19:35:15-- {Tomohiro}":" ENTRAINER
+08/17/2024 19:40:07-- ["Main"] "Fatso": anyone in LH that can bless me 
+08/17/2024 19:40:23-- ["Main"] "Giz Bow": do you have nexus ?
+08/17/2024 19:40:30-- ["Main"] "Fatso": ya 
+08/17/2024 19:40:49-- ["Main"] "Giz Bow": kewl . tell me where youre there
+08/17/2024 19:40:57-- ["Main"] "Fatso": im at the runestone  
+08/17/2024 19:41:13-- ["Main"] "Giz Bow": there nexus top right beside the bridge
+08/17/2024 19:42:16-- ["Main"] "Fatso": i only have Tablette de pierre runique 
+08/17/2024 19:42:40-- ["Main"] "Giz Bow": ok gimeme 20sec
+08/17/2024 19:42:48-- ["Main"] "Fatso": ok
+08/17/2024 19:50:42-- [Monstre élite du Draconis Sanctum] Autrefois fournisseuse du miel des larves de dragons, l'abeille Apis n'est plus que l'instrument d'un sombre sorcier qui l'utilise comme arme pour dévorer les aventuriers, au Cimetière des dragons.
+08/17/2024 19:51:16-- {Sofian}":" *Pleure* Sniff.. snifff... Ma maison.. Mais pourquoi ma "maison" ?!
+08/17/2024 19:51:18-- {Sofian}":" Ils m'ont tout pris, "pillé" et brûlé ma maison... Regardez moi ça ! Un vrai désastre !! Ce n'est sûrement pas le Bourgmestre qui va m'aider à reconstruire cette maison...
+08/17/2024 19:51:19-- {Sofian}":" Il s’agit de la "guilde de l'ombre", ce sont des bandits ! Des malfaiteurs ! Des voleurs !
+08/17/2024 19:51:20-- {Sofian}":" Un jour lorsque j'allais à "Windhowl", ils m'ont attaqué et m'ont assuré qu’ils ne me tueraient pas si je leurs amenais un sac de blé toute les semaines. Chose que j'ai faite pendant plusieurs lunes... Jusqu'au jour où ils ont changé d'avis...
+08/17/2024 19:51:21-- {Sofian}":" Oui, ils ont un campement sur le chemin en direction de Windhowl. "Ils" ne sont jamais seuls, ils agissent toujours en bande.
+08/17/2024 19:51:23-- {Sofian}":" Le blé ne les intéressait plus.. Sans doute en avaient t'ils assez, et puis ... que vaut de la nourriture face à des pièces d'or ? L'"argent" est tellement important.
+08/17/2024 19:51:24-- {Sofian}":" Malheureusement, je n'ai pu assouvir leurs désirs.. L’argent que je gagne m'"aide" tout juste à me nourrir et payer ma maison. La vie est très chère a Lighthaven vous savez.. Surtout depuis que la ville a retrouvé son havre de paix.
+08/17/2024 19:51:25-- {Sofian}":" Pardon... ? Vous êtes sûr de vouloir m'aider "?"
+08/17/2024 19:51:27-- {Sofian}":" Eh bien, c'est très aimable de votre part mais... vous n'avez rien à y gagner en me proposant votre aide. Et donner une "correction" aux brigands ne servirait pas à grand chose...
+08/17/2024 19:51:29-- {Sofian}":" En effet la ville va maintenant prendre de meilleures mesures de sécurité... ils ne risquent pas de revenir, mais sortir sera très dangereux pour moi de même que pour vous si vous alliez leurs rendre une petite "visite" !
+08/17/2024 19:51:31-- {Sofian}":" C'est comme vous voulez ! Mais faites très attention leurs chef est extrêmement habile à l'épée ! Je vais vous "indiquer" ou se trouve exactement l'endroit où je m'étais fait interpeller.
+08/17/2024 19:51:32-- {Sofian}":" Vous devez sans doute connaître le camp gobelin ? Une fois arrivé là-bas, empruntez le chemin en direction du sud. Vous arriverez à une intersection, continuez toujours dans la même direction. Si vous avez bien suivi mes conseils vous verrez une étendue d'eau, à l'est de celle-ci il y a un gros rocher c'est ici que je me suis fait {avoir}...
+08/17/2024 19:59:00-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/17/2024 20:00:42-- Le saviez-vous ? <> T4C Neerya propose un {tutoriel} aux nouveaux arrivants afin d'apprendre les bases du jeu. Aussi, n'hésitez pas à consulter l'aide accessible depuis la touche F1.
+08/17/2024 20:02:35-- ["Main"] "Fatso": is there any VIP lvling spot for low lvls 
+08/17/2024 20:02:59-- ["Main"] "Jerry Kan": nop, but the BTK quest goes realy quick
+08/17/2024 20:03:08-- ["Main"] "Jerry Kan": 1-50 ish
+08/17/2024 20:03:14-- ["Main"] "Fatso": i was told i need a lot of items for that 
+08/17/2024 20:03:21-- ["Main"] "Jerry Kan": then Anwynn below balork
+08/17/2024 20:03:48-- ["Main"] "Fatso": im over here by bugs and xp is so slow 
+08/17/2024 20:04:03-- ["Main"] "Elva": no not really, BTK is pretty straighforward and you drop things on the go
+08/17/2024 20:04:25-- ["Main"] "Jerry Kan": yeah quest are the quickest till 50
+08/17/2024 20:04:41-- ["Main"] "Kariboum":  btk is the way to go for sure
+08/17/2024 20:04:53-- ["Main"] "Elva": gives a good amount of cash too
+08/17/2024 20:04:54-- ["Main"] "Fatso": ok i will lookin into it 
+08/17/2024 20:05:09-- ["Main"] "Elva": if you struggle with a particular item, ask on the cc main, people are happy to help
+08/17/2024 20:05:20-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+08/17/2024 20:06:32-- ["Main"] "Giz Bow": i could do a few Arakas normal instances
+08/17/2024 20:07:54-- {Tomohiro}":" apprendre
+08/17/2024 20:09:26-- {Fatso}":" equipe
+08/17/2024 20:09:28-- {Fatso}":" yes
+08/17/2024 20:10:04-- {Fatso}":" buy
+08/17/2024 20:10:07-- {Sofian}":" Hum, je vous conseille d'aller voir maintenant du côté du campement brigands près de LightHaven. Je ne vous en dirai pas davantage !
+08/17/2024 20:10:58-- {Fatso}":" sell
+08/17/2024 20:11:21-- {Fatso}":" Varriw
+08/17/2024 20:11:32-- {Fatso}":" lighthaven
+08/17/2024 20:11:38-- {Fatso}":" goldmoon
+08/17/2024 20:11:44-- {Fatso}":" visitait
+08/17/2024 20:13:17-- {Sofian}":" Ah ! Vous êtes de retour ! Ca me soulage de vous voir encore en vie. Quoi ?! Vous avez combattu leur chef ? Mais vous êtes dingue "?!"
+08/17/2024 20:13:19-- {Sofian}":" Ceci est incompréhensible pour moi !
+08/17/2024 20:13:25-- {Sofian}":" Ah ! Vous êtes de retour ! Ca me soulage de vous voir encore en vie. Quoi ?! Vous avez combattu leur chef ? Mais vous êtes dingue "?!"
+08/17/2024 20:13:27-- {Tomohiro}":" oui
+08/17/2024 20:13:27-- {Sofian}":" Grâce à votre acte très courageux je vais très certainement pouvoir reconstruire ma maison. Je n'ai malheureusement qu'une modeste récompense pour vous ! Je m'en vais de ce pas acheter quelques bûches au marché ! A très bientôt.
+08/17/2024 20:15:00-- ["Main"] "Giz Bow": first town south ouest
+08/17/2024 20:17:31-- {Fatso}":" compter
+08/17/2024 20:17:36-- {Fatso}":" egouts
+08/17/2024 20:17:38-- {Fatso}":" [ yes ]
+08/17/2024 20:18:34-- {Ciri Highwind}":" entrainer
+08/17/2024 20:19:52-- {Fatso}":" rats
+08/17/2024 20:19:54-- {Fatso}":" yes
+08/17/2024 20:20:00-- {Fatso}":" la source
+08/17/2024 20:20:04-- {Fatso}":" aider
+08/17/2024 20:22:20-- {Markam}":" J'aimerais que ces gardes de malheur s'en aillent. Le seigneur Kirlor ne le
+montre pas, mais il est vraiment affecté par leur présence.
+08/17/2024 20:25:42-- [Monstre élite du Draconis Sanctum] Perverti par une magie impie des Marais bouillonnants, le Saule vengeur autrefois majestueux n'est plus que colère et destruction.
+08/17/2024 20:28:14-- Système : le serveur s'arrêtera dans 20 minute(s) (message automatique).
+08/17/2024 20:31:43-- {Fatso}":" yes
+08/17/2024 20:31:46-- {Fatso}":" rats
+08/17/2024 20:31:54-- {Fatso}":" la source
+08/17/2024 20:31:56-- {Fatso}":" yes
+08/17/2024 20:33:14-- Système : le serveur s'arrêtera dans 15 minute(s) (message automatique).
+08/17/2024 20:34:14-- {Fatso}":" source
+08/17/2024 20:34:24-- {Fatso}":" the source
+08/17/2024 20:34:37-- {Fatso}":" the source
+08/17/2024 20:38:14-- Système : le serveur s'arrêtera dans 10 minute(s) (message automatique).
+08/17/2024 20:43:14-- Système : le serveur s'arrêtera dans 5 minute(s) (message automatique).
+08/17/2024 20:44:08-- {Fatso}":" yes
+08/17/2024 20:44:11-- {Fatso}":" help
+08/17/2024 20:44:13-- {Fatso}":" yes
+08/17/2024 20:44:14-- Système : le serveur s'arrêtera dans 4 minute(s) (message automatique).
+08/17/2024 20:44:20-- {Fatso}":" rats
+08/17/2024 20:44:24-- {Fatso}":" yes
+08/17/2024 20:44:31-- {Fatso}":" La source
+08/17/2024 20:45:14-- Système : le serveur s'arrêtera dans 3 minute(s) (message automatique).
+08/17/2024 20:46:14-- Système : le serveur s'arrêtera dans 2 minute(s) (message automatique).
+08/17/2024 20:47:14-- Système : le serveur s'arrêtera dans 1 minute(s) (message automatique).
+08/17/2024 20:48:14-- Système : le serveur s'arrête MAINTENANT ! (message automatique)
+08/17/2024 23:15:46-- Bienvenue sur T4C Neerya !
+08/17/2024 23:15:52-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/17/2024 23:15:52-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/17/2024 23:15:57-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/17/2024 23:16:53-- ["Gamealot"] "Bacarat": merci
+08/17/2024 23:17:46-- ["Game alot"] "Bacarat": merci
+08/17/2024 23:19:34-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/17/2024 23:19:40-- You are too far !
+08/17/2024 23:19:43-- ["Game alot"] "Bacarat": merci
+08/17/2024 23:25:55-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/17/2024 23:28:37-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/17/2024 23:29:40-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/17/2024 23:30:11-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/17/2024 23:35:57-- ["Main"] "Elva": "Betty" est-il/elle co sur un reroll ?
+08/17/2024 23:37:23-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/17/2024 23:43:36-- {Kilhiam}":" Oh ! Vous portez vous aussi l'affreuse marque de Balork au front ! Quel malheur ! Il marque tellement d'aventuriers de nos jours. Pardon? Un remède? Excusez-moi, je ne suis qu'une humble prêtresse en chef, je ne puis enlever cette marque. Vous devez trouver de l'aide ailleurs.
+08/17/2024 23:43:48-- {Theranos}":" nom
+08/17/2024 23:43:48-- {Kilhiam}":" Les gens d'ici sont aimables. Si vous voulez connaître le "nom" d'une personne, vous n'avez qu'à le lui demander. C'est la même chose pour leur "travail". La plupart d'entre eux vous le diront sans protester.
+08/17/2024 23:43:51-- {Theranos}":" travail
+08/17/2024 23:43:51-- {Kilhiam}":" Je suis une prêtresse d'"Artherk". J'"enseigne" parfois de nouveaux sorts à ceux que j'estime dignes d'assumer de telles responsabilités. Je ne suis pas la seule à faire cela. De nombreux praticiens peuvent vous enseigner à peu près toutes les compétences imaginables. Vous n'avez qu'à choisir une ou plusieurs voies qui s'offrent à vous afin de trouver les gens prêts à vous aider dans votre quête du savoir. Artherk m'a également accordé le don du "sanctuaire".
+08/17/2024 23:43:56-- {Theranos}":" enseigne
+08/17/2024 23:43:56-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/17/2024 23:44:00-- {Theranos}":" sanctuaire
+08/17/2024 23:44:00-- {Kilhiam}":" Voulez-vous l'apprendre maintenant ?
+08/17/2024 23:44:04-- {Theranos}":" oui
+08/17/2024 23:44:11-- {Kilhiam}":" Oh ! Vous portez vous aussi l'affreuse marque de Balork au front ! Quel malheur ! Il marque tellement d'aventuriers de nos jours. Pardon? Un remède? Excusez-moi, je ne suis qu'une humble prêtresse en chef, je ne puis enlever cette marque. Vous devez trouver de l'aide ailleurs.
+08/17/2024 23:44:14-- {Theranos}":" sanctuaire
+08/17/2024 23:44:14-- {Kilhiam}":" Le sanctuaire est l'endroit où votre corps et votre âme sont ramenés par la pierre de destinée si vous êtes tué. Voulez-vous désigner le temple Lighthaven comme sanctuaire?
+08/17/2024 23:44:20-- {Theranos}":" au revoir
+08/17/2024 23:44:20-- {Kilhiam}":" Bon, c'est très bien.
+08/17/2024 23:44:22-- {Kilhiam}":" Oh ! Vous portez vous aussi l'affreuse marque de Balork au front ! Quel malheur ! Il marque tellement d'aventuriers de nos jours. Pardon? Un remède? Excusez-moi, je ne suis qu'une humble prêtresse en chef, je ne puis enlever cette marque. Vous devez trouver de l'aide ailleurs.
+08/17/2024 23:44:24-- {Theranos}":" travail
+08/17/2024 23:44:24-- {Kilhiam}":" Je suis une prêtresse d'"Artherk". J'"enseigne" parfois de nouveaux sorts à ceux que j'estime dignes d'assumer de telles responsabilités. Je ne suis pas la seule à faire cela. De nombreux praticiens peuvent vous enseigner à peu près toutes les compétences imaginables. Vous n'avez qu'à choisir une ou plusieurs voies qui s'offrent à vous afin de trouver les gens prêts à vous aider dans votre quête du savoir. Artherk m'a également accordé le don du "sanctuaire".
+08/17/2024 23:44:30-- {Theranos}":" enseigne
+08/17/2024 23:44:30-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/17/2024 23:44:32-- {Mulonusse}":" acceder
+08/17/2024 23:44:33-- {Theranos}":" non
+08/17/2024 23:44:33-- {Kilhiam}":" Je vois, très bien alors.
+08/17/2024 23:44:38-- {Theranos}":" [ travail ]
+08/17/2024 23:44:47-- {Theranos}":" travail
+08/17/2024 23:44:50-- {Theranos}":" gurir
+08/17/2024 23:44:52-- {Theranos}":" guerir
+08/17/2024 23:44:59-- {Theranos}":" guerir
+08/17/2024 23:45:02-- {Theranos}":" travail
+08/17/2024 23:45:04-- {Theranos}":" magie
+08/17/2024 23:45:07-- {Theranos}":" enseigner
+08/17/2024 23:45:20-- {Mulonusse}":" adieu
+08/17/2024 23:47:16-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/17/2024 23:48:43-- ["Main"] "Warrang": bonjour a tous :)
+08/17/2024 23:48:54-- ["Main"] "Maxim": plop
+08/17/2024 23:49:02-- ["Main"] "Narsil": hello
+08/17/2024 23:49:08-- ["Main"] "Chimere De Narisa": plop
+08/17/2024 23:49:10-- ["Main"] "Sweep": Slt =) 
+08/17/2024 23:49:15-- ["Main"] "Easy": Salut
+08/17/2024 23:49:22-- ["Main"] "Latimer": salut
+08/17/2024 23:49:34-- ["Main"] "Isulka Main Noire":  slt  ;)
+08/17/2024 23:49:41-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/17/2024 23:49:42-- ["Main"] "Elva": Lut !
+08/17/2024 23:52:25-- {Caradoc Brutal}":" acheter
+08/17/2024 23:53:35-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/17/2024 23:54:01-- You are too far !
+08/17/2024 23:54:03-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/17/2024 23:54:03-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/17/2024 23:54:15-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/17/2024 23:56:14-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/18/2024 00:00:36-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/18/2024 00:04:26-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/18/2024 00:04:44-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/18/2024 00:04:44-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/18/2024 00:04:57-- ["Main"] "Kamoulox Caesar": Alain delon et mort suis triste le dernier d'une génération des grands
+08/18/2024 00:05:30-- ["Main"] "Maxim": et tjrs pas d'heritage pour David et Laura
+08/18/2024 00:05:37-- ["Main"] "Valeska De Scyla": mdr
+08/18/2024 00:06:42-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/18/2024 00:07:14-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 00:09:36-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 00:13:37-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 00:13:39-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 00:13:48-- ["Game alot"] "Bacarat": merci
+08/18/2024 00:14:07-- ["Gamealot"] "Bacarat": merci
+08/18/2024 00:14:09-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 00:14:11-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 00:14:19-- {Valerius}":" Le but est simple : affrontez (sans forcément vaincre) le Seigneur-Sorcier au niveau le plus haut possible. Peu importe votre groupe pour y arriver. Montrons-lui qui est le maître de Grimhawk !
+08/18/2024 00:14:23-- {Valerius}":" A la revoyure, graine de champion !
+08/18/2024 00:14:25-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 00:14:31-- ["Gamealot"] "Bacarat": merci
+08/18/2024 00:15:33-- Screenshot taken.
+08/18/2024 00:15:56-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/18/2024 00:15:58-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 14 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/18/2024 00:15:59-- {Valerius}":" Voilà le classement actuel : <>Noshera (110) <>Krazor (110) <>Leto (110) <>Komeron (110) <>Floria (110) <>Cyclope Mc Fly (110) <>Sanguis (110) <>Mandalorian (110) <>Marah (110) <>Sweep (110) <>Mahoko (110) <>Hespéris (110) <>Fantom (110) <>Ad Patres (110) <>Gandor (110) <>Elm (110)
+08/18/2024 00:16:01-- {Valerius}":" A la revoyure, graine de champion !
+08/18/2024 00:16:06-- ["Gamealot"] "Bacarat": merci
+08/18/2024 00:19:56-- {Hilarion}":" acheter
+08/18/2024 00:26:01-- ["Main"] "Abalister": o)
+08/18/2024 00:29:03-- {Halam}":" Bien le bonjour !
+08/18/2024 00:33:05-- [Draconis Sanctum] Grâce à la témérité de 18 aventuriers, les monstres de la Caldeira battent en retraite. Le nexus d'accès à la Tour Blanche s'est activé.
+08/18/2024 00:33:37-- ["Main"] "Abalister":  heu un gm est la ?
+08/18/2024 00:38:31-- ["Main"] "Lamoueste": bonjour neerya
+08/18/2024 00:38:39-- ["Main"] "Maxim": plop
+08/18/2024 00:38:52-- ["Main"] "Latimer": salut
+08/18/2024 00:46:50-- ["Main"] "Maple": Bonjour, pour un guerrier humain, vous me conseillez quoi comme sort sur l'anneau de lien svp ?
+08/18/2024 00:47:10-- ["Main"] "Tifany Taulern": Heal
+08/18/2024 00:48:18-- ["Main"] "Maple": Merci pour ta réponse Tifany
+08/18/2024 00:49:54-- Le saviez-vous ? <> À partir du niveau 150, explorez le {Draconis Sanctum} ! Cette île annexe renferme de nombreux défis à faire en solitaire ou en groupe, dont une {zone épique}.
+08/18/2024 00:51:22-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+08/18/2024 00:52:02-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+08/18/2024 00:52:12-- {Vénérothe}":" acceder
+08/18/2024 00:52:34-- {Dalbert}":" Bonjour, ExzibiT. Alors comme ça vous venez d'arriver en ville ? Oh... vous avez rencontré mon ami "Varriw" de Spellshore, le port de l'île de Grim Hawk.
+08/18/2024 00:52:35-- {Dalbert}":" Vraiment, une lettre pour moi ? Laissez-moi voir... {*lit la lettre*} Ah, je comprends mieux le motif de sa venue. Apparemment, il souhaite entrer au service de la "Baronnie".
+08/18/2024 00:52:37-- {Dalbert}":" Oui, Lighthaven est dirigée par un Baron ou une Baronne, au nom du royaume de Goldmoon dont nous sommes les vassaux... enfin, en théorie. Si vous voulez aider mon ami à se faire une place ici, je vous conseille d'aller voir "Ryla".
+08/18/2024 00:52:38-- {Dalbert}":" {Ryla} est la servante de compagnie. Allez-lui parler en mon nom, je suis ami avec elle depuis longtemps et je suis certain qu'elle saura aider Varriw à se faire une place dans notre village. Ah, j'oubliais : ne faites pas attention à son air guindé. Sortez de la taverne, suivez le chemin vers le sud jusqu'à la place du village. Ryla est dans la plus grand maison au {sud}.
+08/18/2024 00:55:54-- ["Vente"] "Elyna":  J'achete Un Baton du pelerin. Merci :)
+08/18/2024 00:56:21-- ["Vente"] "Gahz Hole": Achete ou trade serment (precis moi) contre brutal (vous)
+08/18/2024 00:56:55-- ["Vente"] "Gougoune Ardens": profitez en, il est rempli d'argent !
+08/18/2024 00:57:12-- ["Vente"] "Gahz Hole": Je suis un vrai 'trou' sans fond!
+08/18/2024 00:57:31-- ["Vente"] "Chimere De Narisa": vends une sae 
+08/18/2024 00:57:48-- ["Main"] "Pierino": Buon Di a tous
+08/18/2024 00:57:54-- ["Main"] "Piemur De Pern":  Salut !
+08/18/2024 00:58:07-- ["Main"] "Luminos": Salut
+08/18/2024 00:58:16-- ["Main"] "Lamoueste": salut
+08/18/2024 00:59:40-- ["Vente"] "Rha Le Prêtre": Vous l'avez attendu, je le refais ! " le super item mystère" en enchere mise a prix 1 po ! et on enchérie au minimum par tranche de 1k  :D c'est à vous ! :D
+08/18/2024 00:59:57-- ["Vente"] "Piemur De Pern": 1Po !
+08/18/2024 01:00:01-- ["Vente"] "Gougoune Ardens": 1k la popo critique ca vaut le coup !
+08/18/2024 01:00:16-- ["Vente"] "Elva": 10k !
+08/18/2024 01:00:17-- ["Vente"] "Rha Le Prêtre": 1k pour gougoune !
+08/18/2024 01:00:24-- ["Vente"] "Rha Le Prêtre": 10k pour elva pardon 
+08/18/2024 01:00:27-- ["Vente"] "Piemur De Pern": 11k
+08/18/2024 01:00:46-- ["Vente"] "Piemur De Pern": ; en fin de mois c'est un peu dur mais bon on fait l'effort !
+08/18/2024 01:00:48-- ["Vente"] "Rha Le Prêtre": le super item " ou plutot lot" d'item" super utile !
+08/18/2024 01:00:50-- ["Vente"] "Elva": 100k !
+08/18/2024 01:00:50-- ["Vente"] "Kamoulox Caesar": elva au lieu dencherir rembourse tes dettes
+08/18/2024 01:00:58-- ["Vente"] "Chimere De Narisa": bam 
+08/18/2024 01:01:04-- ["Vente"] "Chimere De Narisa": 1 kamou 0elva
+08/18/2024 01:01:05-- ["Vente"] "Rha Le Prêtre": kamoulox toi aussi :p
+08/18/2024 01:01:08-- ["Vente"] "Elva": deja fait kamou t as 3 jours de retard !
+08/18/2024 01:01:16-- ["Vente"] "Kamoulox Caesar": ;)
+08/18/2024 01:01:17-- ["Vente"] "Chimere De Narisa": 1 partout
+08/18/2024 01:01:17-- ["Main"] "Miss Izardens Mn":  et bin
+08/18/2024 01:01:30-- ["Main"] "Padre Pio": plop 
+08/18/2024 01:01:32-- ["Vente"] "Rha Le Prêtre": 100K pour ELVA !
+08/18/2024 01:01:34-- ["Vente"] "Maxim": Kamou est enceinte ? oO
+08/18/2024 01:01:49-- ["Vente"] "Valeska De Scyla": 110
+08/18/2024 01:01:59-- ["Vente"] "Madame Poizet": oui, c'est Ward le pere
+08/18/2024 01:02:05-- ["Vente"] "Rha Le Prêtre": 110  le super lot, sera super gagnant !
+08/18/2024 01:02:08-- ["Vente"] "Chimere De Narisa": Oo
+08/18/2024 01:02:11-- ["Vente"] "Maxim": omg noyez la portée
+08/18/2024 01:02:14-- ["Vente"] "Elva": 200 !
+08/18/2024 01:02:15-- ["Vente"] "Rha Le Prêtre": aussi bien a l'utilisation qu'a la revente :D
+08/18/2024 01:02:19-- ["Vente"] "Valeska De Scyla": 210
+08/18/2024 01:02:31-- ["Vente"] "Rha Le Prêtre": 210K par ici !
+08/18/2024 01:02:40-- ["Vente"] "Elva": 250 !
+08/18/2024 01:02:47-- ["Vente"] "Valeska De Scyla": 300 !
+08/18/2024 01:02:52-- ["Main"] "Padre Pio": il a une p'tite place dans une guilde sympa pour un jeune pretre  qui reprend le jeux apres plus de 10ans ?^^
+08/18/2024 01:03:01-- ["Vente"] "Elva": daaaamn 500 !
+08/18/2024 01:03:07-- ["Vente"] "Valeska De Scyla": ok )
+08/18/2024 01:03:20-- ["Vente"] "Rha Le Prêtre": 500k ! cela monte et l'acheteur sera encore gagnant ! :D
+08/18/2024 01:03:42-- ["Vente"] "Madame Poizet": c'est un Orichalque non arca ! il l'a drop hier
+08/18/2024 01:03:45-- ["Main"] "Maxim": les Broken Sword ont passé le message recemment qu'ils recrutaient, a voir
+08/18/2024 01:03:46-- ["Vente"] "Valeska De Scyla": non mais je vois qu' Elva le veut je lui liasse )
+08/18/2024 01:03:50-- ["Vente"] "Rha Le Prêtre": le record d'enchère et tenu par Elsa Marie Henriette qui a misé 20m entrerez vous dans la légende?
+08/18/2024 01:04:09-- {Halam}":" Bien le bonjour !
+08/18/2024 01:04:19-- ["Vente"] "Chimere De Narisa": c'etait deja une legende bien avant ca ...
+08/18/2024 01:04:32-- ["Main"] "Madame Poizet": ils recrutent oui, TOUS LE MONDE! :p
+08/18/2024 01:04:44-- ["Vente"] "Elva": 550 ! Ah merde c etait moi avant...
+08/18/2024 01:05:00-- ["Main"] "Valeska De Scyla": on recrute un peu qui no veut )
+08/18/2024 01:05:02-- ["Main"] "Valeska De Scyla": on
+08/18/2024 01:05:03-- ["Vente"] "Rha Le Prêtre": 500K une fois " pour le lot mystère !!! 
+08/18/2024 01:05:11-- ["Vente"] "Valeska De Scyla": 600
+08/18/2024 01:05:17-- ["Vente"] "Valeska De Scyla": je reviens =)
+08/18/2024 01:05:19-- ["Vente"] "Rha Le Prêtre": 500K 2 fois pour le superbe lot mystère !
+08/18/2024 01:05:24-- ["Vente"] "Rha Le Prêtre": 600 !
+08/18/2024 01:05:27-- ["Vente"] "Elva": noooon Valeeeees
+08/18/2024 01:05:30-- ["Vente"] "Valeska De Scyla": /padre 2 minutes je suis a toi )
+08/18/2024 01:05:30-- ["Vente"] "Elva": 800 !
+08/18/2024 01:05:42-- ["Vente"] "Valeska De Scyla": 1 M
+08/18/2024 01:05:42-- ["Vente"] "Chimere De Narisa": 1m
+08/18/2024 01:05:59-- ["Vente"] "Elva": 1.5
+08/18/2024 01:06:03-- ["Vente"] "Rha Le Prêtre": 1M mesdames est messieurs !
+08/18/2024 01:06:11-- ["Vente"] "Chimere De Narisa": 2m
+08/18/2024 01:06:12-- ["Vente"] "Valeska De Scyla": roh !
+08/18/2024 01:06:20-- ["Vente"] "Elva": 3 !
+08/18/2024 01:06:28-- ["Vente"] "Rha Le Prêtre": 2 met ça monte ! le lot et toujours gagnt a ce prix la ! :D
+08/18/2024 01:06:31-- ["Vente"] "Kamoulox Caesar": connivence entre marmottes moi je dit
+08/18/2024 01:06:33-- ["Vente"] "Chimere De Narisa": soleil j'ai gagne
+08/18/2024 01:06:37-- ["Vente"] "Elva": kek
+08/18/2024 01:06:47-- ["Vente"] "Rha Le Prêtre": 3M ! 
+08/18/2024 01:06:55-- ["Vente"] "Elva": non il veut pas me dire ce que c est en plus !
+08/18/2024 01:07:01-- ["Vente"] "Chimere De Narisa": soleil encore une fois j'ai gange
+08/18/2024 01:07:04-- ["Vente"] "Chimere De Narisa": gagne*
+08/18/2024 01:07:40-- ["Vente"] "Rha Le Prêtre": 3m une fois ! pour ce lot "mystère" encore mieux que les colis !
+08/18/2024 01:07:49-- ["Vente"] "Elva": a moi la potion critique ! >_<
+08/18/2024 01:07:51-- ["Vente"] "Rha Le Prêtre": chez Rha c'est des prix bas !
+08/18/2024 01:08:06-- ["Vente"] "Rha Le Prêtre": 3 m une fois !*
+08/18/2024 01:08:17-- ["Vente"] "Rha Le Prêtre": 3 m deux fois !!! suspense !
+08/18/2024 01:08:27-- ["Vente"] "Rha Le Prêtre": Attentions mesdames et messieur !
+08/18/2024 01:08:41-- ["Vente"] "Chimere De Narisa": une hyperpotion d'esuive gg
+08/18/2024 01:08:41-- ["Vente"] "Rha Le Prêtre": 3 m Adjugé vendu !
+08/18/2024 01:08:44-- {Guille}":" [ naviguer vers windhowl ]
+08/18/2024 01:08:46-- ["Vente"] "Elva": solide
+08/18/2024 01:08:55-- {Halam}":" Bien le bonjour !
+08/18/2024 01:09:06-- ["Vente"] "Elva": t es ou ? xD
+08/18/2024 01:09:19-- ["Vente"] "Rha Le Prêtre": je vais nexus tu gagne un lot de 10 compos
+08/18/2024 01:09:42-- ["Main"] "Tifany Taulern": Compos FS ? 
+08/18/2024 01:09:43-- ["Vente"] "Elva": Fabulous !
+08/18/2024 01:09:52-- ["Vente"] "Rha Le Prêtre": compo ZE
+08/18/2024 01:10:06-- ["Vente"] "Fantom": Ah wé c'est tradable ? C'est nouveau ?
+08/18/2024 01:10:07-- ["Main"] "Easy": 100% des gagnants ont tenté leurs chances
+08/18/2024 01:10:10-- ["Vente"] "Fantom": sw
+08/18/2024 01:10:46-- ["Vente"] "Fantom": En parlant de compo FS j'échange bois (moi) vs tout autre compo. Tarif avantageux pour certaines 
+08/18/2024 01:10:47-- ["Vente"] "Elyna":  Kikoo drenny :)
+08/18/2024 01:10:50-- ["Vente"] "Elyna":  sw
+08/18/2024 01:11:12-- ["Vente"] "Chimere De Narisa": moi je vends une sae propre , repassé et joliment plié
+08/18/2024 01:11:12-- ["Vente"] "Madame Poizet": le bois de Bichon?
+08/18/2024 01:11:30-- ["Main"] "Mandorall": Bonjour à toute et à tous !
+08/18/2024 01:11:35-- ["Main"] "Caradoc Brutal": pas bien l'xp afk ...
+08/18/2024 01:11:42-- ["Vente"] "Spont": Non il est toujours planqué celui la on le cherche encore

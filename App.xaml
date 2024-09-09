@@ -1,0 +1,19 @@
+﻿<Application x:Class="T4C_Translator.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+			 xmlns:properties="clr-namespace:T4C_Translator.Properties"
+			 xmlns:local="clr-namespace:T4C_Translator"
+			 Exit="OnExit">
+	<Application.Resources>
+		<ResourceDictionary>
+			<BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+			<local:NumberWithCommaConverter x:Key="NumberWithCommaConverter"/>
+			<local:AllFieldsFilledConverter x:Key="AllFieldsFilledConverter" />
+			<ResourceDictionary.MergedDictionaries>
+				<ResourceDictionary Source="Themes/ColourDictionaries/SoftDark.xaml"/>
+				<ResourceDictionary Source="Themes/ControlColours.xaml"/>
+				<ResourceDictionary Source="Themes/Controls.xaml"/>
+			</ResourceDictionary.MergedDictionaries>
+		</ResourceDictionary>
+	</Application.Resources>
+</Application>

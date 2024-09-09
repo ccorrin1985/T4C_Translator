@@ -1,0 +1,183 @@
+﻿<Window x:Class="T4C_Translator.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:T4C_Translator"
+		xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+		Style="{StaticResource CustomWindowStyle}"
+		Title="{Binding StatusMessage}"
+		SizeChanged="Window_SizeChanged"
+		Loaded="Window_Loaded"
+        Width="730" MinWidth="730" Height="600" >
+	<Grid x:Name="PrimaryGrid">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+			<RowDefinition Height="Auto"/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition Width="*"/>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition Width="*"/>
+		</Grid.ColumnDefinitions>
+		<StackPanel Grid.Row="0" Grid.Column="0" Margin="5,5,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">
+			<StackPanel Orientation="Horizontal">
+				<TextBlock Text="API Char Count: " Margin="0,0,0,0" Foreground="Yellow" FontWeight="Light" FontSize="12"/>
+				<TextBlock Text="{Binding APICount, Converter={StaticResource NumberWithCommaConverter}, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,5" Foreground="Yellow" FontWeight="Light" FontSize="12"/>
+			</StackPanel>
+			<StackPanel Orientation="Horizontal">
+				<Button Content="Save Settings" Click="SaveConfigButton_Click" Margin="0,0,0,0"  HorizontalAlignment="Left">
+				<Button.IsEnabled>
+					<MultiBinding Converter="{StaticResource AllFieldsFilledConverter}">
+						<Binding ElementName="SourceFolderTextBox" Path="Text" />
+						<Binding ElementName="SourceLanguageComboBox" Path="SelectedItem" />
+						<Binding ElementName="OutputLanguageComboBox" Path="SelectedItem" />
+							<Binding ElementName="OutputFileNameTextBox" Path="Text" />
+						</MultiBinding>
+				</Button.IsEnabled>
+			</Button>
+				<Button Content="Reset Count" Click="ResetAPICountButton_Click"  Margin="5,0,0,0"  HorizontalAlignment="Left"></Button>
+			</StackPanel>
+			</StackPanel>
+		<!--First row second column spanning 2-->
+		<StackPanel x:Name="QuickTranslateStackPanel" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="3" Margin="5,0,5,0">
+			<TextBlock Text="Quick Translate:" Margin="1,0,0,0"/>
+			<ComboBox x:Name="QuickTranslateComboBox" MaxHeight="25" ItemsSource="{Binding QuickTranslatefilteredItems}" SelectedItem="{Binding SelectedQuickTranslate}" SelectionChanged="QuickTranslateComboBox_SelectionChanged"  SelectedValuePath="Content"  HorizontalAlignment="Left" Margin="0,0,0,2">
+				<ComboBox.ItemTemplate>
+					<DataTemplate>
+						<StackPanel x:Name="QuickTranslateInnerStackPanel" Orientation="Horizontal" HorizontalAlignment="Right">
+							<Button Content="X" Foreground="Red" Width="20" Height="20" Margin="0,0,5,0" Click="QuickTranslateComboBoxRemoveItem_Click" HorizontalAlignment="Right" />
+							<TextBlock Text="{Binding QuickTranslateText}"  VerticalAlignment="Center" />
+						</StackPanel>
+					</DataTemplate>
+				</ComboBox.ItemTemplate>
+			</ComboBox>
+		</StackPanel>
+		<!--Second row with 4 columns-->
+		<StackPanel Grid.Row="1" Grid.Column="0" Margin="5,10,0,0">
+			<StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+				<CheckBox Name="UseFreeAPICheckBox" IsChecked="{Binding UseFreeAPI}" Margin="0,0,5,2" Checked="UseFreeAPICheckBox_Checked" Unchecked="UseFreeAPICheckBox_UnChecked" VerticalAlignment="Top"/>
+				<TextBlock Text="Translate Locally" Margin="0,0,0,5" HorizontalAlignment="Left" />
+			</StackPanel>
+			<TextBlock Text="Google API Char Limit:" HorizontalAlignment="Left"  />
+			<TextBox Name="CharLimitTextBox" Text="{Binding APILimit, Converter={StaticResource NumberWithCommaConverter}, UpdateSourceTrigger=PropertyChanged}" PreviewTextInput="NumberValidationTextBox" Width="105"  HorizontalAlignment="Left" />
+			<TextBlock Text="T4C Character Name: " HorizontalAlignment="Left" Margin="0,5,0,0"  />
+			<TextBox Name="CharacterNameTextBox" Text="{Binding CharacterName}" Width="159"  HorizontalAlignment="Left" />
+			<TextBlock Text="Translate From:" Margin="0,8,0,0" HorizontalAlignment="Left" />
+			<ComboBox Name="SourceLanguageComboBox" ItemsSource="{Binding SourceLanguagefilteredItems}"  SelectedItem="{Binding SelectedSourceLanguage}" Width="160" SelectionChanged="SourceLanguageComboBox_SelectionChanged" SelectedValuePath="Content" HorizontalAlignment="Left"></ComboBox>
+			<TextBlock Text="Translate To:" Margin="0,10,0,0" HorizontalAlignment="Left" />
+			<ComboBox Name="OutputLanguageComboBox" ItemsSource="{Binding OutputLanguagefilteredItems}" SelectedItem="{Binding SelectedOutputLanguage}" Width="160" SelectionChanged="OutputLanguageComboBox_SelectionChanged" SelectedValuePath="Content" HorizontalAlignment="Left"></ComboBox>
+			<TextBlock Text="T4C Log Folder: " HorizontalAlignment="Left" Margin="0,5,0,0"  />
+			<TextBox Name="SourceFolderTextBox" Text="{Binding SourceFolder}"  Width="159"  HorizontalAlignment="Left" />
+			<Button x:Name="BrowseLogFileButton" Content="Browse" Click="BrowseSourceFolder_Click" Width="100" HorizontalAlignment="Left" />
+			<TextBlock Text="Translated File:" Margin="0,10,0,0" HorizontalAlignment="Left" />
+			<TextBox Name="OutputFileNameTextBox" Text="{Binding OutputFileName}" Width="160" HorizontalAlignment="Left" />
+			<Button x:Name="BrowseTranslatedFileButton" Content="Browse" Click="BrowseOutputFile_Click" Width="100" HorizontalAlignment="Left" />
+			<StackPanel x:Name="GoogleTranslateAPIKeyStackPanel" Visibility="Visible">
+				<TextBlock Text="Google Translate API Key:" Margin="0,10,0,0" HorizontalAlignment="Left" />
+				<TextBox Name="ApiKeyTextBox" Text="{Binding APIKey}" Width="160"  HorizontalAlignment="Left" Margin="0,0,3,0" />
+			</StackPanel>
+			<Button Name="TranslateButton" Content="Start Translation" Click="TranslateButton_Click" Width="160" Margin="0,15,0,2" HorizontalAlignment="Left">
+				<Button.IsEnabled>
+					<MultiBinding Converter="{StaticResource AllFieldsFilledConverter}">
+						<Binding ElementName="SourceFolderTextBox" Path="Text" />
+						<Binding ElementName="SourceLanguageComboBox" Path="SelectedItem" />
+						<Binding ElementName="OutputLanguageComboBox" Path="SelectedItem" />
+						<Binding ElementName="OutputFileNameTextBox" Path="Text" />
+					</MultiBinding>
+				</Button.IsEnabled>
+			</Button>
+		</StackPanel>
+		<!--Second row on second column-->
+		<StackPanel Grid.Row="1" Grid.Column="1" Margin="5,0,0,0" >
+			<TextBlock Name="texttotranslateLabel" Text="Manually translate from:" Margin="0,5,0,0" HorizontalAlignment="Left"/>
+			<ComboBox Name="QTOutputLanguageComboBox" ItemsSource="{Binding OutputLanguagefilteredItems}" SelectedItem="{Binding SelectedQTOutputLanguage}" Width="160" SelectionChanged="QTOutputLanguageComboBox_SelectionChanged" SelectedValuePath="Content" HorizontalAlignment="Left" Margin="0,0,0,5"/>
+			<RichTextBox Name="ManualTranslationTextBoxInput" Grid.Row="1" TextChanged="ManualTranslationTextBoxInput_TextChanged" FontFamily="Consolas" VerticalScrollBarVisibility="Auto" IsReadOnly="False" Height="325" FontSize="{Binding SelectedFontSize.Size}" Foreground="{Binding SelectedFontColor.Color}"/>
+		</StackPanel>
+		<!--Second row on third column-->
+		<StackPanel Grid.Row="1" Grid.Column="2" Margin="0">
+			<Button Name="ManuallyTranslateButton" IsEnabled="False" Click="ManuallyTranslate_Click" Width="25"  Margin="4,140,5,0">
+				<Button.Content>
+					<TextBlock><Bold FontSize="18">-></Bold></TextBlock>
+				</Button.Content>
+			</Button>
+		</StackPanel>
+		<!--Second row on fourth column-->
+		<StackPanel x:Name="ManualTranslationOutputStackPanel" Grid.Row="1" Grid.Column="3" Margin="0,0,5,0">
+			<TextBlock Name="translatedTextLabel" Text="Manually translate to:" Margin="0,5,0,0" HorizontalAlignment="Left"/>
+			<ComboBox Name="QTSourceLanguageComboBox" ItemsSource="{Binding SourceLanguagefilteredItems}"  SelectedItem="{Binding SelectedQTSourceLanguage}" Width="160" SelectionChanged="QTSourceLanguageComboBox_SelectionChanged" SelectedValuePath="Content" HorizontalAlignment="Left" Margin="0,0,0,5"/>
+			<RichTextBox Name="ManualTranslationTextBoxOutput" Grid.Row="2" VerticalScrollBarVisibility="Auto" IsReadOnly="True" Height="325" FontFamily="Consolas" FontSize="{Binding SelectedFontSize.Size}" Foreground="{Binding SelectedFontColor.Color}"/>
+			<Button Name="AddQuickTranslateButton" IsEnabled="False" Content="Add Quick Translate" Width="127" Margin="0,10,0,0" HorizontalAlignment="Left" Click="AddQuickTranslateButton_Click"></Button>
+		</StackPanel>
+		<!--Third row on first column-->
+		<StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="0" Margin="6,10,0,2"/>
+		<!--Third row on second column-->
+		<StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="1" Margin="2,10,0,2">
+			<!--Content here...-->
+		</StackPanel>
+		<!--Third row on third column-->
+		<StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="2" Margin="2,10,0,2">
+			<!--Content here...-->
+		</StackPanel>
+		<!--Third row on fourth column-->
+		<StackPanel x:Name="OutputStackPanel" Orientation="Horizontal" Grid.Row="2"  Grid.ColumnSpan="4" Margin="2,8,3,2" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+			<TextBlock HorizontalAlignment="Right" Text="Show Untranslated:" Margin="0,0,5,1" VerticalAlignment="Bottom"/>
+			<CheckBox Name="ShowOriginalTextCheckBox" IsChecked="{Binding ShowOriginalText}" Margin="0,0,5,2" Checked="ShowOriginalTextCheckBox_Checked" Unchecked="ShowOriginalTextCheckBox_Checked" VerticalAlignment="Bottom"/>
+			<TextBlock HorizontalAlignment="Right" Text="Ignore:" Margin="0,0,5,1" VerticalAlignment="Bottom"/>
+			<CheckBox Name="IgnoreChatMessagesCheckBox" IsChecked="{Binding IgnoreChatMessages}" Margin="0,0,5,2" Checked="IgnoreChatMessagesCheckBox_Checked" Unchecked="IgnoreChatMessagesCheckBox_Checked" VerticalAlignment="Bottom" />
+			<TextBlock HorizontalAlignment="Right" Text="Channel List:" Margin="0,0,5,1" VerticalAlignment="Bottom" />
+			<ComboBox x:Name="IgnoreChatComboBox" ItemsSource="{Binding IgnoreChatComboBoxItems}" SelectedItem="{Binding SelectedIgnoreChat}" KeyDown="IgnoreChatComboBox_KeyDown" Loaded="IgnoreChatComboBox_Loaded" IsEditable="True" Width="140"  SelectedValuePath="Content"   Margin="0,0,10,2">
+				<ComboBox.ItemTemplate>
+					<DataTemplate>
+						<StackPanel Orientation="Horizontal">
+							<Button Content="X" Foreground="Red" Width="20" Height="20" Margin="0,0,5,0" Click="IgnoreChatComboBoxRemoveItem_Click"/>
+							<TextBlock Text="{Binding ChatChannel}" VerticalAlignment="Center"/>
+						</StackPanel>
+					</DataTemplate>
+				</ComboBox.ItemTemplate>
+			</ComboBox>
+			<TextBlock HorizontalAlignment="Right" Text="Font Color:" Margin="0,0,5,1" VerticalAlignment="Bottom"/>
+			<ComboBox Name="FontColorComboBox" ItemsSource="{Binding FontColorComboBoxItems}" SelectedItem="{Binding SelectedFontColor}" SelectionChanged="FontColorComboBox_SelectionChanged" SelectedValuePath="Content"  Margin="0,0,10,2" Width="115">
+				<ComboBox.ItemTemplate>
+					<DataTemplate>
+						<DockPanel LastChildFill="False" Margin="0,0,10,0">
+							<Rectangle VerticalAlignment="Center" Fill="{Binding Color}" 
+                               Width="16" Height="16" Margin="0,2,5,2" />
+							<TextBlock x:Name="txtColor"  VerticalAlignment="Center" 
+                                 Text="{Binding Color}" />
+						</DockPanel>
+					</DataTemplate>
+				</ComboBox.ItemTemplate>
+			</ComboBox>
+			<TextBlock HorizontalAlignment="Right" Text="Font Size:" Margin="0,0,5,1" VerticalAlignment="Bottom"/>
+			<ComboBox Name="FontSizeComboBox" SelectionChanged="FontSizeComboBox_SelectionChanged" ItemsSource="{Binding FontSizeComboBoxItems}" SelectedItem="{Binding SelectedFontSize}" SelectedValuePath="Content" Margin="0,0,0,2" Width="50">
+				<ComboBox.ItemTemplate>
+					<DataTemplate>
+						<DockPanel LastChildFill="False" Margin="0,0,10,0">
+							<TextBlock x:Name="txtFontSize"  VerticalAlignment="Center" 
+                                 Text="{Binding Size}" />
+						</DockPanel>
+					</DataTemplate>
+				</ComboBox.ItemTemplate>
+			</ComboBox>
+		</StackPanel>
+		<!-- Fourth row spanning all columns -->
+		<DockPanel x:Name="LogOutputDockPanel" Grid.Row="3" Grid.ColumnSpan="4" Margin="5,0,0,0">
+			<RichTextBox x:Name="OutputLogRichTextBox" IsReadOnly="True" IsDocumentEnabled="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+				<RichTextBox.Document>
+					<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+					</FlowDocument>
+				</RichTextBox.Document>
+			</RichTextBox>
+		</DockPanel>
+		<!--Fifth row spanning all columns -->
+		<StackPanel Grid.Row="4" Grid.ColumnSpan="4" Margin="0,0,0,0"  x:Name="LastStackPanel" VerticalAlignment="Top">
+			<Button Name="ClearLogButton" Content="Clear Log" Width="75"  HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5,5,5,5" Click="ClearLogButton_Click"></Button>
+		</StackPanel>
+	</Grid>
+</Window>

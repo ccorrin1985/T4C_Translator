@@ -1,0 +1,601 @@
+08/11/2024 14:14:39-- Bienvenue sur T4C Neerya !
+08/11/2024 14:14:41-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 14:14:41-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 14:16:54-- {Rivka}":" vendre
+08/11/2024 14:23:27-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 14:23:27-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 14:23:57-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 14:23:57-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 14:24:01-- ["Main"] "Valence": Du SH NM qui tourne? :)
+08/11/2024 14:24:53-- ["Main"] "Ed Pettrovitch": dispo SS/GB
+08/11/2024 14:25:10-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 14:25:10-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 14:26:08-- {Sarge}":" acheter
+08/11/2024 14:27:07-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 14:29:13-- ["Vente"] "Haplo Belvel": jachetes compos de quetes dacces FS : fiole d'eau, venin et grains de souffre
+08/11/2024 14:30:29-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 14:30:29-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 14:32:14-- ["Main"] "Elsi": dispo rd hm
+08/11/2024 14:32:23-- ["Vente"] "Sarge": J'achete 2 Fluides de Zozo (ou j'offre des compos FS contre)
+08/11/2024 14:35:03-- ["Vente"] "Johnny Rock": achete reskin robe ou toute piece
+08/11/2024 14:36:00-- ["Vente"] "Sarge": Me manque plus que 1 fluide de Zozo, 1M ou compo(s) FS
+08/11/2024 14:39:37-- ["Main"] "Elsi": dispo rd hm
+08/11/2024 14:39:42-- {Sarge}":" [ buch ]
+08/11/2024 14:39:48-- {Harm Ure}":" [ ouep :) ]
+08/11/2024 14:40:13-- {Sarge}":" [ Merci :) ]
+08/11/2024 14:40:14-- {Harm Ure}":" [ Merci :) ]
+08/11/2024 14:40:17-- {Harm Ure}":" [ ++ ]
+08/11/2024 14:40:19-- {Sarge}":" [ ++ ]
+08/11/2024 14:42:09-- {Rivka}":" vendre
+08/11/2024 14:42:16-- {Rivka}":" vendre
+08/11/2024 14:42:29-- {Rivka}":" vendre
+08/11/2024 14:45:12-- ["Main"] "Anoukie": des motivés  pour un RD HM ou 2 ?? :)
+08/11/2024 14:45:22-- ["Main"] "Elsi": up
+08/11/2024 14:45:24-- ["Main"] "Ynem Wapasir": Dispo
+08/11/2024 14:45:33-- ["Main"] "Baube": Oue up pour 2 tours
+08/11/2024 14:45:58-- ["Main"] "Anoukie": aller ben c'est pas mal 4, y'a du healer ?
+08/11/2024 14:46:16-- ["Main"] "Vénérothe": Ca fais 6 heeure que je suis sur le coffre reynen
+08/11/2024 14:46:30-- ["Main"] "Anoukie": aller encore 2 personnes svp :)
+08/11/2024 14:47:24-- ["Main"] "Anorfirithien": 6h? t'es ogrimarien?
+08/11/2024 14:47:39-- ["Main"] "Anorfirithien": ah non
+08/11/2024 14:48:55-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+08/11/2024 14:48:59-- ["Main"] "Fratak": je ppeu venir si vous etes mal pris
+08/11/2024 14:50:32-- ["Main"] "Anoukie": plus la ynem ?
+08/11/2024 14:50:47-- {Tekk}":" entrainer
+08/11/2024 14:51:37-- ["Main"] "Anoukie": RD HM 6/8
+08/11/2024 14:53:02-- ["Main"] "Piemur De Pern":  Ca a buggé la quête d'accès EH je n'ai qu'un seul point de stat à mettre en tout
+08/11/2024 14:53:09-- ["Main"] "Seleste": Quel level pour tuer Jarko en solo ?
+08/11/2024 14:53:40-- ["Main"] "Ribambelle": Faut tu reparles a chaque pnj qui te donne 1 point
+08/11/2024 14:53:41-- ["Main"] "Anoukie": RD HM 6/8 heal et dps ?
+08/11/2024 14:55:48-- ["Main"] "Anoukie": RD HM 6/8 heal et dps ?
+08/11/2024 14:56:01-- ["Main"] "Piemur De Pern":  dispo RD hm
+08/11/2024 14:56:08-- ["Main"] "Piemur De Pern":  je suis guerrier noobi
+08/11/2024 14:56:48-- ["Main"] "Anoukie": RD HM 6/8 heal ?
+08/11/2024 14:58:15-- Bienvenue sur T4C Neerya !
+08/11/2024 14:58:45-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 14:58:45-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 14:58:56-- {Seleste}":" entrainer
+08/11/2024 14:59:00-- ["Main"] "Anoukie": RD HM 6/8 heal ? on est pret a partir :)
+08/11/2024 14:59:05-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 14:59:05-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 14:59:16-- {Seleste}":" coup d'oeil
+08/11/2024 14:59:30-- {Seleste}":" armure
+08/11/2024 14:59:32-- {Seleste}":" vendre
+08/11/2024 14:59:45-- {Seleste}":" acheter
+08/11/2024 15:00:51-- ["Main"] "Anoukie": RD HM 6/8 heal ? on est pret a partir :)
+08/11/2024 15:02:47-- [Instance de Raven's Dust Héroïque] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (parmi lesquels Elsi, Sanavlys et Fratak) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/11/2024 15:05:08-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 15:05:08-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 15:05:15-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/11/2024 15:05:15-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/11/2024 15:05:25-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 15:05:25-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 15:05:26-- {Lighthaven Samaritan}":" Hello. Welcome to Lighthaven. Do you have any questions "?"
+08/11/2024 15:05:50-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 15:05:50-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 15:06:38-- ["Main"] "Ed Pettrovitch": dispo ss/gb
+08/11/2024 15:07:24-- ["Vente"] "Haplo Belvel": jachete 5 venins d'araignée veuve
+08/11/2024 15:11:02-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/11/2024 15:11:12-- {Fitzcairn}":" apprendre
+08/11/2024 15:11:16-- {Fitzcairn}":" apprendre
+08/11/2024 15:11:18-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/11/2024 15:11:19-- {Fitzcairn}":" apprendre
+08/11/2024 15:11:19-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/11/2024 15:11:21-- {Fitzcairn}":" oui
+08/11/2024 15:11:25-- {Kilhiam}":" Adieu, mon ami.
+08/11/2024 15:11:29-- You are too far !
+08/11/2024 15:11:40-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 15:11:40-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 15:11:58-- You are too far !
+08/11/2024 15:12:08-- [Invasions] Alors que vous passez à proximité d'un crieur de rue, celui-ci vous fait signe de venir : vous devriez écouter ce qu'il a à vous dire.
+08/11/2024 15:12:11-- {Un crieur de rue}":" Ah ! *sourire* J'ai enfin réussi à capter votre attention. Mon rôle est de vous informer que l'île d'Arakas est l'objet d'une lutte d'influence entre plusieurs "factions rivales" qui ont chacune grand besoin de nouvelles recrues.
+08/11/2024 15:12:28-- Screenshot taken.
+08/11/2024 15:14:22-- Le saviez-vous ? <> Il existe quatre {instances} à faire en groupe. Ces zones existent en différents niveaux de difficulté et vous offrent la possibilité de collectionner des points pour faire évoluer l'équipement.
+08/11/2024 15:15:19-- {Fitzcairn}":" Lighthaven
+08/11/2024 15:16:05-- {Un crieur de rue}":" Ah ! *sourire* J'ai enfin réussi à capter votre attention. Mon rôle est de vous informer que l'île d'Arakas est l'objet d'une lutte d'influence entre plusieurs "factions rivales" qui ont chacune grand besoin de nouvelles recrues.
+08/11/2024 15:16:08-- You are too far !
+08/11/2024 15:17:35-- {Geena}":" Bonjour ! En quoi puis-je vous aider?
+08/11/2024 15:18:32-- {Pedro Gomez}":" acheter
+08/11/2024 15:18:40-- {Pedro Gomez}":" adieu
+08/11/2024 15:20:38-- {Fitzcairn}":" oui
+08/11/2024 15:20:44-- {Fitzcairn}":" tâche
+08/11/2024 15:24:04-- {Freydis}":" entrainer
+08/11/2024 15:24:08-- {Freydis}":" entrainer
+08/11/2024 15:28:39-- {Fitzcairn}":" oui
+08/11/2024 15:28:41-- {Fitzcairn}":" rat
+08/11/2024 15:28:45-- {Fitzcairn}":" tâche
+08/11/2024 15:28:47-- {Fitzcairn}":" oui
+08/11/2024 15:28:52-- {Fitzcairn}":" tâche
+08/11/2024 15:29:12-- {Fitzcairn}":" oui
+08/11/2024 15:33:27-- {Fitzcairn}":" acheter
+08/11/2024 15:36:39-- [Instance de Raven's Dust Héroïque] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (parmi lesquels Elsi, Anoukie et Sanavlys) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/11/2024 15:40:12-- {Fitzcairn}":" apprendre
+08/11/2024 15:40:23-- {Fitzcairn}":" entrainement
+08/11/2024 15:43:42-- ["Main"] "Rivka": Tu vas bien ? :)
+08/11/2024 15:43:46-- ["Main"] "Rivka": sw!
+08/11/2024 15:48:28-- ["Main"] "Ynem Wapasir": Des gens dispo pour instance Hm?
+08/11/2024 15:48:42-- ["Main"] "Baube": T'as manque les tours de RD HM :p
+08/11/2024 15:48:53-- ["Main"] "Ynem Wapasir": Y'a de la place?
+08/11/2024 15:49:03-- ["Main"] "Giz Bow": :(
+08/11/2024 15:49:14-- ["Main"] "Anoukie": a voir si on continue ou pas
+08/11/2024 15:49:27-- ["Main"] "Piemur De Pern":  je continue j'ai encore des popos :)
+08/11/2024 15:53:48-- {Fitzcairn}":" entrainement
+08/11/2024 15:54:25-- {Fitzcairn}":" vendre
+08/11/2024 15:54:35-- {Fitzcairn}":" acheter
+08/11/2024 15:55:23-- {Fitzcairn}":" oui
+08/11/2024 15:56:45-- {Fitzcairn}":" acheter
+08/11/2024 15:56:47-- {Fitzcairn}":" oui
+08/11/2024 16:07:29-- You receive 18 gold pieces.
+08/11/2024 16:07:34-- Key already bound.
+08/11/2024 16:07:36-- Key already bound.
+08/11/2024 16:07:37-- Key already bound.
+08/11/2024 16:07:40-- Key already bound.
+08/11/2024 16:07:44-- Key already bound.
+08/11/2024 16:07:57-- You receive 14 gold pieces.
+08/11/2024 16:08:03-- You receive 21 gold pieces.
+08/11/2024 16:08:07-- You receive 25 gold pieces.
+08/11/2024 16:08:17-- You receive 26 gold pieces.
+08/11/2024 16:08:23-- You receive 16 gold pieces.
+08/11/2024 16:08:29-- You receive 14 gold pieces.
+08/11/2024 16:08:30-- You cannot carry any more weight.
+08/11/2024 16:08:37-- You receive 16 gold pieces.
+08/11/2024 16:08:43-- You receive 10 gold pieces.
+08/11/2024 16:08:49-- You receive 16 gold pieces.
+08/11/2024 16:08:55-- You receive 19 gold pieces.
+08/11/2024 16:08:59-- You receive 17 gold pieces.
+08/11/2024 16:09:05-- You receive 14 gold pieces.
+08/11/2024 16:09:11-- You receive 26 gold pieces.
+08/11/2024 16:09:19-- You receive 22 gold pieces.
+08/11/2024 16:09:31-- You receive 13 gold pieces.
+08/11/2024 16:09:33-- You receive 10 gold pieces.
+08/11/2024 16:09:40-- You do not have enough mana to cast this spell.
+08/11/2024 16:09:41-- You do not have enough mana to cast this spell.
+08/11/2024 16:09:43-- You receive 8 gold pieces.
+08/11/2024 16:09:44-- You do not have enough mana to cast this spell.
+08/11/2024 16:09:47-- You do not have enough mana to cast this spell.
+08/11/2024 16:09:49-- You have used "Potion of mana" (14 left).
+08/11/2024 16:09:50-- You have used "Potion of mana" (13 left).
+08/11/2024 16:09:51-- You have used "Potion of mana" (12 left).
+08/11/2024 16:09:57-- You receive 26 gold pieces.
+08/11/2024 16:10:03-- You receive 21 gold pieces.
+08/11/2024 16:10:21-- You receive 9 gold pieces.
+08/11/2024 16:10:25-- You receive 22 gold pieces.
+08/11/2024 16:11:19-- You receive 18 gold pieces.
+08/11/2024 16:11:27-- You receive 25 gold pieces.
+08/11/2024 16:11:33-- You receive 25 gold pieces.
+08/11/2024 16:11:39-- You receive 17 gold pieces.
+08/11/2024 16:11:45-- You receive 18 gold pieces.
+08/11/2024 16:11:45-- You cannot carry any more weight.
+08/11/2024 16:11:55-- You receive 16 gold pieces.
+08/11/2024 16:11:57-- You receive 27 gold pieces.
+08/11/2024 16:12:03-- You receive 16 gold pieces.
+08/11/2024 16:12:09-- You receive 10 gold pieces.
+08/11/2024 16:12:15-- You receive 18 gold pieces.
+08/11/2024 16:12:33-- You receive 23 gold pieces.
+08/11/2024 16:12:41-- You receive 15 gold pieces.
+08/11/2024 16:12:57-- You receive 25 gold pieces.
+08/11/2024 16:13:03-- You receive 12 gold pieces.
+08/11/2024 16:13:05-- You do not have enough mana to cast this spell.
+08/11/2024 16:13:06-- You do not have enough mana to cast this spell.
+08/11/2024 16:13:17-- You do not have enough mana to cast this spell.
+08/11/2024 16:13:19-- You do not have enough mana to cast this spell.
+08/11/2024 16:13:22-- You have used "Potion of mana" (11 left).
+08/11/2024 16:13:23-- You have used "Potion of mana" (10 left).
+08/11/2024 16:13:23-- You have used "Potion of mana" (9 left).
+08/11/2024 16:13:23-- You have used "Potion of mana" (8 left).
+08/11/2024 16:13:24-- Mouse already in use. Select or cancel prior target selection.
+08/11/2024 16:13:28-- ["Main"] "Anoukie": un GM de connecté ??
+08/11/2024 16:13:29-- You receive 12 gold pieces.
+08/11/2024 16:13:35-- You receive 11 gold pieces.
+08/11/2024 16:13:41-- You receive 25 gold pieces.
+08/11/2024 16:13:43-- You receive 24 gold pieces.
+08/11/2024 16:13:47-- You receive 27 gold pieces.
+08/11/2024 16:13:53-- You receive 23 gold pieces.
+08/11/2024 16:14:01-- You receive 24 gold pieces.
+08/11/2024 16:14:03-- You receive 25 gold pieces.
+08/11/2024 16:14:09-- You receive 16 gold pieces.
+08/11/2024 16:14:15-- You receive 15 gold pieces.
+08/11/2024 16:14:21-- You receive 10 gold pieces.
+08/11/2024 16:14:27-- You receive 21 gold pieces.
+08/11/2024 16:14:33-- You receive 13 gold pieces.
+08/11/2024 16:14:37-- You receive 21 gold pieces.
+08/11/2024 16:14:47-- You receive 14 gold pieces.
+08/11/2024 16:14:53-- You receive 17 gold pieces.
+08/11/2024 16:15:03-- You receive 14 gold pieces.
+08/11/2024 16:15:44-- You do not have enough mana to cast this spell.
+08/11/2024 16:15:46-- You do not have enough mana to cast this spell.
+08/11/2024 16:15:48-- You have used "Potion of mana" (7 left).
+08/11/2024 16:15:49-- You have used "Potion of mana" (6 left).
+08/11/2024 16:15:49-- You have used "Potion of mana" (5 left).
+08/11/2024 16:15:53-- You receive 16 gold pieces.
+08/11/2024 16:16:08-- ["Main"] "Wilhjelm, le Maître de l'Esprit": "Piemur De Pern" vient d'abaisser les défenses de l'entrée d'"Ebon" "Hold" !
+08/11/2024 16:16:09-- You receive 31 gold pieces.
+08/11/2024 16:16:21-- You receive 10 gold pieces.
+08/11/2024 16:16:29-- You receive 20 gold pieces.
+08/11/2024 16:16:33-- You receive 26 gold pieces.
+08/11/2024 16:18:27-- You receive 19 gold pieces.
+08/11/2024 16:18:39-- You receive 21 gold pieces.
+08/11/2024 16:18:45-- You receive 21 gold pieces.
+08/11/2024 16:18:47-- ["Main"] "Anoukie": Pas de GM connecté alors ?
+08/11/2024 16:18:51-- You receive 27 gold pieces.
+08/11/2024 16:18:57-- You receive 8 gold pieces.
+08/11/2024 16:19:03-- You said: [ Merci ]
+08/11/2024 16:19:11-- ["Main"] "Mohigan": coucou Anouki
+08/11/2024 16:19:19-- You receive 27 gold pieces.
+08/11/2024 16:19:23-- You receive 14 gold pieces.
+08/11/2024 16:19:29-- You receive 8 gold pieces.
+08/11/2024 16:19:33-- You receive 24 gold pieces.
+08/11/2024 16:19:38-- You have used "Potion of mana" (4 left).
+08/11/2024 16:19:38-- You have used "Potion of mana" (3 left).
+08/11/2024 16:19:39-- You receive 11 gold pieces.
+08/11/2024 16:19:41-- ["Main"] "Anoukie": bonsoir :)
+08/11/2024 16:19:45-- You receive 26 gold pieces.
+08/11/2024 16:19:51-- You receive 22 gold pieces.
+08/11/2024 16:19:55-- You receive 16 gold pieces.
+08/11/2024 16:20:03-- You receive 9 gold pieces.
+08/11/2024 16:20:13-- You receive 26 gold pieces.
+08/11/2024 16:20:19-- You receive 14 gold pieces.
+08/11/2024 16:20:25-- You receive 17 gold pieces.
+08/11/2024 16:20:31-- You receive 23 gold pieces.
+08/11/2024 16:20:37-- You receive 19 gold pieces.
+08/11/2024 16:20:47-- You receive 17 gold pieces.
+08/11/2024 16:22:15-- You receive 18 gold pieces.
+08/11/2024 16:22:21-- You receive 10 gold pieces.
+08/11/2024 16:22:27-- You receive 14 gold pieces.
+08/11/2024 16:22:33-- You receive 15 gold pieces.
+08/11/2024 16:22:39-- You receive 21 gold pieces.
+08/11/2024 16:22:45-- You receive 17 gold pieces.
+08/11/2024 16:22:49-- You receive 22 gold pieces.
+08/11/2024 16:22:55-- You receive 9 gold pieces.
+08/11/2024 16:22:58-- ["Main"] "Mohigan": merci
+08/11/2024 16:23:02-- ["Main"] "Mohigan": oups sw
+08/11/2024 16:23:05-- You receive 23 gold pieces.
+08/11/2024 16:23:11-- You receive 12 gold pieces.
+08/11/2024 16:23:14-- You no longer have any "Potion of light healing" in your backpack.
+08/11/2024 16:23:14-- You do not have enough mana to cast this spell.
+08/11/2024 16:23:16-- You no longer have any "Potion of light healing" in your backpack.
+08/11/2024 16:23:23-- You have used "Potion of healing" (62 left).
+08/11/2024 16:23:23-- You have used "Potion of healing" (61 left).
+08/11/2024 16:23:34-- Macro "Potion of healing" added.
+08/11/2024 16:23:42-- You have used "Potion of healing" (60 left).
+08/11/2024 16:23:43-- You have used "Potion of mana" (2 left).
+08/11/2024 16:23:44-- You have used "Potion of mana" (1 left).
+08/11/2024 16:23:46-- You are not part of any guild. Please contact a staff member if you desire to create one.
+08/11/2024 16:23:51-- You receive 24 gold pieces.
+08/11/2024 16:23:55-- You receive 17 gold pieces.
+08/11/2024 16:23:59-- You receive 18 gold pieces.
+08/11/2024 16:24:07-- You receive 8 gold pieces.
+08/11/2024 16:24:11-- You receive 20 gold pieces.
+08/11/2024 16:24:18-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+08/11/2024 16:24:19-- You receive 15 gold pieces.
+08/11/2024 16:24:23-- You receive 21 gold pieces.
+08/11/2024 16:24:29-- You receive 13 gold pieces.
+08/11/2024 16:24:35-- You receive 12 gold pieces.
+08/11/2024 16:25:31-- You receive 21 gold pieces.
+08/11/2024 16:25:37-- You receive 26 gold pieces.
+08/11/2024 16:25:43-- You receive 10 gold pieces.
+08/11/2024 16:25:47-- You no longer have any "Potion of mana" in your backpack.
+08/11/2024 16:25:49-- You no longer have any "Potion of mana" in your backpack.
+08/11/2024 16:25:49-- You receive 14 gold pieces.
+08/11/2024 16:26:54-- You cannot carry any more weight.
+08/11/2024 16:26:59-- You cannot carry any more weight.
+08/11/2024 16:27:38-- ["Main"] "Tekk": Bonne nuit à tous
+08/11/2024 16:27:41-- You receive 19 gold pieces.
+08/11/2024 16:27:47-- You receive 23 gold pieces.
+08/11/2024 16:27:52-- ["Main"] "Theoden": bonne nuit Tekk
+08/11/2024 16:27:53-- You receive 9 gold pieces.
+08/11/2024 16:28:01-- You receive 10 gold pieces.
+08/11/2024 16:29:04-- Impossible to be resurrected... Your Gem of Destiny teleported you just before you left this world.
+08/11/2024 16:29:13-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/11/2024 16:29:15-- You said: heal
+08/11/2024 16:29:15-- {Kilhiam}":" I cannot help you with this.
+08/11/2024 16:33:55-- [Beyond The Kingdom] Il est fortement conseillé, avant d'aller voir Rackis, de faire la quête du diable (consultez {Kalastor}) si vous désirez plus tard suivre les quêtes de karma mauvais pour Beyond the Kingdom.
+08/11/2024 16:33:55-- {Varriw}":" Comme vous avez du le voir, Lighthaven est un village entouré de monstres : gobelins au nord-ouest et brigands à l'ouest. Je crois qu'il y a un garde à la solde de la baronnie qui cherche des aventuriers pour l'aider à repousser les attaques des bandits. Vous le trouverez au pont situé à {l'ouest de la place du marché}. Vous savez où elle se situe, n'est-ce pas ? {*sourire*} Quant à moi, je vais voir si peux trouver maintenant un peu de travail.
+08/11/2024 16:35:07-- {Garde de Lighthaven}":" Les ruines de la cité elfique d'Anwynn reposent dans les catacombes, juste en dessous de nos pieds. Les prêtres disent que Lighthaven est ainsi protégée du Mal, mais je préfère me fier à mon épée.
+08/11/2024 16:35:14-- {Garde de Lighthaven}":" Les ruines de la cité elfique d'Anwynn reposent dans les catacombes, juste en dessous de nos pieds. Les prêtres disent que Lighthaven est ainsi protégée du Mal, mais je préfère me fier à mon épée.
+08/11/2024 16:35:14-- You are too far !
+08/11/2024 16:35:23-- {Salomon}":" Occupez-vous de notre avenir ! Tâchez de ne pas décevoir nos Dieux. "Combattez" Le Traitre. Il nous tuera tous. C'est certain, c'est sûr ... !
+08/11/2024 16:35:29-- {Salomon}":" Oui ! Mais pour cela, il faut avoir le courage de... de conclure le pacte ! Ce n'est pas à la portée de tout le monde. Le respecter... ça aussi, pff. Quand j'vois tout ces séraphins qui s'en contre fiche. Ils devraient être brûlés ! <> Revenez me voir quand vous aurez mûri.
+08/11/2024 16:36:27-- ["Main"] "Bacarat": Quel niveau dois-je avoir pour faire la quête Salomon ?
+08/11/2024 16:36:37-- You receive 17 gold pieces.
+08/11/2024 16:36:47-- You receive 26 gold pieces.
+08/11/2024 16:36:53-- You receive 23 gold pieces.
+08/11/2024 16:36:59-- You receive 27 gold pieces.
+08/11/2024 16:37:05-- You receive 22 gold pieces.
+08/11/2024 16:37:11-- You receive 10 gold pieces.
+08/11/2024 16:37:13-- You receive 18 gold pieces.
+08/11/2024 16:37:25-- You receive 22 gold pieces.
+08/11/2024 16:37:27-- You receive 23 gold pieces.
+08/11/2024 16:37:33-- You receive 27 gold pieces.
+08/11/2024 16:37:37-- You receive 25 gold pieces.
+08/11/2024 16:37:45-- You receive 9 gold pieces.
+08/11/2024 16:37:47-- You no longer have any "Potion of healing" in your backpack.
+08/11/2024 16:38:23-- ["Main"] "Valence": Elles sont ou les "ombres frissonnantes" pour la quete ZO neutre? (la derniere partie avec Isil)
+08/11/2024 16:38:34-- ["Main"] "Freydis": anwynn -3
+08/11/2024 16:38:39-- ["Main"] "Freydis": en entrant
+08/11/2024 16:38:54-- ["Main"] "Kara Eracles": juste a traverser logre 
+08/11/2024 16:39:14-- ["Main"] "Freydis": elles sont invisible mais tu peux les voir facilement avec ctrl-n
+08/11/2024 16:39:19-- {Fermier Tobias}":" V'là qu'un d'ces citadins s'ramène. S'pas pour flâner qu'vous v'nez, hein ? Y'a du "boulot" ici.
+08/11/2024 16:39:26-- {Fermier Tobias}":" C'est ça, puis quoi encore ? M'avez l'air louche. Ouste ! M'restez pas dans les pattes.
+08/11/2024 16:40:09-- You receive 10 gold pieces.
+08/11/2024 16:41:06-- You are too far !
+08/11/2024 16:43:40-- {Garde de Lighthaven}":" Les ruines de la cité elfique d'Anwynn reposent dans les catacombes, juste en dessous de nos pieds. Les prêtres disent que Lighthaven est ainsi protégée du Mal, mais je préfère me fier à mon épée.
+08/11/2024 16:43:55-- {Rackis, le garde}":" Ne m'interrompez pas dans mon tour de garde ! Je suis très occupé avec tous ces gobelins et ces "brigands".
+08/11/2024 16:43:59-- {Rackis, le garde}":" Varriw, vous dites ? 'Connaît pas. {*ton sec*} Tout ce que je sais, c'est que la baronnie compte sur moi pour "garder" le pont sud-ouest de la ville.
+08/11/2024 16:44:06-- [Beyond The Kingdom] Mettez à mort "10" mercenaires douteux.
+08/11/2024 16:44:06-- {Rackis, le garde}":" Quoi encore ?! Ah... m'aider ? Pourquoi pas, après tout. On manque cruellement de bonnes volontés, par ici. {*soupir*} Eh bien, on va voir ce que vous valez... Essayez donc de tuer {dix Mercenaires douteux}. Ils sont situés non loin d'ici, au sud-ouest.
+08/11/2024 16:44:45-- You receive 26 gold pieces.
+08/11/2024 16:44:55-- You receive 38 gold pieces.
+08/11/2024 16:45:07-- You receive 18 gold pieces.
+08/11/2024 16:45:17-- You receive 32 gold pieces.
+08/11/2024 16:46:24-- {Vieil archiviste}":" Bonjour à vous, Bacarat. Je regrette, mais vous ne pouvez pas entrer dans les Ruines émergées d'Anwynn, domaine des suivants de la déesse Neerya. C'est l'un des six repaires installés sur Arakas et chaque aventurier est invité à se rallier à l'une des six factions associées. Rendez-vous dans l'une des villes d'Althéa, par exemple Lighthaven, pour vous inscrire. N'hésitez pas à le faire, il y a de nombreux avantages à la clé.
+08/11/2024 16:47:19-- You receive 36 gold pieces.
+08/11/2024 16:47:37-- You receive 41 gold pieces.
+08/11/2024 16:47:45-- You receive 21 gold pieces.
+08/11/2024 16:47:51-- You receive 12 gold pieces.
+08/11/2024 16:48:15-- You receive 65 gold pieces.
+08/11/2024 16:48:31-- You receive 34 gold pieces.
+08/11/2024 16:48:58-- You receive 53 gold pieces.
+08/11/2024 16:49:00-- You are too far !
+08/11/2024 16:49:02-- L'homme ne vous regarde même pas.
+08/11/2024 16:49:03-- L'homme ne vous regarde même pas.
+08/11/2024 16:49:08-- L'homme ne vous regarde même pas.
+08/11/2024 16:53:28-- You receive 32 gold pieces.
+08/11/2024 16:53:48-- You receive 42 gold pieces.
+08/11/2024 16:54:16-- You receive 21 gold pieces.
+08/11/2024 16:54:36-- You receive 31 gold pieces.
+08/11/2024 16:55:22-- You receive 58 gold pieces.
+08/11/2024 16:55:58-- You receive 41 gold pieces.
+08/11/2024 16:56:32-- Vous recevez "100.000" points d'expérience !
+08/11/2024 16:56:32-- {Rackis, le garde}":" Pouah ! Je n'aurais pas parié dix pièces d'or sur votre survie, mais force est de constater que vous êtes dur à cuire. Tant mieux ! Je crois même que vous pourriez faire un bon aspirant garde. Cela vous dirait d'enquêter avec moi sur la présence de ces brigands ? Je crois que vous en êtes "capable".
+08/11/2024 16:56:34-- You have just gained a level (10)! <>You gained 5 stat points and 15 skill points. <>You won 8 health points (87/154 ) <>You won 4 mana points. ( 36/108 )
+08/11/2024 16:56:34-- You receive 10000 gold pieces.
+08/11/2024 16:56:45-- {Rackis, le garde}":" Je les suspecte d'avoir une base plus au {sud-ouest}, après {le pont en suivant la route}. Suivez-là toujours plus au sud jusqu'à ce que vous arrivez dans les montagnes. J'ai repéré un étrange personnage là-bas, à côté d'une sombre bâtisse... allez me confirmer sa présence et revenez me voir. Mais je vous en prie, soyez discret !
+08/11/2024 16:57:16-- You receive 11 gold pieces.
+08/11/2024 16:57:20-- You receive 17 gold pieces.
+08/11/2024 16:57:30-- You receive 9 gold pieces.
+08/11/2024 16:57:40-- You have used "Potion of mana" (18 left).
+08/11/2024 16:57:56-- You receive 8 gold pieces.
+08/11/2024 16:58:38-- You have just gained a level (11)! <>You gained 5 stat points and 15 skill points. <>You won 8 health points (134/162 ) <>You won 4 mana points. ( 60/112 )
+08/11/2024 16:58:38-- You receive 8 gold pieces.
+08/11/2024 16:58:46-- You receive 9 gold pieces.
+08/11/2024 16:59:16-- You gain 0 points of mana ( 63/112 ).
+08/11/2024 16:59:22-- You receive 24 gold pieces.
+08/11/2024 16:59:28-- You receive 11 gold pieces.
+08/11/2024 16:59:34-- You receive 22 gold pieces.
+08/11/2024 16:59:40-- You receive 26 gold pieces.
+08/11/2024 16:59:46-- You receive 10 gold pieces.
+08/11/2024 16:59:52-- You receive 22 gold pieces.
+08/11/2024 16:59:56-- You receive 24 gold pieces.
+08/11/2024 17:00:02-- You receive 8 gold pieces.
+08/11/2024 17:00:10-- You receive 27 gold pieces.
+08/11/2024 17:00:12-- You have used "Potion of mana" (17 left).
+08/11/2024 17:00:13-- You have used "Potion of mana" (16 left).
+08/11/2024 17:00:14-- You have used "Potion of mana" (15 left).
+08/11/2024 17:00:14-- You receive 13 gold pieces.
+08/11/2024 17:00:20-- You receive 10 gold pieces.
+08/11/2024 17:00:24-- You receive 18 gold pieces.
+08/11/2024 17:00:38-- Kara Eracles vient de débarquer au campement spellshorien, sur le Draconis Sanctum !
+08/11/2024 17:00:41-- ["Main"] "Darth Nihilus": gg
+08/11/2024 17:00:50-- ["Main"] "Atom": gg
+08/11/2024 17:01:21-- ["Main"] "Kara Eracles": merci 
+08/11/2024 17:01:33-- The sign reads: <>Northeast ---> Sleepy Oaks forest <>Southwest ---> Whispering Woods
+08/11/2024 17:03:17-- You are too far !
+08/11/2024 17:03:20-- You are too far !
+08/11/2024 17:03:24-- You are too far !
+08/11/2024 17:03:27-- Vous avez repéré un personnage lourdement armé... qui peut-il être ? Vous remarquez sur la bâtisse derrière lui les insignes du Chaos d'Ogrimar. Mais pendant que vous espionnez, quatre mercenaires vous attaquent !
+08/11/2024 17:06:11-- [Beyond The Kingdom] Vous racontez à Rackis comment vous vous êtes faufilé jusqu'au repaire des mercenaires, qui se révèle être un avant poste des suivants du dieu Ogrimar.
+08/11/2024 17:06:11-- Vous recevez "150.000" points d'expérience !
+08/11/2024 17:06:11-- {Rackis, le garde}":" En un seul morceau ! Mais non sans quelques égratignures. Alors, racontez moi ce que vous avez "espionné".
+08/11/2024 17:06:12-- You have just gained a level (12)! <>You gained 5 stat points and 15 skill points. <>You won 9 health points (171/171 ) <>You won 3 mana points. ( 115/115 )
+08/11/2024 17:06:12-- You receive 10000 gold pieces.
+08/11/2024 17:06:20-- {Rackis, le garde}":" Sacrebleu ! Des ogrimariens ! Il ne manquait plus que ça. Déjà qu'ils avaient mis à feu et à sang la ville de Windhowl il y a quelques temps... {*grince des dents*} J'espère que vous n'avez pas succombé à leurs "charmes" néfastes ! {*air suspicieux*}
+08/11/2024 17:06:31-- {Rackis, le garde}":" Bon... d'accord. Ne succombez pas au Chaos, je vous en prie ! Ils sont si destructeurs, ces suppôts de Vargus. Quoi qu'il en soit, je vous remercie encore pour tout. {Allez retrouver Varriw}, votre protecteur à présent. Quant à moi, je reste fidèle à mon poste... Adieu !
+08/11/2024 17:07:51-- [Beyond The Kingdom] Vous expliquez à votre ami Varriw ce que vous avez fait pour le garde.
+08/11/2024 17:07:51-- {Varriw}":" "Déjà" de retour ?
+08/11/2024 17:07:55-- {Varriw}":" Oh, impressionnant. Et inquiétant. Quoique... je ne m'inquiète non pas pour la présence proche d'Ogrimariens, mais pour le désordre politique qui va en résulter. Vous savez, sur Grim Hawk nous sommes très tolérants au niveau des croyances. Mais ici... {*air dépité*} D'ailleurs, il faut que vous fassiez un choix au niveau de votre "karma".
+08/11/2024 17:08:12-- Sur T4C Neerya, il existe quatre grandes îles : Arakas (où vous êtes), Raven's Dust, Stoneheim et Grim Hawk, qui correspondent à la progression du niveau de votre personnage. Pour atteindre la deuxième île : Raven's Dust, à partir du niveau 25, il vous faudra choisir un karma et effectuer une suite de quêtes d'accès indépendante et nous vous conseillons de le faire avant le niveau 20. Pourquoi ne pas commencer ? Comme le dit Varriw, si vous voulez être d'alignement mauvais allez voir Kalastor. Pour un alignement bon, il vous faudra aller parler à un ermite situé dans la cave des montagnes du sud d'Arakas. Pour conserver un alignement neutre, il faudra vous rendre auprès d'Isil dans le sanctuaire de la lune.
+08/11/2024 17:08:12-- {Varriw}":" Oui, afin de trouver votre place dans ce monde, il vous faut choisir entre trois voies. *ton solennel* Nul ne peut rester indifférent à son propre karma ! Dites moi si vous voulez laisser exprimer le côté "sombre", le côté "lumineux" ou le côté "neutre" de votre âme, Bacarat.
+08/11/2024 17:08:48-- {Varriw}":" "Déjà" de retour ?
+08/11/2024 17:08:51-- {Varriw}":" Oh, impressionnant. Et inquiétant. Quoique... je ne m'inquiète non pas pour la présence proche d'Ogrimariens, mais pour le désordre politique qui va en résulter. Vous savez, sur Grim Hawk nous sommes très tolérants au niveau des croyances. Mais ici... {*air dépité*} D'ailleurs, il faut que vous fassiez un choix au niveau de votre "karma".
+08/11/2024 17:08:52-- Sur T4C Neerya, il existe quatre grandes îles : Arakas (où vous êtes), Raven's Dust, Stoneheim et Grim Hawk, qui correspondent à la progression du niveau de votre personnage. Pour atteindre la deuxième île : Raven's Dust, à partir du niveau 25, il vous faudra choisir un karma et effectuer une suite de quêtes d'accès indépendante et nous vous conseillons de le faire avant le niveau 20. Pourquoi ne pas commencer ? Comme le dit Varriw, si vous voulez être d'alignement mauvais allez voir Kalastor. Pour un alignement bon, il vous faudra aller parler à un ermite situé dans la cave des montagnes du sud d'Arakas. Pour conserver un alignement neutre, il faudra vous rendre auprès d'Isil dans le sanctuaire de la lune.
+08/11/2024 17:08:52-- {Varriw}":" Oui, afin de trouver votre place dans ce monde, il vous faut choisir entre trois voies. *ton solennel* Nul ne peut rester indifférent à son propre karma ! Dites moi si vous voulez laisser exprimer le côté "sombre", le côté "lumineux" ou le côté "neutre" de votre âme, Bacarat.
+08/11/2024 17:08:56-- {Varriw}":" Alors c'est Kalastor que vous devez aller voir en priorité. Il est dans une maison autour de la place du marché. N'hésitez pas à le faire le plus rapidement possible ! Il vous donnera plusieurs quêtes. N'oubliez pas qu'avec ce choix, vous ne devrez {JAMAIS} tuer le démon Balork. Une fois que vous serez assez expérimenté, il sera important d'avoir terminé les différentes quêtes de Kalastor afin d'être prêt pour aller sur l'île de "Raven's Dust".
+08/11/2024 17:09:14-- {Varriw}":" Doucement, mon ami ! *rire* Ce n'est pas pour tout de suite, il vous reste encore de nombreuses tâches à accomplir. D'ailleurs, j'en ait une pour vous. Saviez-vous que des "recherches" archéologiques sont en cours dans les sous-sols de Lighthaven ?
+08/11/2024 17:09:16-- {Wellan}":" Uriel m'a informé par pigeon que vous lui avez bien remis toute les pierres, comme promis je vais vous récompenser. Prenez cet or en gage de cet acte "héroïque".
+08/11/2024 17:09:25-- {Wellan}":" Mon "frère" habite Raven's Dust et aurait grand besoin d'une personne au courage sans égal tel que vous ! Allez le voir, il vous expliquera.
+08/11/2024 17:09:27-- {Varriw}":" Oui, il paraît que deux expéditions rivales sont en train de lutter pour découvrir en premier ce que le récent tremblement de terre à mis à jour au plus profond de la terre. Certains racontent qu'il s'agit d'"Anwynn", l'antique Cité des Elfes qui fut détruite par l'Haruspice il y a des millénaires.
+08/11/2024 17:09:27-- {Wellan}":" Il se nomme Silvar, trouvez le, et aidez le, je vous en supplie !
+08/11/2024 17:09:30-- {Wellan}":" Au revoir, à très bientôt.
+08/11/2024 17:09:41-- {Varriw}":" Je vous conseille de descendre là-bas aller faire connaissance avec ces deux équipes. Ah ! Justement, j'ai aussi une course à vous confier. {Retournez donc dans ces catacombes} puis après avoir choisi le camp des archéologues, passez la "fissure" située derrière la salle où se situe le démon Balork.
+08/11/2024 17:09:59-- {Varriw}":" Il me semble qu'on trouve là-bas les restes d'anciens mages, les sorciers momifiés. Il se trouve que j'ai besoin de leur "phylactère" pour mes expériences en magie. *sourit* Oui, j'ai trouvé un travail à la tour des mages de Lighthaven. Je pense pouvoir les aider pour garder intact la protection magique qui enveloppe la ville et j'ai besoin de cet objet.
+08/11/2024 17:10:11-- [Beyond The Kingdom] Descendez maintenant dans les catacombes du temple de Lighthaven, dont l'entrée se situe dans le temple. Il vous faudra parcourir plusieurs niveaux avant de trouver les archéologues "Kayle" et "Olaf". La première est d'alignement bon, tandis que l'autre est d'alignement mauvais. Choisissez de parler à l'un ou l'autre ! Peu importe votre choix si vous êtes de karma neutre.
+08/11/2024 17:10:11-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 17:10:31-- {Varriw}":" Je suis certain que vous trouverez votre place dans ce monde troublé. Au revoir !
+08/11/2024 17:10:34-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 17:11:39-- You are too far !
+08/11/2024 17:11:41-- {Lothan}":" Welcome to the "tower", stranger.
+08/11/2024 17:11:43-- You said: learn
+08/11/2024 17:11:43-- {Lothan}":" Let's see if you are ready for what I can teach you.
+08/11/2024 17:11:58-- You are too far !
+08/11/2024 17:11:59-- {Iraltok}":" I, the seeker of "knowledge", greet you, my friend. Perhaps I could "heal" your wounds if you are in pain. I am also a great "arcane" "scribe" and may be of assistance if you are interested in magical lore.
+08/11/2024 17:12:01-- You said: [ learn ]
+08/11/2024 17:12:04-- {Iraltok}":" I, the seeker of "knowledge", greet you, my friend. Perhaps I could "heal" your wounds if you are in pain. I am also a great "arcane" "scribe" and may be of assistance if you are interested in magical lore.
+08/11/2024 17:12:05-- {Iraltok}":" I have the unending task of collecting knowledge and transcribing it to books so that others may later "learn" from them.
+08/11/2024 17:12:06-- {Iraltok}":" Yes, I would be glad to teach you a spell or two.
+08/11/2024 17:12:22-- {Iraltok}":" I, the seeker of "knowledge", greet you, my friend. Perhaps I could "heal" your wounds if you are in pain. I am also a great "arcane" "scribe" and may be of assistance if you are interested in magical lore.
+08/11/2024 17:12:24-- {Iraltok}":" I have the unending task of collecting knowledge and transcribing it to books so that others may later "learn" from them.
+08/11/2024 17:12:25-- {Iraltok}":" Yes, I would be glad to teach you a spell or two.
+08/11/2024 17:12:29-- You are not allowed to learn this skill.
+08/11/2024 17:12:31-- You are not allowed to learn this skill.
+08/11/2024 17:12:48-- {Uranos}":" Yes? You seek knowledge?  Then maybe I can help you.
+08/11/2024 17:12:50-- You said: [ learn ]
+08/11/2024 17:12:52-- {Uranos}":" Yes? You seek knowledge?  Then maybe I can help you.
+08/11/2024 17:12:53-- You said: yes
+08/11/2024 17:12:53-- {Uranos}":" Magic could help you.
+08/11/2024 17:12:54-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/11/2024 17:12:55-- You said: learn
+08/11/2024 17:12:55-- {Uranos}":" You wish to increase your knowledge of spells? Very well, I shall help you.
+08/11/2024 17:13:30-- You gain 0 points of mana ( 115/115 ).
+08/11/2024 17:13:32-- {Uranos}":" Yes? You seek knowledge?  Then maybe I can help you.
+08/11/2024 17:13:34-- You said: learn
+08/11/2024 17:13:34-- {Uranos}":" You wish to increase your knowledge of spells? Very well, I shall help you.
+08/11/2024 17:14:00-- You gain 9 points of mana ( 124/124 ).
+08/11/2024 17:14:27-- {Sofian}":" Hum, je vous conseille d'aller voir maintenant du côté du campement brigands près de LightHaven. Je ne vous en dirai pas davantage !
+08/11/2024 17:14:27-- Le saviez-vous ? <> Sur le serveur Discord officiel ({https://discord.gg/MZYyYxd}), vous pouvez obtenir de nombreuses informations en envoyant le message {!help} au bot de Neerya
+08/11/2024 17:14:52-- {Asmodaï}":" [ rah ]
+08/11/2024 17:14:55-- {Sofian}":" Ah ! Vous êtes de retour ! Ca me soulage de vous voir encore en vie. Quoi ?! Vous avez combattu leur chef ? Mais vous êtes dingue "?!"
+08/11/2024 17:15:14-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 17:15:25-- {Wellan}":" Uriel m'a informé par pigeon que vous lui avez bien remis toute les pierres, comme promis je vais vous récompenser. Prenez cet or en gage de cet acte "héroïque".
+08/11/2024 17:15:26-- {Wellan}":" Mon "frère" habite Raven's Dust et aurait grand besoin d'une personne au courage sans égal tel que vous ! Allez le voir, il vous expliquera.
+08/11/2024 17:15:30-- {Atom}":" [ wellan ]
+08/11/2024 17:15:38-- [Invasions] Alors que vous passez à proximité d'un crieur de rue, celui-ci vous fait signe de venir : vous devriez écouter ce qu'il a à vous dire.
+08/11/2024 17:15:39-- {Un crieur de rue}":" Ah ! *sourire* J'ai enfin réussi à capter votre attention. Mon rôle est de vous informer que l'île d'Arakas est l'objet d'une lutte d'influence entre plusieurs "factions rivales" qui ont chacune grand besoin de nouvelles recrues.
+08/11/2024 17:15:47-- {Un crieur de rue}":" Elles ont toutes construit des repaires solidement défendus dont l'accès est strictement réservé à leurs partisans respectifs. Si vous choisissez une faction, celle-ci vous donnera la possibilité d'explorer son repaire. Il y a de nombreux "avantages" à le faire.
+08/11/2024 17:15:54-- {Un crieur de rue}":" Tout d'abord, vous aurez accès à des quêtes journalières à réaliser au bénéfice de votre faction : des missions et des tâches. Les premières donnent davantage d'expérience que les secondes mais ces dernières seront récompensées par des "bons de ravitaillement".
+08/11/2024 17:16:03-- {Un crieur de rue}":" Ils ne servent qu'à une chose : être dépensés auprès des antiquaires marchands et joailliers qui ont élus domicile dans le repaire. L'antiquaire marchand échangera vos bons contre divers objets tels que des armes, des sorts de téléportation, des familiers et des parchemins d'or ou d'expérience. Quant à l'antiquaire joaillier, il vous permettra de graver un "anneau de lien" que je vous donnerai lors de votre inscription.
+08/11/2024 17:16:21-- {Un crieur de rue}":" C'est une pure merveille ! C'est à première vue un objet assez basique mais il révèle tout son pouvoir lorsqu'il est activé par une pierre de lien. Grâce à vos bons de ravitaillement, l'antiquaire joaillier pourra "personnaliser" cet anneau en le gravant.
+08/11/2024 17:16:33-- {Un crieur de rue}":" Par exemple, un guerrier chargera probablement son anneau de lien avec des bonus de force ou de dextérité mais aussi avec des bonus dans l'une des compétences de combat. Un mage, quant à lui, fera d'autres choix. La liberté est totale pour la gravure de cet objet ! Bien entendu, il ne peut être travaillé que jusqu'à son potentiel maximum. *sourit* À présent, je vais vous en dire davantage sur l'identité de chaque faction, en commençant par les "corsaires".
+08/11/2024 17:16:50-- {Un crieur de rue}":" Menés par le charismatique prince-régent Théokrat, les corsaires écument les mers pour chasser les ennemis de la couronne royale de Goldmoon. Ils forment un équipage hétérogène, à la fois peuplé d'anciens repris de justice et de nobliaux en manque d'aventure. Les corsaires acceptent tout le monde dans leurs rangs à l'exception des séraphins d'Ogrimar. Passons à présent aux "artherkiens".
+08/11/2024 17:17:07-- {Un crieur de rue}":" Bras droit du dieu Artherk, l'imposant archange Sabathiel rassemble toutes les âmes éprises de justice et de compassion. Celles-ci œuvrent à la fois pour répandre la lumière divine mais aussi pour chasser le mal et la corruption du cœur des Hommes. Les artherkiens acceptent uniquement dans leurs rangs les humains et les séraphins d'Artherk, aussi appelés simplement Séraphins. Passons à présent aux "ogrimariens".
+08/11/2024 17:17:16-- {Un crieur de rue}":" Cherchant à détruire une civilisation jugée décadente, l'armée fanatique du dieu Ogrimar est sous le commandement implacable du redoutable et maléfique Sir Mordenthal. Usant de toutes les bassesses et atrocités imaginables, les ogrimariens ne reculent devant rien pour parvenir à leurs fins. Ils acceptent dans leurs rangs les humains et les séraphins d'Ogrimar, appelés communément Néphilims. Passons à présent aux "neeryens".
+08/11/2024 17:17:30-- {Un crieur de rue}":" Âme en peine des ruines de la cité d'Anwynn, le spectre de la princesse Lindorië murmure les secrets de la civilisation elfique aux discrets suivants de la déesse Neerya. Vénérant la magie et les ombres de la nuit, les neeryens cherchent à rétablir le subtil équilibre du monde en vue de lutter contre l'Haruspice. Ils acceptent dans leurs rangs les humains et les séraphins de Neerya, appelés communément séphalims. Passons à présent aux "haruspiciens".
+08/11/2024 17:17:47-- {Un crieur de rue}":" Nombreux sont les ennemis de ceux qui attendent l'arrivée de l'Haruspice comme une chance alors que tous redoutent jusqu'à son nom. Monarque déchu d'Ebon Hold, le Roi noir s'entoure de ceux qui veulent, de gré ou de force, lutter contre l'influence obscurantiste des clergés et éveiller l'humanité à leur concept de dignité. Se faisant appeler les rédempteurs, ils n'acceptent que les humains dans leurs rangs. Passons à présent aux "druides".
+08/11/2024 17:17:59-- {Un crieur de rue}":" Héritiers du chamanisme des temps anciens et gardiens de la Terre-Mère, les druides sont conseillés par le chef du cercle de Ravenwood, l'Ent millénaire qui porte le nom d'Onodrim. Naturellement méfiants à l'égard de la vie urbaine, ils préfèrent vivre reculés au sein de bosquets protecteurs pour écouter les esprits de la nature. Ils acceptent tout le monde dans leurs rangs. *souffle* Bien, vous savez tout sur les six factions. L'heure est au "choix" de votre repaire !
+08/11/2024 17:18:09-- [Invasions] Attention, votre inscription sera effective dès votre réponse. Il ne sera ensuite plus possible de changer de faction ou de vous désinscrire.
+08/11/2024 17:18:09-- {Un crieur de rue}":" Alors, laquelle vous plaît le plus ? Le "navire de guerre" des corsaires, la "cité des cieux" des artherkiens, la "forteresse souterraine" des ogrimariens, les "ruines émergées" des neeryens, le "manoir-citadelle" des haruspiciens rédempteurs, ou le "refuge insulaire" des druides ?
+08/11/2024 17:18:24-- Vous pouvez rejoindre le canal de discussions : "Forces célestes"
+08/11/2024 17:18:24-- Vous recevez une carte des repères, un "anneau de lien" ainsi que sa pierre d'activation suite à votre inscription dans une faction.
+08/11/2024 17:18:24-- {Un crieur de rue}":" Excellent choix mais j'espère que vous n'avez pas le vertige. Je vous offre votre anneau de lien et sa pierre de lien. N'oubliez jamais d'activer régulièrement cette dernière pour que la magie de l'anneau puisse opérer. Pour vous rendre à la cité des cieux, allez à Windhowl puis sortez de la ville par l'entrée principale. Suivez la route jusqu'à rencontrer un pont, traversez-le, dirigez-vous directement vers l'est et vous y serez. Je vous offre une carte à consulter si vous vous perdez. Au revoir, Bacarat !
+08/11/2024 17:19:40-- Vous accostez sur l'île désertique de la boutique de Neerya.
+08/11/2024 17:19:45-- {Gérant de la boutique}":" Bonjour ! Souhaitez-vous des "informations" ou connaissez-vous déjà assez notre boutique pour "échanger" vos Théos d'or ?
+08/11/2024 17:19:52-- {Gérant de la boutique}":" Il vous faut des Théos d'or pour acheter les objets que je propose. Les Théos d'or s'achètent en ligne en échange de crédits (aussi appelés T4C gold), sur la boutique Dialsoft du site t4c.com. Mais, vous pouvez aussi en acquérir directement en jeu en faisant commerce avec des joueurs qui en possèdent déjà. Moi, je vous propose donc d'échanger des Théos d'or contre des objets dont je peux vous présenter la "liste".
+08/11/2024 17:20:05-- {Remy Zapla}":" Bonjour. Si vous le désirez, je peux "optimiser" vos statistiques, mais je vous préviens que je ne le ferai qu'{une seule fois dans la vie de votre personnage, renaissances incluses}. A côté de cela, il vous reste 3 "redistributions".
+08/11/2024 17:30:26-- ["Main"] "Freydis": Un grand coeur aurait le temps de passé a la RST de AR pour une bonne bénédiction s'il vous plait ?
+08/11/2024 17:31:44-- ["Main"] "Freydis": Merci Kaladin
+08/11/2024 18:29:25-- Bienvenue sur T4C Neerya !
+08/11/2024 20:47:32-- Bienvenue sur T4C Neerya !
+08/11/2024 20:48:40-- {Remy Zapla}":" Bonjour. Si vous le désirez, je peux "optimiser" vos statistiques, mais je vous préviens que je ne le ferai qu'{une seule fois dans la vie de votre personnage, renaissances incluses}. A côté de cela, il vous reste 3 "redistributions".
+08/11/2024 20:50:39-- {Remy Zapla}":" Bonjour. Si vous le désirez, je peux "optimiser" vos statistiques, mais je vous préviens que je ne le ferai qu'{une seule fois dans la vie de votre personnage, renaissances incluses}. A côté de cela, il vous reste 3 "redistributions".
+08/11/2024 20:50:43-- {Gérant de la boutique}":" Bonjour ! Souhaitez-vous des "informations" ou connaissez-vous déjà assez notre boutique pour "échanger" vos Théos d'or ?
+08/11/2024 20:50:48-- You no longer have any "Potion of healing" in your backpack.
+08/11/2024 20:50:50-- You have used "Potion of mana" (14 left).
+08/11/2024 20:50:54-- You have used "Potion of mana" (13 left).
+08/11/2024 20:51:38-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 20:52:15-- [Monstre élite du Draconis Sanctum] Autrefois fournisseuse du miel des larves de dragons, l'abeille Apis n'est plus que l'instrument d'un sombre sorcier qui l'utilise comme arme pour dévorer les aventuriers, au Cimetière des dragons.
+08/11/2024 20:53:09-- You said: Hi there
+08/11/2024 20:54:09-- {Lighthaven Samaritan}":" Hello. Welcome to Lighthaven. Do you have any questions "?"
+08/11/2024 20:58:40-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 21:07:16-- [Monstre élite du Draconis Sanctum] Né des hautes montagnes du Draconis Sanctum et réveillé par le volcan en activité, le géant Jotunn se lève et se prépare à repousser les intrus.
+08/11/2024 21:11:20-- ["Main"] "Wilhjelm, le Maître de l'Esprit": "Valhalla" vient d'abaisser les défenses de l'entrée d'"Ebon" "Hold" !
+08/11/2024 21:11:24-- ["Main"] "Sieverstein": gg
+08/11/2024 21:11:30-- ["Main"] "Easy": gg
+08/11/2024 21:11:31-- ["Main"] "Ciri Eracles": gg
+08/11/2024 21:11:36-- ["Main"] "Valhalla": Merci
+08/11/2024 21:12:09-- ["Vente"] "Valhalla": J'Achete Long des étoiles et lame rognar mortes
+08/11/2024 21:18:35-- {Sofian}":" *Pleure* Sniff.. snifff... Ma maison.. Mais pourquoi ma "maison" ?!
+08/11/2024 21:18:37-- {Sofian}":" Ils m'ont tout pris, "pillé" et brûlé ma maison... Regardez moi ça ! Un vrai désastre !! Ce n'est sûrement pas le Bourgmestre qui va m'aider à reconstruire cette maison...
+08/11/2024 21:18:38-- {Sofian}":" Il s’agit de la "guilde de l'ombre", ce sont des bandits ! Des malfaiteurs ! Des voleurs !
+08/11/2024 21:18:40-- {Sofian}":" Un jour lorsque j'allais à "Windhowl", ils m'ont attaqué et m'ont assuré qu’ils ne me tueraient pas si je leurs amenais un sac de blé toute les semaines. Chose que j'ai faite pendant plusieurs lunes... Jusqu'au jour où ils ont changé d'avis...
+08/11/2024 21:18:41-- {Sofian}":" Oui, ils ont un campement sur le chemin en direction de Windhowl. "Ils" ne sont jamais seuls, ils agissent toujours en bande.
+08/11/2024 21:18:42-- {Sofian}":" Le blé ne les intéressait plus.. Sans doute en avaient t'ils assez, et puis ... que vaut de la nourriture face à des pièces d'or ? L'"argent" est tellement important.
+08/11/2024 21:18:44-- {Sofian}":" Malheureusement, je n'ai pu assouvir leurs désirs.. L’argent que je gagne m'"aide" tout juste à me nourrir et payer ma maison. La vie est très chère a Lighthaven vous savez.. Surtout depuis que la ville a retrouvé son havre de paix.
+08/11/2024 21:18:45-- {Sofian}":" Pardon... ? Vous êtes sûr de vouloir m'aider "?"
+08/11/2024 21:18:47-- {Hémoglobine}":" oui
+08/11/2024 21:18:47-- {Sofian}":" Eh bien, c'est très aimable de votre part mais... vous n'avez rien à y gagner en me proposant votre aide. Et donner une "correction" aux brigands ne servirait pas à grand chose...
+08/11/2024 21:18:50-- {Sofian}":" En effet la ville va maintenant prendre de meilleures mesures de sécurité... ils ne risquent pas de revenir, mais sortir sera très dangereux pour moi de même que pour vous si vous alliez leurs rendre une petite "visite" !
+08/11/2024 21:18:56-- {Sofian}":" C'est comme vous voulez ! Mais faites très attention leurs chef est extrêmement habile à l'épée ! Je vais vous "indiquer" ou se trouve exactement l'endroit où je m'étais fait interpeller.
+08/11/2024 21:18:57-- {Sofian}":" Vous devez sans doute connaître le camp gobelin ? Une fois arrivé là-bas, empruntez le chemin en direction du sud. Vous arriverez à une intersection, continuez toujours dans la même direction. Si vous avez bien suivi mes conseils vous verrez une étendue d'eau, à l'est de celle-ci il y a un gros rocher c'est ici que je me suis fait {avoir}...
+08/11/2024 21:19:21-- {Wellan}":" Hémoglobine, Laissez moi seul, je n'ai pas envie de "discuter".
+08/11/2024 21:19:23-- {Wellan}":" Bon c'est d'accord, voulez vous que je vous "raconte" ce qui  s'est passé ?
+08/11/2024 21:19:24-- {Wellan}":" Hier soir, je devais me rendre à Windhowl pour ramener des "bijoux" que la guilde Marchande m'avait commandé.
+08/11/2024 21:19:25-- {Wellan}":" C'est sur la route de Windhowl que tout s'est passé, une horde de gobelins fous furieux m'ont attaqué et subtilisé tout mes précieux joyaux. Comptez vous m'aider à les récupérer "?"
+08/11/2024 21:19:27-- {Hémoglobine}":" oui
+08/11/2024 21:19:27-- {Wellan}":" Très bien je vous remercie ! Quand vous aurez récupéré mes deux précieux objets veuillez les ramener à Uriel, il habite Windhowl, puis revenez me voir, je vous récompenserai.
+08/11/2024 21:22:39-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/11/2024 21:22:41-- {Araknor}":" J'ai affaire au redoutable nécromancien "Jarko" ou le "Décrépit". Je dois absolument me procurer son "grimoire". IL ME LE FAUT !
+08/11/2024 21:22:42-- {Araknor}":" Jarko le nécromancien vagabonde dans les montagnes du nord de l'île avec ses deux puissantes armées de gobelins et d'immortels. Je peux facilement m'en tirer contre elles... mais son "grimoire" me serait très utile.
+08/11/2024 21:22:44-- {Araknor}":" Le grimoire d'un mage est l'objet le plus précieux qu'il possède. Lorsque je peux mettre la main sur un de ces livres, je le dévore littéralement pour pouvoir apprendre de nouveaux sorts et augmenter ma puissance !
+08/11/2024 21:22:48-- {Hémoglobine}":" apprendre
+08/11/2024 21:22:48-- {Araknor}":" Commençons donc la leçon.
+08/11/2024 21:23:11-- {Wellan}":" Uriel m'a informé par pigeon que vous lui avez bien remis toute les pierres, comme promis je vais vous récompenser. Prenez cet or en gage de cet acte "héroïque".
+08/11/2024 21:23:13-- {Wellan}":" Mon "frère" habite Raven's Dust et aurait grand besoin d'une personne au courage sans égal tel que vous ! Allez le voir, il vous expliquera.
+08/11/2024 21:23:16-- {Wellan}":" Vous avez été récompensé. Prenez cet or en gage de cet acte "héroïque".
+08/11/2024 21:23:17-- {Wellan}":" Mon "frère" habite Raven's Dust et aurait grand besoin d'une personne au courage sans égal tel que vous ! Allez le voir, il vous expliquera.
+08/11/2024 21:23:18-- {Wellan}":" Il se nomme Silvar, trouvez le, et aidez le, je vous en supplie !
+08/11/2024 21:27:42-- {Sofian}":" Ah ! Vous êtes de retour ! Ca me soulage de vous voir encore en vie. Quoi ?! Vous avez combattu leur chef ? Mais vous êtes dingue "?!"
+08/11/2024 21:27:44-- {Hémoglobine}":" oui
+08/11/2024 21:27:44-- {Sofian}":" Grâce à votre acte très courageux je vais très certainement pouvoir reconstruire ma maison. Je n'ai malheureusement qu'une modeste récompense pour vous ! Je m'en vais de ce pas acheter quelques bûches au marché ! A très bientôt.
+08/11/2024 21:34:15-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 21:52:17-- [Monstre élite du Draconis Sanctum] Le loup géant Freki sort de sa tanière et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+08/11/2024 21:58:40-- ["Main"] "Elsi": plop
+08/11/2024 21:58:45-- ["Main"] "Sieverstein": yo
+08/11/2024 22:02:06-- ["Vente"] "Valhalla": J'Achete Long des étoiles et lame rognar mortes
+08/11/2024 22:02:17-- Le compteur des quêtes journalières, le combat contre le Seigneur-Sorcier et ceux contre les prisonniers du temps ont été réinitialisés. Vous pouvez, à nouveau, les effectuer.
+08/11/2024 22:02:17-- Le saviez-vous ? <> À partir du niveau 150, explorez le {Draconis Sanctum} ! Cette île annexe renferme de nombreux défis à faire en solitaire ou en groupe, dont une {zone épique}.
+08/11/2024 22:02:30-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 22:02:50-- You no longer have any "Potion of healing" in your backpack.
+08/11/2024 22:02:58-- You said: hi
+08/11/2024 22:02:58-- {Varriw}":" Je ne sais pas de quoi vous parlez.
+08/11/2024 22:04:07-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 22:04:13-- You are too far !
+08/11/2024 22:04:20-- You said: [ test ]
+08/11/2024 22:05:08-- You no longer have any "Potion of healing" in your backpack.
+08/11/2024 22:06:55-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/11/2024 22:06:57-- {Araknor}":" J'ai affaire au redoutable nécromancien "Jarko" ou le "Décrépit". Je dois absolument me procurer son "grimoire". IL ME LE FAUT !
+08/11/2024 22:06:58-- {Araknor}":" Vous avez le Grimoire de Jarko ? Super ! L'échangeriez-vous contre un objet particulier ?
+08/11/2024 22:07:01-- {Hémoglobine}":" oui
+08/11/2024 22:07:01-- {Araknor}":" Vous ne le regretterez pas, mon jeune ami. En gage de ma reconnaissance, je vous donne la chance d'apprendre la nécromancie en devenant mon "apprenti". De plus, je vous donne cet anneau de confiance.
+08/11/2024 22:07:03-- {Araknor}":" Il n'est pas facile de suivre la voie de la nécromancie. Pour cette première leçon, je vais vous apprendre l'"absorption" "de" "vie" "mineure".
+08/11/2024 22:07:05-- {Araknor}":" Ne m'embêtez pas avec cela.
+08/11/2024 22:07:06-- {Araknor}":" N'oubliez pas : les morts erreront toujours dans le royaume.
+08/11/2024 22:07:56-- You no longer have any "Potion of healing" in your backpack.
+08/11/2024 22:08:14-- You said: [ hi ]
+08/11/2024 22:08:18-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 22:08:24-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 22:08:39-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 22:09:25-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 22:10:39-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/11/2024 22:10:42-- {Heruhur}":" apprendre
+08/11/2024 22:10:42-- {Araknor}":" Commençons donc la leçon.
+08/11/2024 22:11:41-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 22:11:53-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/11/2024 22:11:53-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/11/2024 22:12:00-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/11/2024 22:12:06-- You said: hi
+08/11/2024 22:12:06-- {Kilhiam}":" I cannot help you with this.
+08/11/2024 22:12:08-- You said: Test
+08/11/2024 22:12:08-- {Kilhiam}":" I cannot help you with this.
+08/11/2024 22:12:43-- You no longer have any "Potion of healing" in your backpack.
+08/11/2024 22:23:25-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/11/2024 22:23:30-- You said: I am leveing
+08/11/2024 22:23:30-- {Varriw}":" Je ne sais pas de quoi vous parlez.
+08/11/2024 22:23:33-- You are too far !
+08/11/2024 22:23:35-- You no longer have any "Potion of healing" in your backpack.
+08/11/2024 22:23:37-- You no longer have any "Potion of healing" in your backpack.
+08/11/2024 22:23:38-- You have used "Potion of mana" (12 left).
+08/11/2024 22:24:19-- You receive 9 gold pieces.
+08/11/2024 22:24:25-- You receive 27 gold pieces.
+08/11/2024 22:24:31-- You receive 24 gold pieces.
+08/11/2024 22:41:24-- Bienvenue sur T4C Neerya !
+08/11/2024 22:42:06-- You no longer have any "Potion of healing" in your backpack.
+08/11/2024 22:42:08-- You said: [ hi ]
+08/11/2024 22:42:10-- You are too far !
+08/11/2024 22:42:13-- {Halam}":" Greetings to you!
+08/11/2024 22:42:22-- You are too far !
+08/11/2024 22:42:23-- {Halam}":" Greetings to you!
+08/11/2024 22:42:29-- {Halam}":" Greetings to you!
+08/11/2024 22:42:40-- You are too far !
+08/11/2024 22:42:40-- You are too far !
+08/11/2024 22:43:02-- {Halam}":" Greetings to you!
+08/11/2024 22:43:16-- {Geena}":" Good day! Can I help you with something?
+08/11/2024 22:43:20-- You are too far !
+08/11/2024 22:43:25-- {Un homme de la garde}":" Greetings. Do you have any complaints sir?
+08/11/2024 22:43:28-- You are too far !
+08/11/2024 22:48:11-- Bienvenue sur T4C Neerya !
+08/11/2024 22:48:24-- {Un aventurier d'Arakas}":" Bonjour à vous, Bacarat! Comment allez-vous ? *sourit* Je voyage régulièrement sur Arakas, toujours à la recherche d'une nouvelle aventure. Depuis la catastrophe de la "météorite" qui s'est écrasée au centre de l'île, terrible rappel des pouvoirs du Seigneur-sorcier, différentes "factions" se sont installées aux alentours pour rallier la population à leurs idéaux et se préparer au pire.
+08/11/2024 22:48:27-- {Geena}":" Good day! Can I help you with something?
+08/11/2024 22:48:29-- {Halam}":" Greetings to you!
+08/11/2024 22:48:30-- {Un homme de la garde}":" Greetings. Do you have any complaints sir?
+08/11/2024 22:48:32-- {Un aventurier d'Arakas}":" Bonjour à vous, Bacarat! Comment allez-vous ? *sourit* Je voyage régulièrement sur Arakas, toujours à la recherche d'une nouvelle aventure. Depuis la catastrophe de la "météorite" qui s'est écrasée au centre de l'île, terrible rappel des pouvoirs du Seigneur-sorcier, différentes "factions" se sont installées aux alentours pour rallier la population à leurs idéaux et se préparer au pire.
+08/11/2024 22:48:35-- {Un homme de la garde}":" Greetings. Do you have any complaints sir?

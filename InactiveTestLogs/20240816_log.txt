@@ -1,0 +1,500 @@
+08/16/2024 17:10:53-- Bienvenue sur T4C Neerya !
+08/16/2024 17:10:53-- ["Main"] "Foudrya": ca le prend 
+08/16/2024 17:10:56-- ["Main"] "Foudrya": il va lui demande
+08/16/2024 17:11:32-- ["Gamealot"] "Bacarat": hi
+08/16/2024 17:11:44-- ["Main"] "Foudrya": ca peux arrive que chamberland veulle pas te donne si ton karma est pas monte    
+08/16/2024 17:11:58-- ["Main"] "Executor": oui il est converti mon karma
+08/16/2024 17:12:02-- ["Main"] "Foudrya": pour la clef 3    ca prend karma convertie
+08/16/2024 17:12:56-- ["Main"] "Thorak": apprendre
+08/16/2024 17:13:02-- ["Main"] "Thorak": miss désolé
+08/16/2024 17:14:38-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Valence, Margah Rhynn et Marah) entre dans La Folie du Traître !
+08/16/2024 17:14:54-- ["Gamealot"] "Bacarat": test
+08/16/2024 17:15:48-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/16/2024 17:15:58-- ["Main"] "Foudrya": loll
+08/16/2024 17:16:17-- ["Gamealot"] "Bacarat": test
+08/16/2024 17:16:29-- ["Gamealot"] "Bacarat": test
+08/16/2024 17:16:45-- ["Main"] "Iollan": bon allé zou...bonne nuit
+08/16/2024 17:17:11-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+08/16/2024 17:19:11-- {BlueFox}":" spell
+08/16/2024 17:19:41-- ["Gamealot"] "Bacarat": test
+08/16/2024 17:20:32-- ["Gamealot"] "Bacarat": test
+08/16/2024 17:20:38-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Marah, Cyste et Valence) entre dans La Folie du Traître !
+08/16/2024 17:20:41-- ["Gamealot"] "Bacarat": test
+08/16/2024 17:20:57-- ["Gamealot"] "Bacarat": test
+08/16/2024 17:22:00-- ["Gamealot"] "Bacarat": test
+08/16/2024 17:22:27-- {Anakin sky}":" apprendre
+08/16/2024 17:22:32-- {Anakin sky}":" apprendre
+08/16/2024 17:22:37-- {Anakin sky}":" entrrainer
+08/16/2024 17:22:40-- {Anakin sky}":" entrainer
+08/16/2024 17:23:08-- {Anakin sky}":" adieu
+08/16/2024 17:24:36-- ["Main"] "Mandorall": bonne nuit à toutes et tous :)
+08/16/2024 17:26:18-- [Instance de Stoneheim Normale] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Cyste, Margah Rhynn et Freydis) entre dans La Folie du Traître !
+08/16/2024 17:26:41-- ["Main"] "Gervaise Highwind": bododo a toua!
+08/16/2024 17:26:54-- ["Main"] "Valhalla": Dispo SS si jamais
+08/16/2024 17:27:07-- ["Main"] "Valhalla": Ou sh HM
+08/16/2024 17:28:01-- {BlueFox}":" buy
+08/16/2024 17:31:16-- ["Vente"] "Valhalla": Je cherche fleche arcanium 
+08/16/2024 17:32:14-- ["Main"] "Executor": moonrock est ou ???
+08/16/2024 17:32:22-- ["Main"] "Freydis": temple LH
+08/16/2024 17:32:25-- ["Main"] "Ed Pettrovitch": temple lh
+08/16/2024 17:32:40-- ["Main"] "Saito Musashibo": au depanneur dans un 'ti sac rouge ou ourange!
+08/16/2024 17:32:42-- {Executor}":" clefs royales
+08/16/2024 17:32:51-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/16/2024 17:33:25-- {Executor}":" acheter
+08/16/2024 17:35:07-- ["Main"] "Foudrya": dans anwynn   la fille en bleu droppe quoi deja 
+08/16/2024 17:35:30-- ["Main"] "Piemur De Pern":  rien
+08/16/2024 17:37:41-- ["Main"] "Valhalla": Au nord west de rst arak ses quoi ce repaire 
+08/16/2024 17:37:52-- ["Main"] "Piemur De Pern":  les druides non ?
+08/16/2024 17:37:52-- ["Main"] "Valhalla": refuge ?
+08/16/2024 17:38:12-- ["Main"] "Valhalla": pt les druides oui
+08/16/2024 17:38:26-- ["Main"] "Gizmooh": jsut eau nord de la rsdt
+08/16/2024 17:38:36-- ["Main"] "Incompétence": ²C
+08/16/2024 17:38:37-- ["Main"] "Gizmooh": rst
+08/16/2024 17:38:43-- ["Main"] "Saito Musashibo": niffleurs
+08/16/2024 17:40:19-- ["Main"] "Tekk": bonne nuit à tous
+08/16/2024 17:40:26-- ["Main"] "Valhalla": Sur le wiki sa dit refuge insulaire
+08/16/2024 17:41:12-- ["Main"] "Saito Musashibo": a au nord ouest
+08/16/2024 17:41:13-- ["Main"] "Incompétence": Bug !
+08/16/2024 17:41:22-- ["Main"] "Valhalla": oui
+08/16/2024 17:41:28-- ["Main"] "Saito Musashibo": xD
+08/16/2024 17:41:38-- ["Main"] "Valhalla": Ses pour access DS
+08/16/2024 17:41:48-- ["Main"] "Saito Musashibo":  non c'est une  faction
+08/16/2024 17:41:52-- ["Main"] "Saito Musashibo":  ;)
+08/16/2024 17:42:01-- ["Main"] "Valhalla": Je monte au druide
+08/16/2024 17:46:22-- {Margah Rhynn}":" entrainer
+08/16/2024 17:46:43-- ["Vente"] "Valhalla": Je cherche fleche arcanium 
+08/16/2024 17:47:07-- ["Main"] "Incompétence": LOL Saito Musashibo, ça fait Médaille en choco, un peu ...
+08/16/2024 17:48:40-- Valhalla vient de débarquer au campement spellshorien, sur le Draconis Sanctum !
+08/16/2024 17:48:45-- ["Main"] "Darth Nihilus": gg
+08/16/2024 17:48:46-- ["Main"] "Mirya Lestrange": gg
+08/16/2024 17:48:50-- ["Main"] "Gizmooh": Gratz !
+08/16/2024 17:48:53-- ["Main"] "Lamoueste": GG !
+08/16/2024 17:48:56-- ["Main"] "Eleia": ggà
+08/16/2024 17:49:00-- ["Main"] "Piemur De Pern": gg
+08/16/2024 17:49:05-- ["Main"] "Margah Rhynn": gg
+08/16/2024 17:49:07-- ["Main"] "Tashi": gg
+08/16/2024 17:49:11-- ["Main"] "Valhalla": merci
+08/16/2024 17:49:30-- ["Main"] "Saito Musashibo": Tu es chanceux Qu'il soit de bonnne humeur le saito, tout ceux qui l'ont croisé ont trépassé
+08/16/2024 17:50:00-- ["Main"] "Saito Musashibo": Benkei Mon Nom
+08/16/2024 17:50:08-- ["Main"] "Eleia": ses poche heal pour farmer
+08/16/2024 17:50:24-- ["Main"] "Saito Musashibo": pas si t'as de l'équipement terre?
+08/16/2024 17:50:46-- ["Main"] "Valhalla": On ce moment il y a la TB ?
+08/16/2024 17:50:48-- ["Main"] "Incompétence": Je rêve, que des gg, le charisme de ces personnes est inprésionnant
+08/16/2024 17:51:26-- ["Main"] "Piemur De Pern":  essaye d'écrire impressionnant de la bonne manière et là je serais impresionné :d
+08/16/2024 17:52:15-- ["Main"] "Incompétence": Oh le "M" et en fait quelle importance
+08/16/2024 17:52:30-- ["Main"] "Piemur De Pern":  Aucune
+08/16/2024 17:54:35-- ["Main"] "Valhalla": DS sa xp ou en Mage Air avec 135 CA
+08/16/2024 17:54:47-- ["Main"] "Mirya Lestrange": surement aux mouches
+08/16/2024 17:55:08-- ["Main"] "Ribambelle": plutot maraingouins
+08/16/2024 17:55:20-- ["Main"] "Mirya Lestrange": ouin 135, ca va prendre des ptites mouches
+08/16/2024 17:55:31-- ["Main"] "Valhalla": Ses quoi les abeilles sa
+08/16/2024 17:55:35-- ["Main"] "Mirya Lestrange": yes
+08/16/2024 17:55:41-- ["Main"] "Valhalla": ok merci
+08/16/2024 17:55:44-- ["Main"] "Ribambelle": oui abeilles mais je pense tu manques de CA, tu as resist eau ?
+08/16/2024 17:56:02-- ["Main"] "Valhalla": Oui jai les resist
+08/16/2024 17:56:12-- ["Main"] "Ribambelle":  ya les ecumes en z2 pour mage air ausi
+08/16/2024 17:56:30-- ["Main"] "Ribambelle": ca prend resist eau aux ecumes
+08/16/2024 17:57:05-- ["Main"] "Saito Musashibo": Gervaise still bacup
+08/16/2024 17:57:11-- ["Main"] "Saito Musashibo": +k
+08/16/2024 17:57:26-- ["Main"] "Imoën":  Excusez moi j'ai beau chercher sur le wiki et dans Blackgold, je ne trouve pas les vendeurs d'arcs
+08/16/2024 17:57:27-- ["Main"] "Valhalla": Je connais pas les ecumes
+08/16/2024 17:57:47-- ["Main"] "Kimiko": Ils ne sont plus à BG les vendeurs d'arc
+08/16/2024 17:58:01-- ["Main"] "Imoën":  Ha ça me rassure --'
+08/16/2024 17:58:04-- ["Main"] "Ribambelle": C'est en z2 a gauche en haut quand tu sors de la grotte
+08/16/2024 17:58:14-- ["Main"] "Imoën":  Merci
+08/16/2024 17:59:05-- ["Main"] "Kimiko": C'est quoi l'arc que tu cherches?
+08/16/2024 17:59:07-- [Monstre élite du Draconis Sanctum] Le loup géant Freki sort de sa tanière et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+08/16/2024 17:59:31-- ["Main"] "Imoën":  Arc courbé en noyer blanc ensorcelé féerique
+08/16/2024 17:59:54-- ["Main"] "Imoën":  et Arc à poulies en noyer blanc ensorcelé féerique
+08/16/2024 17:59:57-- ["Main"] "Kimiko": Doit etre au marchand +2 RD ca ?
+08/16/2024 18:01:09-- ["Main"] "Imoën":  merci
+08/16/2024 18:02:21-- ["Main"] "Mercenaire": Enfin quelqu'un qui ne fait pas de faute à Baccarat, c'est rare pour une rose
+08/16/2024 18:05:59-- ["Main"] "Valhalla": Quand vous dite les ecume ses ou il a api ?
+08/16/2024 18:06:07-- ["Main"] "Mirya Lestrange": ben avant ca
+08/16/2024 18:06:15-- ["Main"] "Mirya Lestrange": ou ya de la glace sur la cote
+08/16/2024 18:06:20-- ["Main"] "Ed Pettrovitch": l autre coté
+08/16/2024 18:06:22-- ["Main"] "Gizmooh": tout debut zone 2 les gros golem blanc
+08/16/2024 18:06:33-- ["Main"] "Valhalla": Au portail
+08/16/2024 18:07:23-- ["Main"] "Mercenaire": 4 lignes, 4 fautes, bravo
+08/16/2024 18:09:20-- [Draconis Sanctum] Grâce à la témérité de 7 aventuriers, les monstres de la Caldeira battent en retraite. Le nexus d'accès à la Tour Blanche s'est activé.
+08/16/2024 18:09:52-- ["Main"] "Mercenaire": Ce n'est pas le tout de jouer, un peu de culture ferait du bien aux lecteurs.
+08/16/2024 18:10:53-- ["Main"] "Freydis": Sa ses bient dis !
+08/16/2024 18:10:59-- ["Main"] "Piemur De Pern":  :D
+08/16/2024 18:13:19-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:20-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:21-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:22-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:23-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:24-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:24-- ["Main"] "Mercenaire": Freydis, j'aime ton Humour !
+08/16/2024 18:13:24-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:25-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:26-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:27-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:28-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:29-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:29-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:30-- {Eleia}":" perle de sagesse oui
+08/16/2024 18:13:32-- {Eleia}":" adieu
+08/16/2024 18:16:06-- ["Main"] "L'Oracle": Félicitations à Laudanum qui devient Séraphe avec sa première renaissance !
+08/16/2024 18:16:12-- ["Main"] "Piemur De Pern":  GG !
+08/16/2024 18:16:13-- ["Main"] "Ribambelle": GG
+08/16/2024 18:16:14-- ["Main"] "Valhalla": gg
+08/16/2024 18:16:17-- ["Main"] "Pax": gg
+08/16/2024 18:16:17-- ["Main"] "Margah Rhynn": gg
+08/16/2024 18:16:18-- ["Main"] "Executor": gg
+08/16/2024 18:16:18-- ["Main"] "El Brutos": bravo !
+08/16/2024 18:16:19-- ["Main"] "Tanjeh Rhynn": GG
+08/16/2024 18:16:23-- ["Main"] "Eleia": gg
+08/16/2024 18:16:24-- ["Main"] "Mirya Lestrange": quel talent
+08/16/2024 18:16:24-- ["Main"] "Tashi": gg
+08/16/2024 18:16:28-- ["Main"] "Laudanum": merci :p
+08/16/2024 18:16:31-- ["Main"] "Ed Pettrovitch": quel talent
+08/16/2024 18:16:35-- ["Main"] "Ribambelle": fini les capes :p
+08/16/2024 18:16:39-- ["Main"] "Laudanum": archer pur on met quoi en points seraph ? :p
+08/16/2024 18:16:47-- ["Main"] "Valhalla": resist terre
+08/16/2024 18:16:53-- ["Main"] "Piemur De Pern":  nan
+08/16/2024 18:16:58-- ["Main"] "Ribambelle": Depend si tu veux pvp ou non
+08/16/2024 18:16:58-- ["Main"] "Tanjeh Rhynn": Tout en puissance flèches
+08/16/2024 18:17:07-- ["Main"] "Mirya Lestrange": puissance terre si tu pvp, resist feu/eau si tu pvm
+08/16/2024 18:17:20-- ["Main"] "Laudanum": ok merci :)
+08/16/2024 18:17:29-- ["Main"] "Lamoueste": vendre
+08/16/2024 18:18:56-- ["Main"] "Mercenaire": Surrement pour lui mais encore que des "gg", faites le vous même au lieu de flatter...
+08/16/2024 18:19:21-- {Laudanum}":" tâche
+08/16/2024 18:19:23-- {Laudanum}":" travail
+08/16/2024 18:25:04-- {Lamoueste}":" vendre
+08/16/2024 18:25:14-- {Lamoueste}":" vendre
+08/16/2024 18:26:11-- {Lamoueste}":" vendre
+08/16/2024 18:26:47-- ["Main"] "Mercenaire": Lamoueste, tu es sur le Main
+08/16/2024 18:26:57-- ["Main"] "Lamoueste": oh lol
+08/16/2024 18:27:07-- ["Main"] "Lamoueste": il est temps d'aller dormir :)
+08/16/2024 18:32:14-- {Baube}":" [ Merci :) ]
+08/16/2024 18:32:16-- {Elva Chou}":" [ et bim ]
+08/16/2024 18:32:31-- ["Main"] "Executor": ces tu normal jai pas acces SH mes jai une taches de sh 
+08/16/2024 18:32:37-- ["Main"] "Kimiko": oui
+08/16/2024 18:32:40-- ["Main"] "Piemur De Pern":  c'est parce que tu as le niveau
+08/16/2024 18:32:41-- ["Main"] "Ed Pettrovitch": oui
+08/16/2024 18:32:47-- ["Main"] "Executor": okay merci
+08/16/2024 18:33:06-- ["Main"] "Piemur De Pern":  tu peux l'abandonner et prendre une autre
+08/16/2024 18:34:08-- Le saviez-vous ? <> À partir du niveau 150, explorez le {Draconis Sanctum} ! Cette île annexe renferme de nombreux défis à faire en solitaire ou en groupe, dont une {zone épique}.
+08/16/2024 18:34:45-- ["Main"] "Mercenaire": La seule tâche en arrivant, c'est le loup garou ...
+08/16/2024 18:41:04-- ["Main"] "Mercenaire": Executor, franchement, arriver au niveau 50 sur SH, si tu ne connais pas, Hum monte avant car à part les loups ... En revanche si tu y vas un peu plus haut LVl que du bonheur.
+08/16/2024 18:41:48-- ["Main"] "Executor": comment ce rendre a blackgold sans le vortex ?
+08/16/2024 18:41:55-- ["Main"] "Kimiko": oasis
+08/16/2024 18:41:59-- ["Main"] "Piemur De Pern":  avec un parchemin
+08/16/2024 18:42:13-- ["Main"] "El Brutos": faut tu payer  mafhoud
+08/16/2024 18:42:30-- ["Main"] "Saito Musashibo": 85k je crois non?
+08/16/2024 18:42:42-- ["Main"] "Elva": ca depend du level
+08/16/2024 18:45:34-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+08/16/2024 18:48:34-- ["Main"] "Ed Pettrovitch": du monde pour vovo?
+08/16/2024 18:48:45-- ["Main"] "Mercenaire": EL Brutos a dit un truc que quelqu'un comprend !
+08/16/2024 18:49:08-- [Monstre élite du Draconis Sanctum] La monstrueuse Veuve aux mille yeux quitte son nid et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+08/16/2024 18:49:13-- ["Main"] "El Brutos": :p
+08/16/2024 18:49:21-- ["Main"] "Ed Pettrovitch": up veuve
+08/16/2024 18:50:30-- L'accès à l'{aile Nord d'Anwynn} est ouvert pendant une heure.
+08/16/2024 18:58:13-- {Laudanum}":" acheter
+08/16/2024 19:06:08-- {Asmodaï}":" guerir
+08/16/2024 19:06:10-- {Asmodaï}":" oui
+08/16/2024 19:07:17-- {Xytra}":" acheter
+08/16/2024 19:27:04-- ["Main"] "Valhalla": Up si il a de la place
+08/16/2024 21:53:57-- Your connection with the server has been lost.
+08/16/2024 21:54:00-- Your connection with the server has been lost.
+08/16/2024 21:54:56-- Bienvenue sur T4C Neerya !
+08/16/2024 21:55:13-- ["Main"] "Rha Le Prêtre":  hello a tous
+08/16/2024 21:55:13-- ["Main"] "Aqua Man": Je tape au maelstrom
+08/16/2024 21:55:33-- ["Main"] "Easy": avec les sort eau je présume te faudrais 600int pure pour 350m
+08/16/2024 21:55:39-- ["Main"] "Teppei": Bjr Rha
+08/16/2024 21:55:53-- ["Main"] "Aqua Man": Jai 625 int boost
+08/16/2024 21:56:35-- ["Main"] "Easy": ok, donc tu tu tien en robe, met la robe =)
+08/16/2024 21:56:51-- ["Main"] "Aqua Man":  Oui
+08/16/2024 21:58:13-- ["Main"] "Easy": comme toutes les classe mieux mieux tu tiens, plus tu vise les boosts dps
+08/16/2024 21:58:48-- ["Gamealot"] "Bacarat": test
+08/16/2024 21:59:05-- Le saviez-vous ? <> On peut faire marcher automatiquement son personnage en faisant {Inser} puis une {flèche directionnelle} du pavé numérique (avec Ver.Num désactivé). Pour s'arrêter, il faut presser la touche {5}. Pour désactiver la marche automatique, if faut presser de nouveau la touche {Inser}
+08/16/2024 22:02:06-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:02:55-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/16/2024 22:03:03-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:03:28-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:04:05-- Le compteur des quêtes journalières, le combat contre le Seigneur-Sorcier et ceux contre les prisonniers du temps ont été réinitialisés. Vous pouvez, à nouveau, les effectuer.
+08/16/2024 22:04:05-- [Monstre élite du Draconis Sanctum] Perverti par une magie impie des Marais bouillonnants, le Saule vengeur autrefois majestueux n'est plus que colère et destruction.
+08/16/2024 22:04:20-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:06:25-- ["Main"] "Easy": lol ok
+08/16/2024 22:07:07-- {BiloW}":" train
+08/16/2024 22:07:20-- {BiloW}":" buy
+08/16/2024 22:07:38-- {BiloW}":" sell
+08/16/2024 22:07:57-- {BiloW}":" sell
+08/16/2024 22:08:02-- {BiloW}":" buy
+08/16/2024 22:08:05-- {BiloW}":" yes
+08/16/2024 22:08:26-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:08:54-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:09:03-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:09:27-- {BiloW}":" taches
+08/16/2024 22:09:29-- {BiloW}":" yes
+08/16/2024 22:09:31-- {BiloW}":" task
+08/16/2024 22:09:35-- {BiloW}":" taches
+08/16/2024 22:10:20-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:11:57-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:12:05-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:12:18-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:12:46-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:12:58-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/16/2024 22:13:23-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/16/2024 22:13:26-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/16/2024 22:13:26-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/16/2024 22:13:32-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/16/2024 22:14:15-- {BiloW}":" ERRAND
+08/16/2024 22:14:34-- {BiloW}":" yes
+08/16/2024 22:14:37-- {BiloW}":" errand
+08/16/2024 22:14:56-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:16:57-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:17:36-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:20:02-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:22:23-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:23:42-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:25:14-- ["Main"] "Naura Andara": Bonjour, possible d'avoir une béné au nexus svp ?
+08/16/2024 22:25:43-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:26:13-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:26:21-- ["Gamealot"] "Bacarat": test
+08/16/2024 22:31:22-- {Pax}":" sell
+08/16/2024 22:31:59-- {Galiroc}":" acceder
+08/16/2024 22:36:45-- {Pax}":" sell
+08/16/2024 22:36:48-- {Pax}":" sell
+08/16/2024 22:38:21-- {Vénérothe}":" acceder
+08/16/2024 22:41:13-- {Vénérothe}":" vendre
+08/16/2024 22:41:43-- {Vénérothe}":" acceder
+08/16/2024 22:42:15-- {Pax}":" sell
+08/16/2024 22:42:40-- {Vénérothe}":" acceder
+08/16/2024 22:58:36-- [Draconis Sanctum] Le ciel s'assombrit... une puissante créature vient d'être invoquée par un groupe d'aventuriers.
+08/16/2024 22:58:37-- [Draconis Sanctum] Une énergie sombre et sauvage se concentre au dessus du Draconis Sanctum.
+08/16/2024 22:59:07-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/16/2024 22:59:13-- [Draconis Sanctum] Le loup géant Freki sort de sa tanière. Il a été invoqué par un groupe d'aventuriers.
+08/16/2024 23:00:25-- ["Main"] "Papillon": coucuuuuuuuuu
+08/16/2024 23:00:36-- ["Main"] "Kraigo": salut
+08/16/2024 23:00:37-- ["Main"] "Dakunaito Ardens": Salut ! 
+08/16/2024 23:00:58-- ["Main"] "Papillon": qqchose qui tournerai deja par hasard? :p
+08/16/2024 23:01:11-- ["Main"] "Dakunaito Ardens": oui, mon petit dej dans le micro onde
+08/16/2024 23:01:22-- ["Main"] "Phantomas d Albion": je vais etre grossier
+08/16/2024 23:01:31-- ["Main"] "Papillon": ma maman dort encore ;)
+08/16/2024 23:01:31-- ["Main"] "Rha Le Prêtre":  ouais ma femme ! :D
+08/16/2024 23:02:17-- [Draconis Sanctum] Le ciel s'assombrit... une puissante créature vient d'être invoquée par un groupe d'aventuriers.
+08/16/2024 23:02:18-- [Draconis Sanctum] Une énergie sombre et sauvage se concentre au dessus du Draconis Sanctum.
+08/16/2024 23:04:14-- [Draconis Sanctum] Le loup géant Freki sort de sa tanière. Il a été invoqué par un groupe d'aventuriers.
+08/16/2024 23:19:16-- [Monstre élite du Draconis Sanctum] Né des hautes montagnes du Draconis Sanctum et réveillé par le volcan en activité, le géant Jotunn se lève et se prépare à repousser les intrus.
+08/16/2024 23:22:43-- {Drenny}":" apprendre
+08/16/2024 23:22:46-- {Drenny}":" apprendre
+08/16/2024 23:22:59-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/16/2024 23:23:00-- {Drenny}":" apprendre
+08/16/2024 23:23:00-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/16/2024 23:23:02-- {Kilhiam}":" Voulez-vous l'apprendre maintenant ?
+08/16/2024 23:23:05-- {Drenny}":" oui
+08/16/2024 23:23:13-- {Drenny}":" oui
+08/16/2024 23:23:15-- {Drenny}":" apprendre
+08/16/2024 23:27:31-- {Mulonusse}":" acceder
+08/16/2024 23:29:52-- {Mulonusse}":" adieu
+08/16/2024 23:32:47-- ["Main"] "Papillon": on continue d'avoir des mats ZE qd c'est ouvert? javais oublié caoO
+08/16/2024 23:35:40-- {Drenny}":" acheter
+08/16/2024 23:39:19-- {Heruhur}":" dps
+08/16/2024 23:39:31-- {Heruhur}":" dps
+08/16/2024 23:40:27-- {Wellan}":" Sildryx, Laissez moi seul, je n'ai pas envie de "discuter".
+08/16/2024 23:40:29-- {Wellan}":" Bon c'est d'accord, voulez vous que je vous "raconte" ce qui  s'est passé ?
+08/16/2024 23:40:30-- {Wellan}":" Hier soir, je devais me rendre à Windhowl pour ramener des "bijoux" que la guilde Marchande m'avait commandé.
+08/16/2024 23:40:33-- {Wellan}":" C'est sur la route de Windhowl que tout s'est passé, une horde de gobelins fous furieux m'ont attaqué et subtilisé tout mes précieux joyaux. Comptez vous m'aider à les récupérer "?"
+08/16/2024 23:40:36-- {Wellan}":" Très bien je vous remercie ! Quand vous aurez récupéré mes deux précieux objets veuillez les ramener à Uriel, il habite Windhowl, puis revenez me voir, je vous récompenserai.
+08/16/2024 23:40:38-- {Wellan}":" Au revoir, à très bientôt.
+08/16/2024 23:41:09-- {Sofian}":" *Pleure* Sniff.. snifff... Ma maison.. Mais pourquoi ma "maison" ?!
+08/16/2024 23:41:10-- {Sofian}":" Ils m'ont tout pris, "pillé" et brûlé ma maison... Regardez moi ça ! Un vrai désastre !! Ce n'est sûrement pas le Bourgmestre qui va m'aider à reconstruire cette maison...
+08/16/2024 23:41:12-- {Sofian}":" Il s’agit de la "guilde de l'ombre", ce sont des bandits ! Des malfaiteurs ! Des voleurs !
+08/16/2024 23:41:13-- {Sofian}":" Un jour lorsque j'allais à "Windhowl", ils m'ont attaqué et m'ont assuré qu’ils ne me tueraient pas si je leurs amenais un sac de blé toute les semaines. Chose que j'ai faite pendant plusieurs lunes... Jusqu'au jour où ils ont changé d'avis...
+08/16/2024 23:41:14-- {Sofian}":" Oui, ils ont un campement sur le chemin en direction de Windhowl. "Ils" ne sont jamais seuls, ils agissent toujours en bande.
+08/16/2024 23:41:16-- {Sofian}":" Le blé ne les intéressait plus.. Sans doute en avaient t'ils assez, et puis ... que vaut de la nourriture face à des pièces d'or ? L'"argent" est tellement important.
+08/16/2024 23:41:18-- {Sofian}":" Malheureusement, je n'ai pu assouvir leurs désirs.. L’argent que je gagne m'"aide" tout juste à me nourrir et payer ma maison. La vie est très chère a Lighthaven vous savez.. Surtout depuis que la ville a retrouvé son havre de paix.
+08/16/2024 23:41:19-- {Sofian}":" Pardon... ? Vous êtes sûr de vouloir m'aider "?"
+08/16/2024 23:41:21-- {Sofian}":" Eh bien, c'est très aimable de votre part mais... vous n'avez rien à y gagner en me proposant votre aide. Et donner une "correction" aux brigands ne servirait pas à grand chose...
+08/16/2024 23:41:23-- {Sofian}":" En effet la ville va maintenant prendre de meilleures mesures de sécurité... ils ne risquent pas de revenir, mais sortir sera très dangereux pour moi de même que pour vous si vous alliez leurs rendre une petite "visite" !
+08/16/2024 23:41:24-- {Sofian}":" C'est comme vous voulez ! Mais faites très attention leurs chef est extrêmement habile à l'épée ! Je vais vous "indiquer" ou se trouve exactement l'endroit où je m'étais fait interpeller.
+08/16/2024 23:41:26-- {Sofian}":" Vous devez sans doute connaître le camp gobelin ? Une fois arrivé là-bas, empruntez le chemin en direction du sud. Vous arriverez à une intersection, continuez toujours dans la même direction. Si vous avez bien suivi mes conseils vous verrez une étendue d'eau, à l'est de celle-ci il y a un gros rocher c'est ici que je me suis fait {avoir}...
+08/16/2024 23:41:28-- {Sofian}":" Vous devez sans doute connaître le camp gobelin ? Une fois arrivé là-bas, empruntez le chemin en direction du sud. Vous arriverez à une intersection, continuez toujours dans la même direction. Si vous avez bien suivi mes conseils vous verrez une étendue d'eau, à l'est de celle-ci il y a un gros rocher c'est ici que je me suis fait {avoir}...
+08/16/2024 23:41:38-- ["Main"] "Phantomas d Albion": rha est le meileur recalleur du MONDE
+08/16/2024 23:42:07-- ["Main"] "Rha Le Prêtre":  RST !! RST !!
+08/16/2024 23:43:55-- ["Main"] "Phantomas d Albion": g ,o,
+08/16/2024 23:45:13-- ["Main"] "Mandorall": bonjour tout le monde :)
+08/16/2024 23:47:31-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/16/2024 23:48:04-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/16/2024 23:48:09-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/16/2024 23:48:10-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/16/2024 23:48:10-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/16/2024 23:48:21-- [Invasions] Votre inscription à une faction a déjà été effectuée. N'oubliez pas de vous rendre à votre repaire prendre vos quêtes journalières et dépenser vos bons de ravitaillement. Pensez également à activer votre pierre de lien.
+08/16/2024 23:48:21-- {Un crieur de rue}":" Bonsoir, Bacarat ! Quelles sont les dernières nouvelles de la cité des cieux de l'archange Sabathiel ?
+08/16/2024 23:48:32-- {Valerius}":" Vous venez de trouver le plus grand Champion d'Althéa ! Et vous, quel exploit avez-vous accompli ? Vous avez gagné le concours de cueillette de baie rouge sans doute *moqueur*. Je peux vous donner le "défi" du mois que j'ai lancé aux aventuriers qui n'ont pas froid aux yeux ou vous dire qui est en "avance" sur les autres.
+08/16/2024 23:48:34-- {Valerius}":" Ce mois-ci, le grand défi est '{Le combat avec le Seigneur Sorcier au plus haut niveau}' pour encore 15 jours. Je peux déjà vous dire qui est en "avance" sur les autres. Je peux aussi vous donner des "détails".
+08/16/2024 23:59:23-- Le saviez-vous ? <> Plusieurs petites îles périphériques sont dédiées aux animations. Sur l'une d'entre elles, vous pouvez affronter le dangereux {Changeant}. Il est possible de trouver sur son cadavre des {bons de façonnage}.
+08/17/2024 00:00:56-- ["Main"] "Padre Pio": plop 
+08/17/2024 00:01:17-- ["Main"] "Lens Boose": salut
+08/17/2024 00:01:23-- ["Main"] "Izanami Main Noire":  slt padre
+08/17/2024 00:02:46-- ["Main"] "Padre Pio": les evil ne peux vas apprendre le sort lumiere?
+08/17/2024 00:03:04-- ["Main"] "Anorfirithien": si, mais tu dois d'abord prier Artherk
+08/17/2024 00:03:11-- ["Main"] "Padre Pio": ok
+08/17/2024 00:03:30-- ["Main"] "Rha Le Prêtre":  G1 a un super healer !!!
+08/17/2024 00:06:00-- ["Main"] "Padre Pio": oui
+08/17/2024 00:06:56-- ["Main"] "Padre Pio": comme,t on le pri lol?
+08/17/2024 00:07:40-- ["Main"] "Anorfirithien": avec des sous et des points de compétence
+08/17/2024 00:07:49-- ["Main"] "Neytiri Taulern": a genou les mains jointent et tu dis : Rha est le meilleur 
+08/17/2024 00:07:59-- ["Main"] "Rha Le Prêtre":  ouaiss !
+08/17/2024 00:08:05-- ["Main"] "Neytiri Taulern": :)
+08/17/2024 00:08:13-- ["Main"] "Izanami Main Noire":  lol
+08/17/2024 00:08:13-- ["Main"] "Padre Pio": ah et on fais tous sa ou?
+08/17/2024 00:08:22-- ["Main"] "Rha Le Prêtre":  devant mon temple
+08/17/2024 00:08:34-- ["Main"] "Neytiri Taulern": auberge a mon avis...
+08/17/2024 00:08:36-- ["Main"] "Anorfirithien": au fond des marais
+08/17/2024 00:09:12-- ["Main"] "Anorfirithien": là où tu vas te dire : "Rha ça, sent pas bon ici"
+08/17/2024 00:10:18-- ["Main"] "Padre Pio": super lol en vrai comment j'apprend lumiere ?
+08/17/2024 00:10:52-- ["Main"] "Taihachesay": au temple de lh
+08/17/2024 00:11:02-- ["Main"] "Anorfirithien": la prêtresse pose une question et tu dois répondre ouiµ
+08/17/2024 00:11:14-- ["Main"] "Padre Pio": oui mais le hic je suis evil et elle ne veut pas me l'apprendre
+08/17/2024 00:11:24-- ["Main"] "Taihachesay": ca change rien
+08/17/2024 00:11:34-- ["Main"] "Piemur De Pern":  Bonjour !
+08/17/2024 00:11:43-- ["Main"] "Taihachesay": slt
+08/17/2024 00:13:23-- ["Main"] "Padre Pio": sa me dis vs ,'etes pas autorisé a apprendre  :/
+08/17/2024 00:13:43-- ["Main"] "Taihachesay": tu as aseez de sag ?
+08/17/2024 00:13:47-- ["Main"] "Azazël": g k
+08/17/2024 00:13:49-- ["Main"] "Padre Pio": oui
+08/17/2024 00:13:51-- ["Main"] "Taihachesay": et le lvl ?
+08/17/2024 00:13:52-- ["Main"] "Valeska De Scyla":  ca m'a fait pareil mais je l'avais quand meme
+08/17/2024 00:17:37-- [Draconis Sanctum] Grâce à la témérité de 7 aventuriers, les monstres de la Caldeira battent en retraite. Le nexus d'accès à la Tour Blanche s'est activé.
+08/17/2024 00:24:02-- ["Main"] "Latimer": bonjour,bonjour :)
+08/17/2024 00:24:12-- ["Main"] "Izanami Main Noire":  slt
+08/17/2024 00:24:13-- ["Main"] "Papillon": possibilité de joindre un groupe ?
+08/17/2024 00:24:23-- ["Main"] "Papillon": sw
+08/17/2024 00:26:51-- ["Main"] "Papillon": y'a qq chose qui tourne ? jviens de recooui
+08/17/2024 00:26:54-- ["Main"] "Papillon": sw
+08/17/2024 00:31:26-- ["Main"] "Mandorall": elle ne fonctionne qu'une fois la quêtes des skraug pour les livres rouge ?
+08/17/2024 00:31:45-- ["Main"] "Drenny": oui
+08/17/2024 00:31:46-- ["Main"] "Piemur De Pern":  oui
+08/17/2024 00:31:59-- ["Main"] "Mandorall": ah la je suis un peu trsite :p
+08/17/2024 00:39:11-- ["Main"] "Arthurys Pendragon": "BONJOUR"
+08/17/2024 00:39:20-- ["Main"] "Mandorall": bonjour :)
+08/17/2024 00:39:21-- ["Main"] "Papillon": dispo
+08/17/2024 00:39:30-- ["Main"] "Miss Izardens Mn":  au revoir  ;)
+08/17/2024 00:39:32-- ["Main"] "Taihachesay": bjr
+08/17/2024 00:39:34-- ["Main"] "Rafal Crow": Slt
+08/17/2024 00:39:38-- ["Main"] "Latimer": salut
+08/17/2024 00:44:11-- ["Main"] "Arthurys Pendragon": Miracle ...10 lancer 10 poissons ...afk  jouer au loto
+08/17/2024 00:44:35-- ["Main"] "Taihachesay": c kler
+08/17/2024 00:44:41-- ["Main"] "Piemur De Pern":  tu vérifieras que ta femme est pas avec le facteur :D
+08/17/2024 00:44:44-- ["Main"] "Miss Izardens Mn":  elle est ou ta chere et tendre  ;))
+08/17/2024 00:44:53-- ["Main"] "Miss Izardens Mn":  lol
+08/17/2024 00:45:00-- ["Main"] "Arthurys Pendragon": vous inquietez pas
+08/17/2024 00:45:07-- ["Main"] "Arthurys Pendragon": ^^
+08/17/2024 00:45:15-- ["Main"] "Rha Le Prêtre":  c'etait moins une !
+08/17/2024 00:46:06-- ["Main"] "Arthurys Pendragon": 94.92 darrouuu va vouloir que je meurs
+08/17/2024 00:46:10-- ["Main"] "Arthurys Pendragon": sw
+08/17/2024 00:56:34-- ["Main"] "Mestoph": Bonjour
+08/17/2024 00:56:40-- ["Main"] "Piemur De Pern":  Salut
+08/17/2024 00:56:41-- ["Main"] "Arthurys Pendragon": plop
+08/17/2024 00:56:42-- ["Main"] "Duncyx": hello
+08/17/2024 00:56:45-- ["Main"] "Latimer": salut
+08/17/2024 00:56:47-- ["Main"] "Luminos": Bonjour  Mestoph
+08/17/2024 00:56:51-- ["Main"] "Papillon": coucou
+08/17/2024 00:57:02-- ["Main"] "Dakunaito Ardens": Bonjour Bonjour
+08/17/2024 00:57:09-- ["Main"] "Mestoph": Est-ce qu'un joueur serait dispo pour venir en vocal et faire quelques test avec moi ?
+08/17/2024 00:57:12-- ["Main"] "Piemur De Pern":  Dis Mestroph quand on regarde le détail d'un objet on en peut plus cliquer ailleurs c'est normal?
+08/17/2024 00:57:29-- ["Main"] "Volders": Sure Mestoph
+08/17/2024 00:57:38-- ["Main"] "Mestoph": J'en sais rien j'ai jamais testé Piemur
+08/17/2024 00:57:58-- ["Main"] "Piemur De Pern":  juste faire bouton droit sur un objet de l'inventaire
+08/17/2024 00:58:17-- ["Main"] "Mestoph": je vais en vocal
+08/17/2024 00:58:26-- ["Main"] "Daroou": ça a tjs été comme ça
+08/17/2024 00:58:33-- ["Main"] "Daroou": fenetre modale
+08/17/2024 00:58:38-- ["Main"] "Dakunaito Ardens": tu ferme la fenetre et ca redeviens normal
+08/17/2024 00:58:53-- ["Main"] "Piemur De Pern":  oui mais sur le principe c'est bizarre
+08/17/2024 00:59:29-- ["Main"] "Mestoph": C'est toujours ainsi je regarderais si je peu faire quelques chose
+08/17/2024 01:00:28-- ["Main"] "Daroou": sinon je plante tjs au nexus apres 2 tours de ze (vovo+tb)
+08/17/2024 01:00:52-- ["Main"] "Teppei": question Mestoph  logique que quand je switch d un perso a un autre je puisse plus utiliser les fleche directionnel du clavier ? 
+08/17/2024 01:01:10-- ["Main"] "Oniky":  c'est un bug alt tab à priori Teppei
+08/17/2024 01:01:23-- ["Main"] "Oniky":  si tu re alt tab ça solutionne
+08/17/2024 01:01:35-- ["Main"] "Teppei": oki merci 
+08/17/2024 01:03:10-- ["Main"] "Mestoph": Je peu avoir un second joueur a lh pour un groupe svp
+08/17/2024 01:03:22-- ["Main"] "Arthurys Pendragon": jarrive
+08/17/2024 01:03:26-- ["Main"] "Mestoph": Merci
+08/17/2024 01:03:47-- ["Main"] "Arthurys Pendragon": le temps de la pierre et je susi la
+08/17/2024 01:04:02-- ["Main"] "Coeur de Dragon":  Coucou Neerya :)
+08/17/2024 01:04:07-- ["Main"] "Piemur De Pern":  Salut Coeur
+08/17/2024 01:04:14-- [Draconis Sanctum] Grâce à la témérité de 16 aventuriers, les monstres de la Caldeira battent en retraite. Le nexus d'accès à la Tour Blanche s'est activé.
+08/17/2024 01:04:14-- ["Main"] "Mestoph": Ok donc j'explique
+08/17/2024 01:04:28-- ["Main"] "Mestoph": J'ai une suggestion me demandant de pouvoir trier les joueur dans les groupes
+08/17/2024 01:04:42-- ["Main"] "Mestoph": Les fenêtres reste soudée les une aux autres, 
+08/17/2024 01:04:56-- ["Main"] "Mestoph": Si je rends toutes les petites fenêtres mouvables c'est mieux ?
+08/17/2024 01:05:07-- ["Main"] "Elva": grave
+08/17/2024 01:05:10-- ["Main"] "Mestoph": cucou
+08/17/2024 01:05:14-- ["Main"] "Dakunaito Ardens": celle sur le coté?
+08/17/2024 01:05:17-- ["Main"] "Mestoph": oui
+08/17/2024 01:05:29-- ["Main"] "Dakunaito Ardens": ca peut etre tres pratique oui
+08/17/2024 01:06:02-- ["Main"] "Elva": c'est giga top si t y arrives
+08/17/2024 01:06:09-- ["Main"] "Mestoph": J'y arriverais :p
+08/17/2024 01:06:16-- ["Main"] "Elva": alors c est gigatop xD
+08/17/2024 01:07:26-- ["Main"] "Mestoph": Merci pour l'aide :)
+08/17/2024 01:07:40-- ["Main"] "Mestoph": oui oui :)
+08/17/2024 01:08:50-- ["Main"] "Maxim": il y a un bug à voir si possible de corriger : si au moment où on se fait TP on parle sur un cc ou envoie un mp, prise rouge et crash client
+08/17/2024 01:09:30-- ["Main"] "Maxim": TP (entrée instance, entrée dans une grotte, prise d'un portail...)
+08/17/2024 01:10:19-- ["Main"] "Arthurys Pendragon": ah oui j'ai le meme que max
+08/17/2024 01:10:59-- ["Main"] "Dakunaito Ardens": il faut delete la totalité des persos, recreer un compte
+08/17/2024 01:11:04-- ["Main"] "Dakunaito Ardens": normalement ca repare :p
+08/17/2024 01:11:11-- ["Main"] "Arthurys Pendragon": fait le dabord
+08/17/2024 01:11:17-- ["Main"] "Arthurys Pendragon": et dit moi si ca marche
+08/17/2024 01:11:23-- ["Main"] "Dakunaito Ardens": deja fais 4 fois ... a ton avis pourquoi je suis aussi noob?
+08/17/2024 01:11:28-- ["Main"] "Arthurys Pendragon": :)
+08/17/2024 01:11:49-- ["Main"] "Arthurys Pendragon": je  pensais que cetait a cause de ton icc
+08/17/2024 01:11:52-- ["Main"] "Arthurys Pendragon": :p
+08/17/2024 01:12:06-- ["Main"] "Dakunaito Ardens": Indice Corporel Caractérisé?
+08/17/2024 01:24:04-- ["Main"] "Teppei": c 'est pas possible j ai ma ca , qui est passe a 150 au lieu de 325
+08/17/2024 01:24:17-- ["Main"] "Dakunaito Ardens": ca le fait qu'a toi lol
+08/17/2024 01:24:22-- ["Main"] "Dakunaito Ardens": tu dois oublier un truc lol
+08/17/2024 01:25:53-- ["Main"] "Teppei": pas logique  j ai tout active
+08/17/2024 01:26:00-- ["Main"] "Piemur De Pern":  tu as pas un debuff?
+08/17/2024 01:26:03-- ["Main"] "Dakunaito Ardens": meme item genre les gemme pour armure? 
+08/17/2024 01:26:10-- ["Main"] "Maxim": il est pretre
+08/17/2024 01:26:15-- ["Main"] "Ani Oh": il a surtout oublié comment il arrive à 325 c triste
+08/17/2024 01:26:25-- ["Main"] "Teppei": oui c'est aussi active
+08/17/2024 01:26:42-- ["Main"] "Dakunaito Ardens": tu utilise bien forteresse apres tranquilité?
+08/17/2024 01:26:50-- ["Main"] "Teppei": oui
+08/17/2024 01:26:54-- ["Main"] "Ani Oh": rien qu'avec la resistance du golem tu devrais etre à + de 150
+08/17/2024 01:26:58-- ["Main"] "Elva": la fenetre de stats ne s update pas en temps reel, faut la fermer/rouvrir pour qu elle soit a jour (ptet ca le prob ?)
+08/17/2024 01:29:04-- ["Main"] "Ani Oh": problème réglé j'imagine ?
+08/17/2024 01:30:46-- ["Main"] "Elva": on saura jamais :(
+08/17/2024 01:30:59-- {Lens Boose}":" [ salut ]
+08/17/2024 01:31:03-- {Volders}":" [ hey ]
+08/17/2024 01:31:12-- {Volders}":" [ merci ]
+08/17/2024 01:31:42-- Dakunaito Ardens vient de débarquer au campement spellshorien, sur le Draconis Sanctum !
+08/17/2024 01:31:47-- ["Main"] "Hespéris": gg
+08/17/2024 01:31:51-- ["Main"] "Izanagi Main Noire":  noob
+08/17/2024 01:31:52-- ["Main"] "Guille": gégé
+08/17/2024 01:31:53-- ["Main"] "Elva": Solide !
+08/17/2024 01:31:56-- ["Main"] "Ani Oh": pas grave il reposera la question dans une semaine 
+08/17/2024 01:31:57-- ["Main"] "Dakunaito Ardens": Merci
+08/17/2024 01:31:59-- ["Main"] "Ani Oh": et gg
+08/17/2024 01:32:03-- ["Main"] "Mandorall": gg :)
+08/17/2024 01:36:21-- [Instance de Raven's Dust Normale] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (Neytiri Taulern et Prométhée Taulern) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/17/2024 01:42:09-- [Instance de Raven's Dust Normale] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (Neytiri Taulern et Prométhée Taulern) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/17/2024 01:47:44-- [Draconis Sanctum] Grâce à la témérité de 23 aventuriers, les monstres de la Caldeira battent en retraite. Le nexus d'accès à la Tour Blanche s'est activé.
+08/17/2024 01:48:05-- [Instance de Raven's Dust Normale] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (Prométhée Taulern et Neytiri Taulern) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/17/2024 01:50:48-- ["Main"] "Pesty": Hey Yo les Dude's ! =)
+08/17/2024 01:50:54-- ["Main"] "Piemur De Pern":  Salut
+08/17/2024 01:50:58-- ["Main"] "Theoden": yop
+08/17/2024 01:51:18-- ["Main"] "Warrang": bonjour a tous :) qui pour sh nm ? j'ai jamais fais et je sais pas ou c'est, je suis pretre 54
+08/17/2024 01:51:38-- ["Main"] "Theoden": c'est juste a droite de la RST SH
+08/17/2024 01:51:45-- ["Main"] "Ken Eres": c'est a partir du lvl 55 déjà ;)
+08/17/2024 01:51:57-- ["Main"] "Warrang": j'y suis 55 dans 5 min :p
+08/17/2024 01:53:15-- ["Main"] "Skapogo": acheter
+08/17/2024 01:53:52-- [Instance de Raven's Dust Normale] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (Prométhée Taulern et Neytiri Taulern) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/17/2024 01:54:16-- ["Main"] "Warrang": voila 55 qui pour sh nm ?
+08/17/2024 01:57:01-- ["Main"] "Theoden": l'aura de guerison amelioree est bien suposee ne marcher que en isntance ? 
+08/17/2024 01:58:49-- ["Main"] "Theoden": elle a fonctionné 1 fois en isntance RD et depuis..
+08/17/2024 01:59:20-- ["Main"] "Piemur De Pern":  tu as esayé virer macro et remettre?
+08/17/2024 01:59:28-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/17/2024 01:59:31-- ["Main"] "Theoden": non tu pense que ca peut etre cA? jamais eu ce probleme de macro
+08/17/2024 01:59:44-- Le saviez-vous ? <> Pour créer une nouvelle {guilde}, {trois joueurs} doivent se rassembler et posséder des personnnages de {niveau 25 ou plus}, puis contacter un animateur pour la former.
+08/17/2024 01:59:44-- ["Main"] "Theoden": je vais essayer on verra prochaine isntance
+08/17/2024 02:04:10-- [Instance de Raven's Dust Normale] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (Jehnik, Neytiri Taulern et Prométhée Taulern) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/17/2024 02:10:40-- [Instance de Raven's Dust Normale] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (Prométhée Taulern, Jehnik et Neytiri Taulern) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/17/2024 02:20:20-- [Instance de Raven's Dust Normale] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (Neytiri Taulern, Prométhée Taulern et Jehnik) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/17/2024 02:20:21-- ["Main"] "Zolthan du Lac": bonjour Neerya
+08/17/2024 13:15:34-- Your connection with the server has been lost.
+08/17/2024 13:15:37-- Your connection with the server has been lost.

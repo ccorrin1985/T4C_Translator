@@ -1,0 +1,1261 @@
+08/12/2024 12:07:27-- Bienvenue sur T4C Neerya !
+08/12/2024 12:07:34-- ["Main"] "Erithaën": comment ca se fait que de temps en temps, on recoit un lot de larmes de dragons?
+08/12/2024 12:08:26-- ["Main"] "Ward Wrym": parce que tu dois etre près d'Apis quand un groupe la tue
+08/12/2024 12:09:11-- ["Main"] "Erithaën": totalement de l'autre coté lol
+08/12/2024 12:09:22-- ["Main"] "Erithaën": Mais j'imagine que ca marche avec n'importe quel mini?
+08/12/2024 12:09:33-- ["Main"] "Adrielle": oui
+08/12/2024 12:09:43-- ["Main"] "Erithaën": Oki :) voici pourquoi :)
+08/12/2024 12:09:48-- ["Main"] "Erithaën": merci pour l'info :)
+08/12/2024 12:14:03-- ["Main"] "Krazor": SS 22h15, Heal Ok, 2 last place DPS 175+
+08/12/2024 12:14:40-- ["Main"] "Krazor": Full, merci
+08/12/2024 12:15:08-- ["Main"] "Valhalla": Sa full rapide 
+08/12/2024 12:15:26-- ["Main"] "Valhalla": Quelqu'un aurais une place pour un noob SS svp
+08/12/2024 12:18:44-- ["Main"] "Valhalla": RD HM des motivés
+08/12/2024 12:19:13-- ["Main"] "Valhalla": SS des motivés ?
+08/12/2024 12:19:20-- ["Main"] "Shey Andara": up ss/sh hm
+08/12/2024 12:19:37-- ["Main"] "Anoukie": up RD HM
+08/12/2024 12:20:01-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Abalister et Twinny) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/12/2024 12:20:22-- ["Main"] "Valhalla": RD HM 3/8
+08/12/2024 12:21:46-- ["Main"] "Valhalla": RD HM 4/8
+08/12/2024 12:22:57-- ["Main"] "Valhalla": RH HM 5/8 
+08/12/2024 12:23:09-- ["Main"] "Easy": 6!
+08/12/2024 12:23:13-- ["Vente"] "Elviradora": Personne vend Arc mystique des terres boréales???
+08/12/2024 12:23:35-- ["Main"] "Piemur De Pern":  7
+08/12/2024 12:24:38-- ["Main"] "Valhalla": rd hm 7/8 on a besoin de un Heal
+08/12/2024 12:25:00-- ["Main"] "Piemur De Pern":  un bon parece que je suis dans le groupe svp
+08/12/2024 12:25:39-- ["Main"] "Elsi": j'ai plutot envie de dire un qui me laissera pas mourire ^^
+08/12/2024 12:25:53-- ["Main"] "Piemur De Pern":  et un avec une pelle pour déterrer Elsi
+08/12/2024 12:26:08-- ["Main"] "Elsi": aussi ^^
+08/12/2024 12:27:03-- You receive 100 gold pieces.
+08/12/2024 12:27:05-- You receive 1000 gold pieces.
+08/12/2024 12:27:06-- ["Main"] "Valhalla": RD HM 7/8 NEED HEAL
+08/12/2024 12:27:09-- You receive 1000 gold pieces.
+08/12/2024 12:27:13-- You receive 1000 gold pieces.
+08/12/2024 12:27:15-- You receive 1000 gold pieces.
+08/12/2024 12:27:17-- You receive 1000 gold pieces.
+08/12/2024 12:27:21-- You receive 1000 gold pieces.
+08/12/2024 12:27:27-- You receive 1000 gold pieces.
+08/12/2024 12:27:28-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Twinny et Abalister) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/12/2024 12:27:45-- You cannot carry any more weight.
+08/12/2024 12:27:55-- You cannot carry any more weight.
+08/12/2024 12:28:14-- You are too far away to use this item.
+08/12/2024 12:28:26-- This object cannot be dropped.
+08/12/2024 12:28:27-- This object cannot be dropped.
+08/12/2024 12:28:28-- This object cannot be dropped.
+08/12/2024 12:28:43-- You said: [ :) ]
+08/12/2024 12:28:57-- You receive 1000 gold pieces.
+08/12/2024 12:30:07-- You cannot carry any more weight.
+08/12/2024 12:31:05-- You receive 1000 gold pieces.
+08/12/2024 12:31:07-- You receive 1000 gold pieces.
+08/12/2024 12:31:11-- You receive 1000 gold pieces.
+08/12/2024 12:31:22-- {Seleste}":" [ entrainer ]
+08/12/2024 12:31:25-- {Seleste}":" entrainer
+08/12/2024 12:31:26-- You cannot carry any more weight.
+08/12/2024 12:31:28-- {Seleste}":" entrainer
+08/12/2024 12:32:03-- ["Main"] "Valhalla": RD HM 7/8 on aurais besoin de heal svp
+08/12/2024 12:32:12-- Tapez "DPS" pour initialiser une session d'entraînement.
+08/12/2024 12:32:13-- {Jagar Kar}":" Welcome! Guards pushing you around? Why not "learn" some new skills to even up the odds?
+08/12/2024 12:32:15-- {Jagar Kar}":" Let's begin the lesson.
+08/12/2024 12:32:17-- You are too far !
+08/12/2024 12:32:21-- {Ortanalas}":" What can I do for you?
+08/12/2024 12:32:23-- You said: train
+08/12/2024 12:32:23-- {Ortanalas}":" Very good, then let's begin your training.
+08/12/2024 12:32:40-- ["Main"] "Fratak": je suis pas assé puissant en magie blanche :(
+08/12/2024 12:33:38-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 12:34:35-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 12:34:41-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>{Nounours} entre dans le classement à la {17e position} avec un score de {1}. Plus d'info sur le site Neerya.
+08/12/2024 12:35:04-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Twinny et Abalister) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/12/2024 12:35:32-- ["Main"] "Valhalla": RD HM 7/8 on aurais besoin de heal svp
+08/12/2024 12:38:05-- ["Main"] "Valhalla": RD HM 6/8 aller on prend tout le monde
+08/12/2024 12:39:13-- ["Main"] "Calybre": bonsoir tout le monde 
+08/12/2024 12:39:28-- ["Main"] "Akira": excusez moi dans la quête d'acces zo neutre je dois trouver les traduction dans la biblio de waterfall mais je n'arrive pas à acceder au derniere etages quelqu'un saurais m'aider svp ;)?
+08/12/2024 12:39:40-- ["Main"] "Shey Andara": cave
+08/12/2024 12:39:43-- ["Main"] "Shey Andara": dessend l'escalier
+08/12/2024 12:39:44-- ["Main"] "Abalister":  akira pas de 3 eetage
+08/12/2024 12:39:59-- ["Main"] "Akira": ok au sous sol alors :) merci
+08/12/2024 12:40:11-- ["Main"] "Ani Toutcourt": up rd hm
+08/12/2024 12:40:39-- ["Main"] "Valhalla": Nous reste 1 petite place RDHM
+08/12/2024 12:41:01-- ["Main"] "Fratak": RDHM qui d'autre? ma magie est maintenant asser puissante pour guerir le groupe entier héhéhéhé
+08/12/2024 12:41:33-- {Meirrion}":" train
+08/12/2024 12:42:21-- ["Main"] "Akira": algar
+08/12/2024 12:42:23-- ["Main"] "Akira": sw
+08/12/2024 12:42:34-- ["Main"] "Valhalla": RD HM 7/8
+08/12/2024 12:44:17-- ["Main"] "Valhalla": RD HM 7/8
+08/12/2024 12:45:58-- ["Main"] "Elviradora": Moyen d avoir un portail Z2?
+08/12/2024 12:46:36-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Poudre descampette, Abalister et Crycry) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/12/2024 12:46:39-- {Akira}":" vendre
+08/12/2024 12:47:32-- ["Main"] "Valhalla": RD HM 7/8 sur place vite
+08/12/2024 12:48:07-- ["Main"] "Anoukie": on a un heal et un assistant heal au cas ou mais normaement pas besoin
+08/12/2024 12:48:07-- {Akira}":" vendre
+08/12/2024 12:48:17-- ["Main"] "Fratak": ne manque pas cet offre exclusive de juteux bon rdhm
+08/12/2024 12:49:01-- ["Main"] "Dakunaito Ardens": Ca donnerais presque envie ... PRESQUE ! :p
+08/12/2024 12:49:25-- ["Main"] "Anoukie": du double credit RD HM :)
+08/12/2024 12:49:35-- {Seleste}":" acheter
+08/12/2024 12:49:37-- ["Main"] "Anoukie": et oui il y a le bonus :)
+08/12/2024 12:49:41-- {Seleste}":" vendre
+08/12/2024 12:49:50-- {Seleste}":" acheter
+08/12/2024 12:50:26-- ["Main"] "Giz Bow": Cac ou archer dispo boss 22h ^?
+08/12/2024 12:51:24-- [Instance de Raven's Dust Héroïque] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (parmi lesquels Anoukie, Elsi et Fratak) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/12/2024 12:52:15-- {Celestine}":" Mci
+08/12/2024 12:52:29-- {Celestine}":" :)
+08/12/2024 12:53:24-- ["Main"] "Giz Bow": jsute au pied :P
+08/12/2024 12:53:28-- ["Main"] "Giz Bow": mt
+08/12/2024 12:53:55-- [Instance d'Arakas Normale] Appelé en renfort par la cité de Lighthaven, un groupe d'aventuriers (Abalister, Crycry et Poudre descampette) explore la forêt de Mato pour en déloger Jarko, le nécromancien.
+08/12/2024 12:53:56-- ["Main"] "Richard Coeur de Lion": .g au pied de qui de lillu
+08/12/2024 12:53:58-- ["Main"] "Calybre": personne xp aux dragonnets ils sont malade ? 
+08/12/2024 12:54:01-- ["Main"] "Vénérothe": Le golem D'adamantie il est fort au chateau de ban ?
+08/12/2024 12:54:05-- ["Main"] "Calybre": sw
+08/12/2024 12:54:20-- ["Main"] "Dakunaito Ardens": non assez simple a tuer
+08/12/2024 12:55:23-- ["Main"] "Piemur De Pern":  Ne jamais croire un Ardens
+08/12/2024 12:56:00-- ["Main"] "Calybre": sur un ancien serveur j'avais une copine fleches ardens elle s'appellé
+08/12/2024 12:56:27-- {Celestine}":" DEVENIR Célestine
+08/12/2024 12:56:31-- ["Main"] "Calybre": c'etait genre il y a 15 ans lol 
+08/12/2024 12:56:52-- {Celestine}":" adieu
+08/12/2024 12:57:17-- ["Main"] "Vénérothe": Il ressemble comment Delwobble au chaeau de ban ?
+08/12/2024 12:57:45-- ["Main"] "Celestine": mage rodeur
+08/12/2024 12:57:48-- ["Main"] "Anorfirithien": à un mage errant comme tu en as près d ela ville 
+08/12/2024 12:58:30-- ["Vente"] "Gahz Hole": achete serment!
+08/12/2024 12:59:20-- {Seleste}":" acheter
+08/12/2024 12:59:28-- {Seleste}":" Merci !
+08/12/2024 13:00:28-- {Seleste}":" [ Pourquoi tant dhommes dévévus ? ]
+08/12/2024 13:00:34-- {Seleste}":" [ Ecoeurant ! ]
+08/12/2024 13:01:41-- ["Main"] "Vénérothe": Ca fais 5 foid sue je fais le tour dans ce chateau je voie juste un PNJ Shadeen la dague
+08/12/2024 13:01:57-- ["Main"] "Celestine": il est dans le long tunnel juste avant shadeen habituellement
+08/12/2024 13:02:12-- ["Main"] "Anorfirithien": tu as du le tuer en passant
+08/12/2024 13:02:14-- ["Main"] "Celestine": ou sinon juste a coté
+08/12/2024 13:02:50-- ["Main"] "Poudre descampette": bonne nuit a tous et toutes
+08/12/2024 13:03:01-- ["Main"] "Vénérothe": bn a toi
+08/12/2024 13:03:07-- ["Main"] "Calybre": bonne nuit toi meme !
+08/12/2024 13:03:08-- ["Main"] "Anorfirithien": tu t'en vas poudre d'escampette?
+08/12/2024 13:06:22-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>{Efendil} entre dans le classement à la {17e position} avec un score de {1}. Plus d'info sur le site Neerya.
+08/12/2024 13:06:26-- You cannot carry any more weight.
+08/12/2024 13:06:28-- You cannot carry any more weight.
+08/12/2024 13:06:30-- You cannot carry any more weight.
+08/12/2024 13:06:41-- ["Main"] "Nougat":  GG Efendil !! 
+08/12/2024 13:06:44-- {Warrang}":" [ Merci :)  ]
+08/12/2024 13:06:48-- {Jed petit pretre}":" [ 00dr ]
+08/12/2024 13:06:52-- {Jed petit pretre}":" [ dr ]
+08/12/2024 13:06:56-- ["Main"] "Requieem": Quel homme
+08/12/2024 13:07:03-- You said: [ merci ]
+08/12/2024 13:07:09-- You receive 10000 gold pieces.
+08/12/2024 13:07:15-- You receive 10000 gold pieces.
+08/12/2024 13:07:17-- {Warrang}":" acheter
+08/12/2024 13:07:21-- You receive 10000 gold pieces.
+08/12/2024 13:07:23-- You receive 10000 gold pieces.
+08/12/2024 13:07:27-- You receive 10000 gold pieces.
+08/12/2024 13:07:32-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:08:44-- ["Main"] "Vénérothe": Bon je les kill
+08/12/2024 13:09:02-- ["Vente"] "Petrolia": Je vends juste des packs de 2000 bandelettes a la fois... Quand tu seras serieux, viens me voir
+08/12/2024 13:09:12-- ["Vente"] "Kamoulox Caesar": jachete aussi
+08/12/2024 13:09:28-- ["Vente"] "Shey Andara":  vend 3000 bandelettes de momie (c'est pas une competition)
+08/12/2024 13:09:37-- ["Vente"] "Kamoulox Caesar": jachete aussi
+08/12/2024 13:10:03-- ["Vente"] "Dakunaito Ardens": Vends bandelette x1.
+08/12/2024 13:10:14-- ["Vente"] "Kamoulox Caesar": jachete pas que une
+08/12/2024 13:10:19-- ["Main"] "Shey Andara": tu compte t'enrubanner ?
+08/12/2024 13:10:23-- ["Main"] "Dakunaito Ardens": oui
+08/12/2024 13:10:32-- ["Main"] "Dakunaito Ardens": il veux etre la premiere momie Neeryenne
+08/12/2024 13:10:32-- ["Vente"] "Anorfirithien": j'en propose 5 :D
+08/12/2024 13:10:54-- ["Vente"] "Kamoulox Caesar": ca devient plus serieux
+08/12/2024 13:11:39-- ["Vente"] "Maxim": vend Kamoulox, achat possible en 1 seule piece ou par morceaux
+08/12/2024 13:11:51-- ["Vente"] "Kamoulox Caesar": suis pas a  vendre
+08/12/2024 13:12:07-- ["Vente"] "Maxim": chut salade
+08/12/2024 13:14:20-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:14:24-- "Darth Nihilus" vient d'accoster au port de "Spellshore" !
+08/12/2024 13:14:38-- ["Main"] "Valhalla": GG
+08/12/2024 13:14:49-- ["Main"] "Anoukie": RD HM des places se liberent
+08/12/2024 13:14:58-- ["Main"] "Anoukie": heal ok
+08/12/2024 13:15:54-- ["Main"] "Valhalla": RD HM 6/8 Sur place
+08/12/2024 13:17:37-- ["Main"] "Piemur De Pern":  Nous recherchons du monde pour RD hm :)
+08/12/2024 13:17:51-- ["Main"] "Piemur De Pern":  1 ou deux personnes on a le heal
+08/12/2024 13:18:01-- ["Main"] "Kamoulox Caesar": .le ss a avalée toutes ces clé
+08/12/2024 13:18:02-- ["Main"] "Seleste": Il faut être lvl cb min ?
+08/12/2024 13:18:15-- ["Main"] "Dakunaito Ardens": aller je viens :)
+08/12/2024 13:18:48-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:18:54-- ["Main"] "Valhalla": Rd Hm 7/8 sur place pret a partir Heal ok 
+08/12/2024 13:21:43-- ["Main"] "Rivka": Bonsoir les gens :)
+08/12/2024 13:22:33-- ["Main"] "Valhalla": Reste 1 place RD HM
+08/12/2024 13:24:54-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:25:37-- {Seleste}":" vendre
+08/12/2024 13:25:41-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:25:52-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:25:55-- [Instance de Raven's Dust Héroïque] Enrolé par le capitaine Mathilde Orlys, un groupe de citoyens (parmi lesquels Dakunaito Ardens, Anoukie et Valhalla) part enquêter sur des activités suspectes au Val des Enchanteurs.
+08/12/2024 13:26:01-- {Seleste}":" [ Merci :) ]
+08/12/2024 13:26:11-- {Seleste}":" vendre
+08/12/2024 13:26:41-- {Seleste}":" acheter
+08/12/2024 13:27:09-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:27:48-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:27:59-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 13:27:59-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 13:28:00-- ["Main"] "Vénérothe": Désoler encore vous assez ou se trouve Dwarthon Lilhin Bane, je vient juste de tuée Delwobble l'invocateur fou
+08/12/2024 13:28:14-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:28:35-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/12/2024 13:28:46-- {Kilhiam}":" Greetings, my "name" is Kilhiam.
+08/12/2024 13:28:48-- {Kilhiam}":" People are nice around here. If you need to know someone's "name", just ask them. It's the same for their "work" too. Most of them will tell you without any complaints.
+08/12/2024 13:28:53-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:28:59-- You cannot carry any more weight.
+08/12/2024 13:29:01-- You cannot carry any more weight.
+08/12/2024 13:29:01-- You cannot carry any more weight.
+08/12/2024 13:29:12-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:29:55-- ["Main"] "Vénérothe": dwarthon lihin
+08/12/2024 13:29:57-- {Warrang}":" acheter
+08/12/2024 13:30:26-- ["Main"] "Wilhjelm, le Maître de l'Esprit": "Freja" vient d'abaisser les défenses de l'entrée d'"Ebon" "Hold" !
+08/12/2024 13:30:31-- ["Main"] "Tekk": gg
+08/12/2024 13:30:34-- ["Main"] "Darth Nihilus": gg
+08/12/2024 13:36:03-- {Warrang}":" merci :)
+08/12/2024 13:36:45-- {Warrang}":" acceder
+08/12/2024 13:37:20-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>{Efendil} entre dans le classement à la {17e position} avec un score de {54}. Plus d'info sur le site Neerya.
+08/12/2024 13:38:01-- You cannot carry any more weight.
+08/12/2024 13:38:02-- You cannot carry any more weight.
+08/12/2024 13:38:19-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:38:36-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:38:42-- You are too far !
+08/12/2024 13:38:45-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 13:38:45-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 13:40:31-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 13:40:31-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 13:40:38-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 13:40:38-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 13:40:53-- {Warrang}":" acceder
+08/12/2024 13:40:55-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:42:00-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 13:42:00-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 13:42:39-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:43:28-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/12/2024 13:43:39-- {Warrang}":" parchemin magique vierge
+08/12/2024 13:43:39-- {Araknor}":" Vous voulez que je vous confectionne un parchemin magique vierge?
+08/12/2024 13:43:42-- {Warrang}":" oui
+08/12/2024 13:43:42-- {Araknor}":" Hum. Vous avez tout ce qu'il faut. Mettons-nous à l'ouvrage... voilà, c'est prêt. Voici votre parchemin magique vierge.
+08/12/2024 13:45:29-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:45:52-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 13:45:52-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 13:46:23-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 13:46:44-- [Invasions] Votre inscription à une faction a déjà été effectuée. N'oubliez pas de vous rendre à votre repaire prendre vos quêtes journalières et dépenser vos bons de ravitaillement. Pensez également à activer votre pierre de lien.
+08/12/2024 13:46:44-- {Un crieur de rue}":" Bonsoir, Bacarat ! Quelles sont les dernières nouvelles de la cité des cieux de l'archange Sabathiel ?
+08/12/2024 13:49:09-- {Belinia}":" acheter
+08/12/2024 13:49:19-- [Invasions] Votre inscription à une faction a déjà été effectuée. N'oubliez pas de vous rendre à votre repaire prendre vos quêtes journalières et dépenser vos bons de ravitaillement. Pensez également à activer votre pierre de lien.
+08/12/2024 13:49:19-- {Un crieur de rue}":" Bonsoir, Bacarat ! Quelles sont les dernières nouvelles de la cité des cieux de l'archange Sabathiel ?
+08/12/2024 13:49:25-- [Invasions] Votre inscription à une faction a déjà été effectuée. N'oubliez pas de vous rendre à votre repaire prendre vos quêtes journalières et dépenser vos bons de ravitaillement. Pensez également à activer votre pierre de lien.
+08/12/2024 13:49:25-- {Un crieur de rue}":" Bonsoir, Bacarat ! Quelles sont les dernières nouvelles de la cité des cieux de l'archange Sabathiel ?
+08/12/2024 13:49:45-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:50:00-- {Belinia}":" DPS
+08/12/2024 13:51:01-- ["Main"] "Shey Andara": Svp comment on peu voir le bilan de ses cachets de confiance ?
+08/12/2024 13:51:33-- ["Main"] "Seleste": J'ai vu un gars proche de l'asile, il les avait pas pris
+08/12/2024 13:52:54-- ["Main"] "Nstor": xpstat
+08/12/2024 13:53:58-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 13:54:03-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 13:54:03-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 13:54:32-- ["Main"] "Bacarat":  Merci
+08/12/2024 14:02:13-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/12/2024 14:02:36-- ["Main"] "Bacarat": merci CC
+08/12/2024 14:03:05-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 14:03:19-- Le saviez-vous ? <> Le forum {Grande Bibliothèque de Waterfalls} regroupe des textes officiels de Neerya relatifs au jeu de rôle. Ils contiennent de nombreuses informations utiles !
+08/12/2024 14:03:24-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 14:03:24-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 14:03:31-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 14:03:39-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 14:03:46-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 14:04:05-- ["Main"] "Seleste": J'ai tué près de 10 apprentis, aucun manuel :'(
+08/12/2024 14:04:21-- ["Main"] "Mercenaire": 5 pzsos !
+08/12/2024 14:05:20-- ["Main"] "Celestine": il le drop direct dans l'inventaire
+08/12/2024 14:09:03-- ["Main"] "Spont": les clés SS faut soudoyer qui ? c'est rupture de stock la
+08/12/2024 14:09:20-- ["Main"] "Richard Coeur de Lion": vous aussi
+08/12/2024 14:09:50-- ["Main"] "Danerote":  scuse jai pas eu le temps de refaire le moule pour une forger d'ici septembre devrait etre ok
+08/12/2024 14:14:05-- {Seleste}":" épée de fureur
+08/12/2024 14:15:37-- ["Main"] "Latimer": bonne nuit à tous :)
+08/12/2024 14:15:41-- ["Main"] "Elsa Marie Henriette": Yohohoho
+08/12/2024 14:16:10-- ["Vente"] "Valhalla": J'achete Long des étoiles ( Aériens )
+08/12/2024 14:16:10-- ["Main"] "Elsa Marie Henriette": Up 253
+08/12/2024 14:16:15-- ["Main"] "Shey Andara":  gg
+08/12/2024 14:16:45-- ["Main"] "Danerote":  combien de temps ? +/- 4 mois d'xp?
+08/12/2024 14:17:06-- ["Main"] "Johnny Rock":  genre
+08/12/2024 14:17:12-- ["Main"] "Elsa Marie Henriette": Ah je sais pas, je me préparais pour dans 5 ans
+08/12/2024 14:17:17-- ["Main"] "Richard Coeur de Lion": fake
+08/12/2024 14:18:02-- ["Main"] "Valhalla": Johnny Rock en voyage ses toi sa ?
+08/12/2024 14:18:20-- ["Main"] "Johnny Rock":  en voyage .
+08/12/2024 14:18:22-- ["Main"] "Johnny Rock":  ?
+08/12/2024 14:18:29-- ["Main"] "Valhalla": Tu connais pas 
+08/12/2024 14:18:34-- ["Main"] "Valhalla": Regarde sur Tik Tok 
+08/12/2024 14:18:41-- ["Main"] "Johnny Rock":  je connais pas de Johnny Rock
+08/12/2024 14:18:54-- ["Main"] "Valhalla": Ses un gars si s'apelle Johnny rock
+08/12/2024 14:18:58-- ["Main"] "Johnny Rock":  johnny rock ? c'est qui ?
+08/12/2024 14:19:02-- ["Main"] "Elsa Marie Henriette": Johnny Rock avec le volume à fond
+08/12/2024 14:19:16-- ["Main"] "Elsa Marie Henriette": Johnny Rock fort -_-
+08/12/2024 14:19:23-- ["Main"] "Valhalla": Va voir Tik Tok Johnny Rock en Voyage tu verra
+08/12/2024 14:19:42-- ["Main"] "Vénérothe": Vous s'avez oû se trouve Mordrick Maensel pour la cléf royales ?
+08/12/2024 14:19:51-- {Seleste}":" épée de fureur
+08/12/2024 14:19:57-- {Seleste}":" non
+08/12/2024 14:20:01-- ["Main"] "Elsa Marie Henriette": Tik Tok?! Allo, tu es sur T4C là
+08/12/2024 14:20:05-- {Seleste}":" épée de fureur
+08/12/2024 14:20:07-- {Seleste}":" oui
+08/12/2024 14:20:18-- ["Main"] "Anoukie": oui c'est bon t'inquiete pas pour nous on a accès
+08/12/2024 14:20:26-- ["Main"] "Valhalla": Ses quoi le rapport elsa 
+08/12/2024 14:20:38-- ["Main"] "Valhalla": Pas parce que tu sur T4C  que plus rien existe autour
+08/12/2024 14:20:44-- ["Main"] "Celestine": Vénérothe, si tu tapes pnj dans la barre de recherche sur le wiki, tu as la liste des pnj avec leur location
+08/12/2024 14:20:46-- ["Main"] "Anoukie": ya que des boomer
+08/12/2024 14:21:01-- ["Main"] "Valhalla": Jai 34 ans et jai tik tok lol
+08/12/2024 14:21:05-- ["Main"] "Valhalla": Come on
+08/12/2024 14:21:12-- ["Main"] "Shey Andara": j'ai 31 et je suis sur tiktok a chaque passage au toilette XD
+08/12/2024 14:21:14-- ["Main"] "Anoukie": t'es jeune
+08/12/2024 14:21:18-- ["Main"] "Gandhy Mc Fly": bcp de Donk aussi mais sans le skill
+08/12/2024 14:21:25-- ["Main"] "Johnny Rock":  j'ai pas tik tok
+08/12/2024 14:21:26-- {Seleste}":" épée de fureur
+08/12/2024 14:21:28-- ["Main"] "Piemur De Pern": 39 et également Tiktok
+08/12/2024 14:21:28-- {Seleste}":" oui
+08/12/2024 14:21:36-- ["Main"] "Belia Darzu": TikTok cest dflma merde
+08/12/2024 14:21:47-- ["Main"] "Piemur De Pern": oui mais aux toilettes c'est bien
+08/12/2024 14:22:35-- ["Main"] "Belia Darzu": lit le journal de mickey tu perdras moins ton tps ;)
+08/12/2024 14:22:54-- {Seleste}":" Merci !
+08/12/2024 14:22:56-- ["Main"] "Piemur De Pern":  Je suis plus Picsou géant désolé
+08/12/2024 14:23:05-- {Seleste}":" épée de fureur
+08/12/2024 14:23:07-- {Seleste}":" oui
+08/12/2024 14:23:33-- ["Main"] "Johnny Rock": mon fils lit des piscou magazin quand on est chez la mamie, ils dadent de 1991 lol une playstation et une saturn a gagner mdr
+08/12/2024 14:24:23-- ["Main"] "Elsa Marie Henriette": Sur le minitel?
+08/12/2024 14:49:51-- Bienvenue sur T4C Neerya !
+08/12/2024 14:49:58-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 14:50:08-- ["Main"] "Ynem Wapasir": Sh Hm 3 derniers?
+08/12/2024 14:50:25-- ["Main"] "Elsa Marie Henriette": Allez ok
+08/12/2024 14:50:44-- ["Main"] "Ynem Wapasir": 2 derniers pour Sh Hm !! =)
+08/12/2024 14:50:59-- ["Main"] "Erithaën": Vas pour un tour ou 2 :)
+08/12/2024 14:51:34-- {Cyste}":" tache
+08/12/2024 14:51:36-- {Cyste}":" oui
+08/12/2024 14:51:46-- {Cyste}":" accent
+08/12/2024 14:51:50-- {Cyste}":" mot-clef
+08/12/2024 14:51:54-- {Cyste}":" tache
+08/12/2024 14:51:57-- {Cyste}":" adieu
+08/12/2024 14:52:06-- ["Main"] "Ynem Wapasir": Un dernier pour Sh Hm?
+08/12/2024 14:52:19-- {Cyste}":" [ *Souris* ]
+08/12/2024 14:52:36-- ["Main"] "Fratak": J'ai peur de mourir *tremble*
+08/12/2024 14:52:42-- ["Main"] "Ynem Wapasir": lvl Frat?
+08/12/2024 14:52:55-- ["Main"] "Fratak": 182
+08/12/2024 14:53:21-- ["Main"] "Ynem Wapasir": Dps?
+08/12/2024 14:53:33-- ["Main"] "Fratak": pretre
+08/12/2024 14:53:48-- ["Main"] "Ynem Wapasir": Cool, tu vas pas mourir ! =p Je t'invite?
+08/12/2024 14:54:10-- ["Main"] "Fratak": ok
+08/12/2024 14:54:27-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 14:57:11-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 14:57:35-- {Cyste}":" apprendre
+08/12/2024 14:57:37-- {Cyste}":" adieu
+08/12/2024 14:57:43-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/12/2024 14:57:46-- {Cyste}":" apprendre
+08/12/2024 14:57:46-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/12/2024 14:57:51-- {Cyste}":" oui
+08/12/2024 14:57:56-- {Cyste}":" adieu
+08/12/2024 14:57:56-- {Kilhiam}":" Adieu, mon ami.
+08/12/2024 14:58:03-- {Cyste}":" apprendre
+08/12/2024 14:58:44-- {Cyste}":" oui
+08/12/2024 14:58:52-- {Cyste}":" tache
+08/12/2024 14:58:59-- {Cyste}":" adieu
+08/12/2024 14:59:13-- {Cyste}":" lighthaven
+08/12/2024 14:59:17-- {Cyste}":" goldmoon
+08/12/2024 14:59:22-- {Cyste}":" visitait
+08/12/2024 14:59:31-- {Cyste}":" adieu
+08/12/2024 14:59:47-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 15:00:43-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 15:01:03-- [Instance de Stoneheim Héroïque] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Danerote, Betty et Fratak) entre dans La Folie du Traître !
+08/12/2024 15:02:25-- {Cyste}":" compter
+08/12/2024 15:02:29-- {Cyste}":" egout
+08/12/2024 15:02:46-- {Cyste}":" [ adieu ]
+08/12/2024 15:03:08-- {Cyste}":" apprendre
+08/12/2024 15:03:11-- {Cyste}":" adieu
+08/12/2024 15:04:51-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 15:08:17-- {Cyste}":" pret
+08/12/2024 15:08:20-- {Cyste}":" potions
+08/12/2024 15:08:25-- {Cyste}":" adieu
+08/12/2024 15:08:35-- {Cyste}":" vous
+08/12/2024 15:08:54-- {Cyste}":" [ adieu ]
+08/12/2024 15:14:01-- {Cyste}":" confie
+08/12/2024 15:14:09-- {Cyste}":" adieu
+08/12/2024 15:14:21-- {Cyste}":" [ Merci :) ]
+08/12/2024 15:14:32-- {Cyste}":" apprendre
+08/12/2024 15:14:37-- {Cyste}":" adieu
+08/12/2024 15:21:18-- ["Main"] "Betty": sh hm 6/8
+08/12/2024 15:21:27-- ["Main"] "Betty": 5/8
+08/12/2024 15:21:35-- ["Main"] "Giz Bow": up
+08/12/2024 15:21:42-- ["Main"] "Xytra": up avec Orphan
+08/12/2024 15:21:43-- ["Main"] "Betty": 6/8 :P
+08/12/2024 15:21:48-- ["Main"] "Betty": 7/8
+08/12/2024 15:21:54-- ["Main"] "El Brutos": up 1 tour
+08/12/2024 15:21:59-- ["Main"] "Betty": complet
+08/12/2024 15:22:05-- ["Main"] "El Brutos": gg
+08/12/2024 15:23:09-- ["Main"] "Theoden": Un gm de connecté svp ?
+08/12/2024 15:23:24-- L'accès aux ruines des {appartements roturiers d'Anwynn} est ouvert pendant vingt minutes.
+08/12/2024 15:25:12-- [Instance de Stoneheim Héroïque] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Imoën, Orphan et Giz Bow) entre dans La Folie du Traître !
+08/12/2024 15:26:45-- {Kimiko}":" acheter
+08/12/2024 15:33:58-- {Seleste}":" acheter
+08/12/2024 15:40:15-- {Cyste}":" deja
+08/12/2024 15:40:21-- {Cyste}":" karma
+08/12/2024 15:40:27-- {Cyste}":" lumineux
+08/12/2024 15:40:47-- {Cyste}":" adieu
+08/12/2024 15:42:44-- [Instance de Stoneheim Héroïque] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels El Brutos, Shey Andara et Ynem Wapasir) entre dans La Folie du Traître !
+08/12/2024 15:43:08-- ["Main"] "Wilhjelm, le Maître de l'Esprit": "Darth Nihilus" vient d'abaisser les défenses de l'entrée d'"Ebon" "Hold" !
+08/12/2024 15:43:14-- ["Main"] "Betty": Gg
+08/12/2024 15:43:16-- ["Main"] "Shey Andara":  gg
+08/12/2024 15:43:17-- ["Main"] "Shimio": gggg
+08/12/2024 15:43:21-- ["Main"] "Tekk": gg
+08/12/2024 15:43:47-- ["Main"] "Darth Nihilus": ty :)
+08/12/2024 15:43:51-- ["Main"] "Shimio": echange toge una tellurique(moi) contre toge una sanctifiee(vous)
+08/12/2024 15:46:08-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 15:46:19-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 15:46:22-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 15:46:22-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 15:46:34-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 15:46:52-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 15:47:12-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 15:47:18-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 15:57:51-- ["Main"] "Valhalla": Un place de dispo SS svp
+08/12/2024 15:58:18-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 15:58:28-- ["Vente"] "Valhalla": J'achete Long des étoiles ( Aériens )
+08/12/2024 15:58:53-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 16:00:12-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 16:00:37-- ["Main"] "Ynem Wapasir": Des gens pour BG?
+08/12/2024 16:00:47-- ["Main"] "Betty": go =p
+08/12/2024 16:03:08-- ["Main"] "Ynem Wapasir": Qui d'autres pour bg?
+08/12/2024 16:03:27-- Le saviez-vous ? <> Vous pouvez maintenant conserver un {karma neutre} afin d'accèder à Raven's Dust, à Stoneheim puis à l'Oracle ! La {déesse Neerya} vous accordera alors une partie de son pouvoir.
+08/12/2024 16:04:41-- ["Main"] "Marah":  Up pour GB (peut-être que j'ai mal lu)
+08/12/2024 16:05:05-- ["Main"] "Ynem Wapasir": Encore 4 pour GB
+08/12/2024 16:06:00-- ["Vente"] "Cleptho": Je cherche Lame Rognar mortes
+08/12/2024 16:06:13-- ["Main"] "Ynem Wapasir": Qui est dispo pour GB?
+08/12/2024 16:06:13-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 16:06:49-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 16:07:06-- ["Main"] "Xaern": dispo avec Xaen,(je la co quand on go)
+08/12/2024 16:07:33-- ["Main"] "Ynem Wapasir": Ok, quelle classe Xaen?
+08/12/2024 16:07:49-- ["Main"] "Xaern": tapeur 300 end
+08/12/2024 16:07:53-- ["Main"] "Ynem Wapasir": Ok
+08/12/2024 16:08:02-- ["Vente"] "Cleptho": Je cherche Lame Rognar mortes svp
+08/12/2024 16:08:17-- ["Main"] "Ynem Wapasir": D'autres intéressés Pour Gb?
+08/12/2024 16:10:46-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 16:11:22-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 16:11:29-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 16:11:35-- ["Main"] "Tekk": Bonne nuit à tous
+08/12/2024 16:12:11-- ["Main"] "Ynem Wapasir": Bonne nuit
+08/12/2024 16:17:23-- ["Main"] "Cleptho": Up Bg ou SS si un groupe
+08/12/2024 16:17:49-- ["Main"] "Ynem Wapasir": Dispo Bg.
+08/12/2024 16:19:16-- ["Vente"] "Valhalla": J'achete Long des étoiles ( Aériens )
+08/12/2024 16:22:13-- {Cyste}":" recherches
+08/12/2024 16:22:13-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 16:22:20-- {Cyste}":" anwynn
+08/12/2024 16:22:25-- {Cyste}":" fissure
+08/12/2024 16:22:29-- {Cyste}":" phylactere
+08/12/2024 16:22:39-- {Cyste}":" adieu
+08/12/2024 16:23:46-- ["Vente"] "Xaern": achète sceptre ancestral élémentaire
+08/12/2024 16:27:08-- {Cleptho}":" entrainer
+08/12/2024 16:27:40-- {Cleptho}":" vendre
+08/12/2024 16:36:58-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 16:37:58-- {Cyste}":" purifier
+08/12/2024 16:38:02-- {Cyste}":" equipe
+08/12/2024 16:38:06-- {Cyste}":" windhowl
+08/12/2024 16:38:20-- {Cyste}":" indiquer
+08/12/2024 16:38:22-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 16:38:35-- {Cyste}":" adieu
+08/12/2024 16:38:52-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 16:39:08-- {Papy Nyhouz}":" Non mais c'est du grand n'importe quoi ! *Brandit une pancarte* Pas content ! Pas content !
+08/12/2024 16:39:21-- {Cyste}":" acheter
+08/12/2024 16:39:35-- {Cyste}":" adieu
+08/12/2024 16:47:20-- ["Main"] "Darth Nihilus": 8 mins to fini
+08/12/2024 16:47:24-- ["Main"] "Darth Nihilus": sw
+08/12/2024 16:47:28-- {Cyste}":" apprednre
+08/12/2024 16:47:31-- {Cyste}":" apprendre
+08/12/2024 16:47:37-- {Cyste}":" adieu
+08/12/2024 16:49:38-- ["Vente"] "Valhalla": J'achete Long des étoiles ( Aériens )
+08/12/2024 16:49:53-- ["Main"] "Cleptho": Combien vaut le Omamori svp ?
+08/12/2024 16:50:14-- ["Main"] "Ynem Wapasir": 20-25m
+08/12/2024 16:50:49-- ["Main"] "Cleptho":  Ok merci
+08/12/2024 16:52:05-- ["Main"] "Freydis": est ce qu'un gros lvl voudrais faire quelques sh nm . je suis sure qu'on peut trouver des petites comme moi qui en serait ravie 
+08/12/2024 16:53:11-- ["Main"] "Freydis": J'aurai essayé :P
+08/12/2024 16:53:21-- ["Main"] "Piemur De Pern":  a cette heure là c'est compliqué
+08/12/2024 16:53:36-- ["Main"] "Valhalla": Tu est quel niv frey
+08/12/2024 16:53:41-- ["Main"] "Freydis": Je sais , mais qui n'essais rien n'aura rien !
+08/12/2024 16:53:50-- ["Main"] "Freydis": 59 
+08/12/2024 16:53:56-- ["Main"] "Valhalla": Quel class
+08/12/2024 16:54:04-- ["Main"] "Freydis": ca avance tranquillement en guerriere 
+08/12/2024 16:54:11-- ["Main"] "Vénérothe": Bonsoi les gens, je dit faire la 5eme clef royale doner une lettre mais a ( qui ) ?
+08/12/2024 16:54:57-- ["Main"] "Piemur De Pern":  Surement dans le désert à l'Oasis
+08/12/2024 16:55:52-- ["Main"] "Vénérothe": teleporter
+08/12/2024 17:02:13-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/12/2024 17:07:56-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:08:20-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:09:30-- ["Vente"] "Xaern": ça vaut combien par hasard une orbe de dégats ?
+08/12/2024 17:22:24-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:22:32-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 17:22:32-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 17:22:54-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:27:52-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:28:58-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:29:08-- {Maika Andara}":" entrainer
+08/12/2024 17:32:52-- ["Main"] "Executor": crane fissurer ces les fantaliste qui drope ??
+08/12/2024 17:33:03-- ["Main"] "Freydis": non
+08/12/2024 17:33:16-- ["Main"] "Executor": ces qui ?
+08/12/2024 17:33:26-- ["Main"] "Freydis": il y a 3 squellette sur RD, un au fatalist , un a l'oasis et un au druide
+08/12/2024 17:33:38-- ["Main"] "Freydis": il est plus grand avec une armure bleu
+08/12/2024 17:34:24-- ["Main"] "Freydis": Il est toujours a coter du slim verte qui elle donne un catalyseur
+08/12/2024 17:34:50-- ["Main"] "Executor": laraigner verte ?
+08/12/2024 17:35:10-- ["Main"] "Freydis": non c'est un grand squellette avec une armure bleu 
+08/12/2024 17:35:22-- ["Main"] "Freydis": l'araignee verte, passe le pont au nord de sa position
+08/12/2024 17:35:33-- ["Main"] "Executor": ah okay 
+08/12/2024 17:35:35-- ["Main"] "Freydis": continu 30 -40 pas plus loin et tu le veras
+08/12/2024 17:37:25-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:37:57-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:41:35-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:41:53-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:42:14-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:43:31-- ["Main"] "Executor": le squelette bleu a l'oasis drope le crane fissurer ?
+08/12/2024 17:44:06-- ["Main"] "Tanjeh Rhynn": Exec t'es où en ce moment
+08/12/2024 17:44:25-- ["Main"] "Freydis": oui il le drop 
+08/12/2024 17:44:40-- ["Main"] "Executor": oasis je vien de le tuer il a pas droper il réaparais apres cb de temps ?
+08/12/2024 17:44:43-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:44:51-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 17:49:35-- ["Main"] "Freydis": je sais pas 
+08/12/2024 17:50:02-- ["Main"] "Freydis": bonne nuit a tous !!
+08/12/2024 17:58:54-- ["Main"] "Legionn": hello there
+08/12/2024 17:59:18-- ["Main"] "Cyste": Hello
+08/12/2024 18:03:31-- Le saviez-vous ? <> Les appartements du Roi Noir, au deuxième étage de la Tour d'{Ebon Hold}, renferment des trésors et des monstres à découvrir !
+08/12/2024 18:07:43-- {Kilhiam}":" Oh!! You too bear the dreadful mark of Balork upon your brow! What a disaster! He brands so many adventurers, these days. What? A cure? I apologize, I am but a lowly head priestess here, I cannot remove it. You must seek help elsewhere.
+08/12/2024 18:07:46-- {Kilhiam}":" Farewell, my friend.
+08/12/2024 18:23:53-- {Alkor}":" %%?%$acheter
+08/12/2024 18:23:57-- {Alkor}":" acheter
+08/12/2024 18:25:23-- {Alkor}":" achwtwe
+08/12/2024 18:25:28-- {Alkor}":" acheter
+08/12/2024 18:25:44-- {Alkor}":" acheter
+08/12/2024 18:25:44-- ["Main"] "Exna": shimio ward wrim veux duel avec toi 
+08/12/2024 18:26:06-- ["Main"] "Exna": je lui est dit oui pous 100k 
+08/12/2024 18:26:14-- {Alkor}":" [ merci :) ]
+08/12/2024 18:26:19-- ["Main"] "Shimio": mdrrr
+08/12/2024 18:26:25-- {Alkor}":" [ vrls bs maider bcp ]
+08/12/2024 18:26:51-- ["Main"] "Kimiko": Tu cherches le trouble Exna..!
+08/12/2024 18:27:03-- ["Main"] "Exna": mdrrrrrrrrrr
+08/12/2024 18:27:07-- ["Main"] "Shimio": lolll
+08/12/2024 18:27:36-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/12/2024 18:27:41-- {Shimio}":" grimoire
+08/12/2024 18:27:41-- {Araknor}":" Vous avez le Grimoire de Jarko ? Super ! L'échangeriez-vous contre un objet particulier ?
+08/12/2024 18:27:43-- {Shimio}":" oui
+08/12/2024 18:27:43-- {Araknor}":" Vous ne le regretterez pas, mon jeune ami. En gage de ma reconnaissance, je vous donne la chance d'apprendre la nécromancie en devenant mon "apprenti". De plus, je vous donne ce petit anneau des ténèbres. Je n'en connais pas les vertus mais je peux sentir les vibrations magiques qu'il émet.
+08/12/2024 18:28:07-- ["Main"] "Exna": on peux raigler ca a la poutine
+08/12/2024 18:29:03-- ["Main"] "Ward Wrym": Doit même pas être bonne ta poutine..
+08/12/2024 18:29:13-- ["Main"] "Vénérothe": Ql1 aurais pas un os de squelette et une fiole de sang de gobelin ?
+08/12/2024 18:29:15-- ["Main"] "Shimio": exna mon gros noob  tu fais quoi la
+08/12/2024 18:29:20-- ["Main"] "Ward Wrym": ahahah
+08/12/2024 18:29:23-- ["Main"] "Exna": oui
+08/12/2024 18:29:30-- ["Main"] "Exna": rien
+08/12/2024 18:30:20-- ["Main"] "Exna": tu est ou venerothe
+08/12/2024 18:30:36-- ["Main"] "Vénérothe": Camp cobelin arakas
+08/12/2024 18:30:59-- ["Main"] "Shimio": pas le meilleur spot pour avoir des sang gob
+08/12/2024 18:31:21-- ["Main"] "Exna": cour pas shim
+08/12/2024 18:31:26-- ["Main"] "Exna": shimio
+08/12/2024 18:31:27-- ["Main"] "Ribambelle": encore moins des os de squelette :p
+08/12/2024 18:31:39-- ["Main"] "Exna": loll
+08/12/2024 18:32:32-- ["Main"] "Exna": on te vois pas
+08/12/2024 18:32:58-- ["Main"] "Exna": on est au camp gob
+08/12/2024 18:33:30-- {Asmodaï}":" apprendre
+08/12/2024 18:34:00-- {Asmodaï}":" [ Merci ! ]
+08/12/2024 18:34:03-- {Jed petit pretre}":" [ dr ]
+08/12/2024 18:34:14-- {Asmodaï}":" [ Tiens ]
+08/12/2024 18:34:38-- {Asmodaï}":" [ pour ceux qui onbt besoin ]
+08/12/2024 18:34:42-- {Asmodaï}":" [ ;) ]
+08/12/2024 18:34:43-- {Jed petit pretre}":" [ thx ]
+08/12/2024 18:35:02-- ["Main"] "Exna": de rien
+08/12/2024 18:35:07-- {Asmodaï}":" apprendre
+08/12/2024 18:51:02-- {Exna}":" [ vien ]
+08/12/2024 18:51:32-- {Exna}":" [ achete 700 theo ]
+08/12/2024 18:51:38-- {Exna}":" [ a lui ]
+08/12/2024 18:51:44-- {Vénérothe}":" acheter
+08/12/2024 18:51:48-- {Vénérothe}":" acceder
+08/12/2024 18:52:28-- {Exna}":" [ tu ha ]
+08/12/2024 18:53:42-- {Exna}":" [ tu as 700 theo ]
+08/12/2024 18:53:53-- {Vénérothe}":" 100
+08/12/2024 18:54:01-- {Exna}":" [ jent veux 700 ]
+08/12/2024 18:54:02-- {Vénérothe}":" acceder
+08/12/2024 18:54:43-- {Vénérothe}":" il me manque 400 000 piece dor
+08/12/2024 18:55:23-- {Exna}":" [ a terre ]
+08/12/2024 18:55:30-- {Vénérothe}":" acceder
+08/12/2024 18:55:43-- {Exna}":" [ <tu devais acheter le pacque de 700 ]
+08/12/2024 18:56:07-- {Vénérothe}":" c fais
+08/12/2024 18:56:11-- {Exna}":" [ vien ]
+08/12/2024 19:03:50-- ["Main"] "Alkor": )¸:)))))
+08/12/2024 19:04:02-- ["Main"] "Alkor": ))¨
+08/12/2024 19:04:18-- {Alkor}":" [ merci ]
+08/12/2024 19:09:59-- Système : le serveur s'arrêtera dans 20 minute(s) (message automatique).
+08/12/2024 19:14:59-- Système : le serveur s'arrêtera dans 15 minute(s) (message automatique).
+08/12/2024 19:19:59-- Système : le serveur s'arrêtera dans 10 minute(s) (message automatique).
+08/12/2024 19:21:48-- ["Main"] "Vénérothe": bonsoir
+08/12/2024 19:21:50-- ["Main"] "Sieverstein": yop
+08/12/2024 19:24:21-- ["Main"] "Vénérothe": ah je voie
+08/12/2024 19:24:23-- ["Main"] "Vénérothe": c bon
+08/12/2024 19:24:59-- Système : le serveur s'arrêtera dans 5 minute(s) (message automatique).
+08/12/2024 19:25:59-- Système : le serveur s'arrêtera dans 4 minute(s) (message automatique).
+08/12/2024 19:26:59-- Système : le serveur s'arrêtera dans 3 minute(s) (message automatique).
+08/12/2024 19:27:59-- Système : le serveur s'arrêtera dans 2 minute(s) (message automatique).
+08/12/2024 19:28:59-- Système : le serveur s'arrêtera dans 1 minute(s) (message automatique).
+08/12/2024 19:29:59-- Système : le serveur s'arrête MAINTENANT ! (message automatique)
+08/12/2024 19:39:12-- Bienvenue sur T4C Neerya !
+08/12/2024 19:40:30-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 19:40:34-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 19:40:34-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 19:40:41-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 19:59:34-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 19:59:54-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 20:00:16-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 20:12:13-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 20:12:21-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 20:12:21-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 20:22:00-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 20:22:07-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 20:22:07-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 20:23:02-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 20:23:06-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 20:23:06-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 20:28:20-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 20:28:28-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 20:28:28-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 20:53:43-- ["Main"] "Valhalla": Bonsoir tous
+08/12/2024 20:54:13-- ["Main"] "Valhalla": Oula ses mort
+08/12/2024 20:55:02-- ["Main"] "Exna": salut valhalla
+08/12/2024 20:56:50-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 20:56:56-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 20:56:58-- ["Vente"] "Valhalla": J'achete Long étoile ( Aériens ) 
+08/12/2024 20:57:53-- You are too far !
+08/12/2024 20:58:00-- You are too far !
+08/12/2024 20:58:06-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 20:58:06-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 20:58:20-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 20:58:20-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:00:00-- [BONUS] Les chances de drop des ingrédients de la zone 2 du Draconis Sanctum sont augmentées de 50%. Commence maintenant et s'arrêtera le 15/08/2024 à 06h00 (fr).
+08/12/2024 21:03:49-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:03:49-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:04:12-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:04:12-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:04:22-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:04:22-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:04:32-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:04:32-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:06:00-- ["Main"] "Maika Andara": Cb vaut un reskin bouclier svp ? si qqun a une idée
+08/12/2024 21:06:16-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:06:16-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:06:17-- ["Main"] "Valhalla": J'imagine environ 60-75m
+08/12/2024 21:06:22-- ["Main"] "Freja": D allez j'essaie de faire epreuve j'ai pas bcp de temps ce matin
+08/12/2024 21:06:33-- ["Main"] "Freja": sw
+08/12/2024 21:06:34-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:06:34-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:07:20-- ["Main"] "Valhalla": On xp ou de 140 a 150 le plus rapide selon vous en archer mage
+08/12/2024 21:07:49-- ["Main"] "Maika Andara": archer mage quoi
+08/12/2024 21:07:53-- ["Main"] "Valhalla": Air
+08/12/2024 21:09:01-- ["Main"] "Maika Andara": apparement
+08/12/2024 21:09:16-- ["Main"] "Maika Andara": kraanian des glaces, dragonnet mort vivant, serviteur des eaux et gargouille des vents
+08/12/2024 21:09:20-- ["Main"] "Maika Andara": test le plus rentable
+08/12/2024 21:09:51-- ["Main"] "Valhalla": Je suis au kraanian des glaces depuis le niveau 95 lol
+08/12/2024 21:09:58-- ["Main"] "Maika Andara": va a eh
+08/12/2024 21:10:00-- ["Main"] "Maika Andara": test les epreuve
+08/12/2024 21:10:01-- ["Main"] "Valhalla": Je tourne a 100m/h
+08/12/2024 21:10:14-- ["Main"] "Maika Andara": serviteur des eaux et gargouille
+08/12/2024 21:11:57-- ["Main"] "Maika Andara": serviteur des eaux si c les orcs jcrois jsuis plus sur
+08/12/2024 21:12:12-- ["Main"] "Maika Andara": tu te met sur la 3eme ligne tu tourne en rond et tu tue tout autour de toi
+08/12/2024 21:12:13-- ["Main"] "Valhalla": Oui je voie 
+08/12/2024 21:12:20-- ["Main"] "Maika Andara": jai xp la bas en archer mage moi jusque 150
+08/12/2024 21:12:37-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:12:38-- ["Main"] "Valhalla": Te souvient tu combien de m/h tu tournais
+08/12/2024 21:12:39-- ["Main"] "Maika Andara": mais archer mage feu et la ils disent c bien pour les 2 jamais test en air
+08/12/2024 21:12:48-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:12:48-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:12:52-- ["Main"] "Maika Andara": 150/160
+08/12/2024 21:13:01-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:13:01-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:13:03-- ["Main"] "Valhalla": Ok oui bien
+08/12/2024 21:13:20-- ["Main"] "Valhalla": Comme ses la je xp au sort puisque jai pas mon arc 
+08/12/2024 21:13:39-- ["Main"] "Maika Andara": jai xp au sort aussi meteorite
+08/12/2024 21:13:50-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:13:56-- ["Main"] "Valhalla": Ok ok
+08/12/2024 21:13:57-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:13:57-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:14:03-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:14:03-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:14:10-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:14:10-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:14:35-- ["Main"] "Maika Andara": je suis sur GH la en eau et je suis a 165/h
+08/12/2024 21:14:50-- ["Main"] "Valhalla": Tu tape qui 
+08/12/2024 21:15:00-- ["Main"] "Maika Andara": loup noir
+08/12/2024 21:15:06-- ["Main"] "Maika Andara": mais jai 200 CA
+08/12/2024 21:15:21-- ["Main"] "Valhalla": Haw oui ok voila
+08/12/2024 21:15:25-- ["Main"] "Valhalla": Jai que 132
+08/12/2024 21:15:37-- ["Main"] "Maika Andara": ta essayer shaman primitif ?
+08/12/2024 21:15:46-- ["Main"] "Maika Andara": avec resist glace
+08/12/2024 21:15:56-- ["Main"] "Maika Andara": et sort de zone air
+08/12/2024 21:15:59-- ["Main"] "Valhalla": Oui jai test mais jai l'impression qu'il pop pas assez
+08/12/2024 21:16:08-- ["Main"] "Maika Andara": je suis a 155 la bas
+08/12/2024 21:16:17-- ["Main"] "Maika Andara": faut tourner en rond 
+08/12/2024 21:16:23-- ["Main"] "Valhalla": Ok ok 
+08/12/2024 21:16:28-- ["Main"] "Valhalla": Je les tue en 1 shot 
+08/12/2024 21:16:38-- ["Main"] "Maika Andara": en sort de zone ?
+08/12/2024 21:16:43-- ["Main"] "Valhalla": oui
+08/12/2024 21:16:50-- ["Main"] "Maika Andara": alors tarrives a etre au max de la zone
+08/12/2024 21:17:08-- ["Main"] "Maika Andara": ou ta pas le bon spot ou tu tourne pas bien ou je c pas :p
+08/12/2024 21:17:14-- ["Main"] "Valhalla":  Ok je vais retourner test voir
+08/12/2024 21:17:25-- ["Main"] "Maika Andara": c pas le 1er petit spot c a coter
+08/12/2024 21:17:47-- ["Main"] "Valhalla":  Oui ses le spot ou il y plussieurs arbre 
+08/12/2024 21:18:03-- {Isulgur}":" Greetings, my "name" is Isulgur. Please be brief, I am rather busy what with the guards roaming around and the brigands.
+08/12/2024 21:18:04-- ["Main"] "Maika Andara": ouai genre au milieu en bas
+08/12/2024 21:18:09-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:18:09-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:18:14-- ["Main"] "Maika Andara": ben tu fais un cercle den haut a en bas en passant devant les arbres
+08/12/2024 21:18:17-- ["Main"] "Valhalla":  Ok je retourner test 
+08/12/2024 21:18:34-- You are too far !
+08/12/2024 21:18:37-- Moyennant une somme, ce PNJ permettra de changer votre nom automatiquement.
+08/12/2024 21:18:37-- {Une scribe}":" Bonjour aventurier, êtes-vous là afin de modifier votre "état civil" ?
+08/12/2024 21:18:48-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 21:18:55-- ["Main"] "Maika Andara": les zone sur GH son bridé expres avec le nouveau systeme de respawn
+08/12/2024 21:19:22-- ["Main"] "Maika Andara": tpeu pas depasser un certain nb meme en tournant ou avec un mec qui tourne pour toi etc
+08/12/2024 21:19:33-- ["Main"] "Valhalla": Ok super
+08/12/2024 21:27:16-- ["Main"] "Valhalla": oui 150m/h
+08/12/2024 21:27:48-- ["Main"] "Maika Andara": ta deja pris 50m/h en plus des krakra :p
+08/12/2024 21:28:00-- ["Main"] "Valhalla": Oui super
+08/12/2024 21:28:46-- ["Main"] "Maika Andara": si tu 2 ou 3 shot les serviteur de EH avec ton sort air (monocible) tu fera plus je pense
+08/12/2024 21:28:54-- ["Main"] "Maika Andara": si tu les 2 shot c sur
+08/12/2024 21:29:18-- ["Main"] "Valhalla":  ok Je suis jamais aller encore a EH
+08/12/2024 21:29:28-- ["Main"] "Maika Andara": apres c de lxp actif tu tourne en rond et tu tire sur les mobs a droite a gauche
+08/12/2024 21:31:25-- Le saviez-vous ? <> Les plus grands défis attendent votre personnage dans la fameuse {zone épique} du Draconis Sanctum. Arriverez-vous à faire face à l'ultime secret de la Tour Blanche ?
+08/12/2024 21:37:14-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 21:37:24-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 21:37:38-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 21:37:44-- You are too far !
+08/12/2024 21:37:47-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 21:37:47-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 21:38:00-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 21:38:00-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 21:39:02-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 21:39:02-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 21:39:07-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 21:39:07-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 21:39:43-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 21:39:43-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:01:26-- Le compteur des quêtes journalières, le combat contre le Seigneur-Sorcier et ceux contre les prisonniers du temps ont été réinitialisés. Vous pouvez, à nouveau, les effectuer.
+08/12/2024 22:01:26-- [Monstre élite du Draconis Sanctum] Perverti par une magie impie des Marais bouillonnants, le Saule vengeur autrefois majestueux n'est plus que colère et destruction.
+08/12/2024 22:10:10-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:10:15-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:10:15-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:13:06-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:13:10-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:13:10-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:16:26-- [Monstre élite du Draconis Sanctum] Le loup géant Freki sort de sa tanière et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+08/12/2024 22:16:38-- ["Main"] "Ed Pettrovitch": up Freki
+08/12/2024 22:16:45-- ["Main"] "Ynem Wapasir": Dispo
+08/12/2024 22:16:55-- ["Main"] "Ed Pettrovitch": un heal et go
+08/12/2024 22:16:58-- ["Main"] "Ulric Klinga": Up aussi
+08/12/2024 22:17:14-- ["Main"] "Lyssana":  up vite fait aussi :)
+08/12/2024 22:17:22-- ["Main"] "Ed Pettrovitch": qui heal?
+08/12/2024 22:18:03-- ["Main"] "Ed Pettrovitch": y a un heal?
+08/12/2024 22:18:16-- ["Main"] "Lyssana":  anté nécro
+08/12/2024 22:18:19-- ["Main"] "Ulric Klinga": Apparemment pas. Par contre le Saule aussi est sensé être vivant
+08/12/2024 22:18:36-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:18:40-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:18:40-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:18:44-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:20:00-- ["Main"] "Ynem Wapasir": Un heal pour les minis??
+08/12/2024 22:20:49-- {Tarsil}":" oui
+08/12/2024 22:20:52-- {Tarsil}":" tache
+08/12/2024 22:22:08-- ["Main"] "Ynem Wapasir": Allez, un ptit Heal pour tuer les minis !! ??
+08/12/2024 22:22:32-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:22:35-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:22:35-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:22:56-- ["Main"] "Duncyx": dsl je ne peux pas bouger de mon spot je suis au taf donc impossible de pouvoir heal :)
+08/12/2024 22:23:10-- ["Main"] "Ynem Wapasir": Okay
+08/12/2024 22:29:34-- ["Main"] "Ed Pettrovitch": un heal pour minis
+08/12/2024 22:31:21-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/12/2024 22:33:34-- ["Main"] "Ed Pettrovitch": un heal pour minis
+08/12/2024 22:34:21-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:34:30-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:34:30-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:34:41-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:34:48-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:34:48-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:35:49-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:35:55-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:35:55-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:36:02-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:36:02-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:36:06-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:36:15-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:36:15-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:38:10-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:38:16-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:38:16-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:38:21-- ["Main"] "Ynem Wapasir": Qui en Heal pour tuer les minis?
+08/12/2024 22:38:42-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:38:46-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:38:46-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:39:15-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:39:16-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:39:16-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:39:27-- {Lyssana}":" acheter
+08/12/2024 22:39:41-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:39:42-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:39:42-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:41:09-- ["Main"] "Ynem Wapasir": Un Heal de dispo pour faire les minis?
+08/12/2024 22:41:27-- [Monstre élite du Draconis Sanctum] Né des hautes montagnes du Draconis Sanctum et réveillé par le volcan en activité, le géant Jotunn se lève et se prépare à repousser les intrus.
+08/12/2024 22:41:43-- ["Main"] "Esq": je peu dépanné mais ca fait longtemps pas fais cela...
+08/12/2024 22:42:22-- ["Main"] "Ulric Klinga": c'est comme le vélo non ?
+08/12/2024 22:42:36-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:42:48-- ["Main"] "Esq": en effet j'arrive au chie,
+08/12/2024 22:44:13-- ["Main"] "Ed Pettrovitch": go freki
+08/12/2024 22:44:29-- ["Main"] "Dakunaito Ardens": GO FREKI GO !!! Ed la pompom Girl? :p
+08/12/2024 22:46:19-- ["Main"] "Lyssana": ya tjs de la place ? jai fait un ptit afk entre temps
+08/12/2024 22:46:29-- ["Main"] "Oniky":  meme question :p
+08/12/2024 22:47:32-- ["Main"] "Ynem Wapasir": Oui
+08/12/2024 22:48:08-- ["Main"] "Oniky":  j'arrive
+08/12/2024 22:49:19-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:49:24-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:49:24-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:52:11-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:52:19-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:52:19-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:52:30-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:52:55-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:53:08-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:53:13-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:53:13-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:53:20-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:53:22-- ["Main"] "Daestas": Bonjour à tous !
+08/12/2024 22:53:26-- ["Main"] "Piemur De Pern":  Bonjour !
+08/12/2024 22:53:31-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:53:34-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:53:34-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:55:07-- [Draconis Sanctum] Le ciel s'assombrit... une puissante créature vient d'être invoquée par un groupe d'aventuriers.
+08/12/2024 22:55:07-- [Draconis Sanctum] Une énergie sombre et bourdonnante se concentre au dessus du Draconis Sanctum.
+08/12/2024 22:56:10-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:56:12-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:56:12-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:56:17-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:56:21-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:56:21-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:56:27-- [Draconis Sanctum] L'abeille Apis s'apprête à dévorer les vivants. Elle a été invoquée par un groupe d'aventuriers.
+08/12/2024 22:56:33-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:56:35-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:56:35-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:56:40-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:57:01-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:59:05-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 22:59:07-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 22:59:07-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 22:59:37-- [Draconis Sanctum] Le ciel s'assombrit... une puissante créature vient d'être invoquée par un groupe d'aventuriers.
+08/12/2024 22:59:37-- [Draconis Sanctum] Une énergie sombre à l'odeur d'humus en décomposition se concentre au dessus du Draconis Sanctum.
+08/12/2024 23:01:28-- [Draconis Sanctum] La colère du Saule vengeur s'éveille. Il a été invoqué par un groupe d'aventuriers.
+08/12/2024 23:01:45-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:01:49-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 23:01:49-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 23:01:52-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:02:11-- [Draconis Sanctum] Le ciel s'assombrit... une puissante créature vient d'être invoquée par un groupe d'aventuriers.
+08/12/2024 23:02:12-- [Draconis Sanctum] Une énergie sombre et sépulturale se concentre au dessus du Draconis Sanctum.
+08/12/2024 23:06:28-- [Draconis Sanctum] Le géant Jotunn se lève. Il a été invoqué par un groupe d'aventuriers.
+08/12/2024 23:08:27-- ["Main"] "Tempiotte":  7 invocs
+08/12/2024 23:08:47-- ["Main"] "Tempiotte":  c'est qui l'invoqueur? il est au nexus?
+08/12/2024 23:09:00-- ["Main"] "Ynem Wapasir": Qui dispo pour mini?
+08/12/2024 23:12:18-- ["Main"] "Ynem Wapasir": Un Heal et 1 ou 2 Dps pour Tuer les minis??
+08/12/2024 23:13:24-- ["Main"] "Easy": lag ?
+08/12/2024 23:14:18-- ["Main"] "Ynem Wapasir": Qui pour faire les minis??
+08/12/2024 23:17:27-- ["Main"] "L'Arcaniste <> {Échange des larmes de dragon}": *BOUM* Catastrophe ! L'arcanisation d'un objet du Draconis Sanctum souhaitée par Pêche vient d'échouer... Cet aventurier n'a décidément pas de chance et il est complètement ruiné.
+08/12/2024 23:17:45-- ["Main"] "Piemur De Pern":  oh :/
+08/12/2024 23:17:55-- ["Main"] "Lyssana":  mauvaise peche :p
+08/12/2024 23:17:56-- ["Main"] "Myrjala": Dur
+08/12/2024 23:18:29-- ["Main"] "Dakunaito Ardens": ne pas oublier les foca sur sa Toge ... sinon ... !
+08/12/2024 23:19:00-- ["Main"] "Myrjala": Personne a un manteau des bene infinie qui traine ?
+08/12/2024 23:22:28-- ["Vente"] "Pêche": Du coup je rachete de nouveau une cuirasse draconide lol
+08/12/2024 23:24:16-- ["Main"] "Piemur De Pern":  Il n'y a pas le planeswalking sur le serveur c'est ça?
+08/12/2024 23:24:26-- ["Main"] "Myrjala": Non
+08/12/2024 23:24:30-- ["Main"] "Myrjala": Passe bateau
+08/12/2024 23:24:43-- ["Main"] "Piemur De Pern": ok merci :)
+08/12/2024 23:31:29-- Le saviez-vous ? <> Il existe quatre {instances} à faire en groupe. Ces zones existent en différents niveaux de difficulté et vous offrent la possibilité de collectionner des points pour faire évoluer l'équipement.
+08/12/2024 23:32:31-- {Theranos}":" lighthaven
+08/12/2024 23:32:34-- {Theranos}":" goldmoon
+08/12/2024 23:32:38-- {Theranos}":" visitait
+08/12/2024 23:32:43-- {Theranos}":" equipe
+08/12/2024 23:32:52-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:33:21-- {Theranos}":" lighthaven
+08/12/2024 23:33:42-- {Theranos}":" artherk
+08/12/2024 23:34:05-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/12/2024 23:34:09-- {Theranos}":" nom
+08/12/2024 23:34:09-- {Kilhiam}":" Les gens d'ici sont aimables. Si vous voulez connaître le "nom" d'une personne, vous n'avez qu'à le lui demander. C'est la même chose pour leur "travail". La plupart d'entre eux vous le diront sans protester.
+08/12/2024 23:34:15-- {Theranos}":" travail
+08/12/2024 23:34:15-- {Kilhiam}":" Je suis une prêtresse d'"Artherk". J'"enseigne" parfois de nouveaux sorts à ceux que j'estime dignes d'assumer de telles responsabilités. Je ne suis pas la seule à faire cela. De nombreux praticiens peuvent vous enseigner à peu près toutes les compétences imaginables. Vous n'avez qu'à choisir une ou plusieurs voies qui s'offrent à vous afin de trouver les gens prêts à vous aider dans votre quête du savoir. Artherk m'a également accordé le don du "sanctuaire".
+08/12/2024 23:34:18-- {Theranos}":" enseigne
+08/12/2024 23:34:18-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/12/2024 23:34:29-- {Theranos}":" lumiere
+08/12/2024 23:34:29-- {Kilhiam}":" Voulez-vous l'apprendre maintenant ?
+08/12/2024 23:34:34-- {Theranos}":" oui
+08/12/2024 23:35:01-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:35:05-- ["Main"] "Myrjala": C'est quoi le sort de guérison qu'il faut en groupe ?
+08/12/2024 23:35:06-- {Theranos}":" factions rivales
+08/12/2024 23:35:08-- {Theranos}":" avantages
+08/12/2024 23:35:13-- {Theranos}":" bons de ravitaillement
+08/12/2024 23:35:16-- {Theranos}":" anneau de lien
+08/12/2024 23:35:20-- {Theranos}":" personalliser
+08/12/2024 23:35:23-- {Theranos}":" personnaliser
+08/12/2024 23:35:25-- {Theranos}":" corsaires
+08/12/2024 23:35:27-- ["Main"] "Dakunaito Ardens": cicatrisation ou vitalité de mémoire
+08/12/2024 23:35:30-- {Theranos}":" artherkiens
+08/12/2024 23:35:33-- {Theranos}":" ogrimariens
+08/12/2024 23:35:35-- {Theranos}":" neeryens
+08/12/2024 23:35:38-- {Theranos}":" haruspiciens
+08/12/2024 23:35:39-- {Theranos}":" druides
+08/12/2024 23:35:41-- {Theranos}":" choix
+08/12/2024 23:35:50-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:35:50-- {Theranos}":" manoir-citadelle
+08/12/2024 23:35:53-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 23:35:53-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 23:36:00-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 23:36:00-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 23:36:11-- {Theranos}":" acceder
+08/12/2024 23:36:19-- {Theranos}":" explications
+08/12/2024 23:36:22-- {Theranos}":" categories
+08/12/2024 23:36:24-- {Theranos}":" apparaitre
+08/12/2024 23:36:26-- {Theranos}":" vendre
+08/12/2024 23:36:29-- [Monstre élite du Draconis Sanctum] La monstrueuse Veuve aux mille yeux quitte son nid et se prépare à dévorer les aventuriers du Draconis Sanctum, sur la Côte des berserkers.
+08/12/2024 23:36:29-- {Theranos}":" parametres
+08/12/2024 23:36:52-- ["Main"] "Easy": faut aps prendre ca
+08/12/2024 23:36:59-- ["Main"] "Easy": erg
+08/12/2024 23:38:18-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:38:20-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 23:38:20-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 23:38:29-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:39:00-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:39:04-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 23:39:04-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 23:39:10-- You are too far !
+08/12/2024 23:39:14-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 23:39:14-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 23:39:20-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/12/2024 23:39:22-- {Theranos}":" nom
+08/12/2024 23:39:22-- {Kilhiam}":" Les gens d'ici sont aimables. Si vous voulez connaître le "nom" d'une personne, vous n'avez qu'à le lui demander. C'est la même chose pour leur "travail". La plupart d'entre eux vous le diront sans protester.
+08/12/2024 23:39:24-- {Theranos}":" travail
+08/12/2024 23:39:24-- {Kilhiam}":" Je suis une prêtresse d'"Artherk". J'"enseigne" parfois de nouveaux sorts à ceux que j'estime dignes d'assumer de telles responsabilités. Je ne suis pas la seule à faire cela. De nombreux praticiens peuvent vous enseigner à peu près toutes les compétences imaginables. Vous n'avez qu'à choisir une ou plusieurs voies qui s'offrent à vous afin de trouver les gens prêts à vous aider dans votre quête du savoir. Artherk m'a également accordé le don du "sanctuaire".
+08/12/2024 23:39:28-- {Theranos}":" enseigne
+08/12/2024 23:39:28-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/12/2024 23:39:30-- {Theranos}":" lumiere
+08/12/2024 23:39:30-- {Kilhiam}":" Voulez-vous l'apprendre maintenant ?
+08/12/2024 23:39:32-- {Theranos}":" oui
+08/12/2024 23:39:44-- You are too far !
+08/12/2024 23:39:46-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 23:39:46-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 23:39:47-- You are too far !
+08/12/2024 23:39:52-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:39:56-- {Theranos}":" oui
+08/12/2024 23:39:56-- {Kilhiam}":" Je ne peux vous aider pour cela.
+08/12/2024 23:40:11-- {Theranos}":" oui
+08/12/2024 23:40:11-- {Kilhiam}":" Je ne peux vous aider pour cela.
+08/12/2024 23:40:18-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/12/2024 23:40:20-- {Theranos}":" nom
+08/12/2024 23:40:20-- {Kilhiam}":" Les gens d'ici sont aimables. Si vous voulez connaître le "nom" d'une personne, vous n'avez qu'à le lui demander. C'est la même chose pour leur "travail". La plupart d'entre eux vous le diront sans protester.
+08/12/2024 23:40:21-- {Theranos}":" lumiere
+08/12/2024 23:40:21-- {Kilhiam}":" Je ne peux vous aider pour cela.
+08/12/2024 23:40:23-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/12/2024 23:40:25-- {Theranos}":" travail
+08/12/2024 23:40:25-- {Kilhiam}":" Je suis une prêtresse d'"Artherk". J'"enseigne" parfois de nouveaux sorts à ceux que j'estime dignes d'assumer de telles responsabilités. Je ne suis pas la seule à faire cela. De nombreux praticiens peuvent vous enseigner à peu près toutes les compétences imaginables. Vous n'avez qu'à choisir une ou plusieurs voies qui s'offrent à vous afin de trouver les gens prêts à vous aider dans votre quête du savoir. Artherk m'a également accordé le don du "sanctuaire".
+08/12/2024 23:40:29-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:40:30-- {Theranos}":" enseigne
+08/12/2024 23:40:30-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/12/2024 23:40:32-- {Theranos}":" lumiere
+08/12/2024 23:40:34-- {Theranos}":" oui
+08/12/2024 23:40:54-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:40:59-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 23:40:59-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 23:41:31-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:41:34-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 23:41:34-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 23:41:38-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:41:40-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 23:41:40-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 23:41:44-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:42:11-- {Theranos}":" acceder
+08/12/2024 23:42:40-- {Theranos}":" achat
+08/12/2024 23:42:42-- {Theranos}":" acheter
+08/12/2024 23:42:47-- {Theranos}":" oui
+08/12/2024 23:45:00-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:45:04-- Ce PNJ échange les objets devenus obsolètes après modification par les développeurs du jeu. Consultez-le à chaque objet que vous désirez échanger.
+08/12/2024 23:45:04-- {Collectionneur}":" Je suis un grand collectionneur. J'échange des objets qui ne vous sont plus d'aucune utilité. En ce moment, je suis à la recherche de...  {Diadème du dragon rubis}, {Diadème du dragon saphir}, {Traîtrise d'Obéron}, {Braies consacrées}, {Voeux exaucés} ou {Couvres-chefs de chance}. Si vous possédez-vous un des ces objets obsolètes, revenez me voir.
+08/12/2024 23:45:11-- {Varriw}":" Alors, qu'attendez-vous ? {Descendez dans les catacombes de Lighthaven}, situées au nord du temple. Après avoir descendu les différents sous-sols jusqu'au repaire de Balork le démon, passez par la fissure et tuez assez de {Sorciers momifiés} pour trouver un phylactère. Je vous attends ici.
+08/12/2024 23:45:41-- ["Main"] "Schiryu Griffon": Bonjour à tous :)
+08/12/2024 23:45:59-- ["Main"] "Kriss": salut
+08/12/2024 23:46:02-- ["Main"] "Marcel Altheric": bonjour Schiryu Griffon
+08/12/2024 23:47:15-- {Theranos}":" armure
+08/12/2024 23:47:17-- {Theranos}":" acheter
+08/12/2024 23:47:31-- {Theranos}":" voler
+08/12/2024 23:57:09-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/12/2024 23:57:11-- {Theranos}":" nom
+08/12/2024 23:57:11-- {Kilhiam}":" Les gens d'ici sont aimables. Si vous voulez connaître le "nom" d'une personne, vous n'avez qu'à le lui demander. C'est la même chose pour leur "travail". La plupart d'entre eux vous le diront sans protester.
+08/12/2024 23:57:13-- {Theranos}":" travail
+08/12/2024 23:57:13-- {Kilhiam}":" Je suis une prêtresse d'"Artherk". J'"enseigne" parfois de nouveaux sorts à ceux que j'estime dignes d'assumer de telles responsabilités. Je ne suis pas la seule à faire cela. De nombreux praticiens peuvent vous enseigner à peu près toutes les compétences imaginables. Vous n'avez qu'à choisir une ou plusieurs voies qui s'offrent à vous afin de trouver les gens prêts à vous aider dans votre quête du savoir. Artherk m'a également accordé le don du "sanctuaire".
+08/12/2024 23:57:15-- {Theranos}":" enseigne
+08/12/2024 23:57:15-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/12/2024 23:57:17-- {Theranos}":" lumiere
+08/12/2024 23:57:17-- {Kilhiam}":" Voulez-vous l'apprendre maintenant ?
+08/12/2024 23:57:19-- {Theranos}":" oui
+08/12/2024 23:59:26-- ["Main"] "Vénérothe": Il est oû le temple de sh je vient t'arriver a sh maintenant
+08/12/2024 23:59:34-- ["Main"] "Piemur De Pern":  à gauche
+08/12/2024 23:59:36-- ["Main"] "Myrjala": A gauche
+08/12/2024 23:59:38-- ["Main"] "Vénérothe": pour faire un sanctuaire
+08/12/2024 23:59:45-- ["Main"] "Piemur De Pern":  il est cassé et Nissus est en cage
+08/12/2024 23:59:47-- ["Main"] "Dakunaito Ardens": le truc en ruine 
+08/12/2024 23:59:51-- ["Main"] "Myrjala": Y'a des skraugs, ils ont capturé la ville
+08/13/2024 00:01:29-- [Monstre élite du Draconis Sanctum] Autrefois fournisseuse du miel des larves de dragons, l'abeille Apis n'est plus que l'instrument d'un sombre sorcier qui l'utilise comme arme pour dévorer les aventuriers, au Cimetière des dragons.
+08/13/2024 00:04:04-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/13/2024 00:04:08-- {Theranos}":" importantes
+08/13/2024 00:04:08-- {Araknor}":" J'ai affaire au redoutable nécromancien "Jarko" ou le "Décrépit". Je dois absolument me procurer son "grimoire". IL ME LE FAUT !
+08/13/2024 00:04:13-- {Theranos}":" travail
+08/13/2024 00:04:13-- {Araknor}":" Je suis le nécromancien de cette tour. Je recueille des informations sur les morts. Les gens de la ville ne m'aiment pas en raison de ma profession.
+08/13/2024 00:04:16-- {Theranos}":" grimoire
+08/13/2024 00:04:16-- {Araknor}":" Le grimoire d'un mage est l'objet le plus précieux qu'il possède. Lorsque je peux mettre la main sur un de ces livres, je le dévore littéralement pour pouvoir apprendre de nouveaux sorts et augmenter ma puissance !
+08/13/2024 00:04:21-- {Theranos}":" nom
+08/13/2024 00:04:21-- {Araknor}":" On m'appelle Araknor le "sombre".
+08/13/2024 00:04:24-- {Theranos}":" sombre
+08/13/2024 00:04:24-- {Araknor}":" Je suis la voie ténébreuse de la "nécromancie".
+08/13/2024 00:04:29-- {Theranos}":" necromancies
+08/13/2024 00:04:29-- {Araknor}":" La nécromancie est sans conteste le meilleur de tous les arts. Celui qui la maîtrise domine la mort et peu ramener à la vie des personnes qui sont déjà mortes une fois. Cette voie obscure compte peu d'adeptes et elle assombrira votre âme. Mais ce n'est qu'un bien petit prix à payer pour la puissance de la nécromancie ! "Jarko" est le seul être sur cette île dont la force est comparable à la mienne.
+08/13/2024 00:04:32-- {Theranos}":" jarko
+08/13/2024 00:04:32-- {Araknor}":" Jarko le nécromancien vagabonde dans les montagnes du nord de l'île avec ses deux puissantes armées de gobelins et d'immortels. Je peux facilement m'en tirer contre elles... mais son "grimoire" me serait très utile.
+08/13/2024 00:04:42-- {Theranos}":" apprendre
+08/13/2024 00:04:42-- {Araknor}":" Commençons donc la leçon.
+08/13/2024 00:06:38-- ["Main"] "Zuldar":  Est-ce que c'est intentionnel que la réponse à l'énigme sur le père du roi de Goldmoon ne soit pas sur le wiki?
+08/13/2024 00:07:02-- ["Main"] "Piemur De Pern":  elle est sur le site
+08/13/2024 00:07:15-- ["Main"] "Easy": Theodored un truc du genre
+08/13/2024 00:07:42-- ["Main"] "Sortune Wind": Theopold non ?
+08/13/2024 00:07:55-- ["Main"] "Easy": just j'aetais pas trop loin
+08/13/2024 00:08:09-- ["Main"] "Zuldar": C'est ça, quelqu'un me l'a mp. Merci :) 
+08/13/2024 00:08:27-- {Wellan}":" Vous avez été récompensé. Prenez cet or en gage de cet acte "héroïque".
+08/13/2024 00:08:29-- {Wellan}":" Mon "frère" habite Raven's Dust et aurait grand besoin d'une personne au courage sans égal tel que vous ! Allez le voir, il vous expliquera.
+08/13/2024 00:08:31-- {Wellan}":" Il se nomme Silvar, trouvez le, et aidez le, je vous en supplie !
+08/13/2024 00:10:32-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/13/2024 00:10:34-- {Araknor}":" J'ai affaire au redoutable nécromancien "Jarko" ou le "Décrépit". Je dois absolument me procurer son "grimoire". IL ME LE FAUT !
+08/13/2024 00:10:37-- {Araknor}":" Vous avez le Grimoire de Jarko ? Super ! L'échangeriez-vous contre un objet particulier ?
+08/13/2024 00:10:40-- {Heruhur}":" oui
+08/13/2024 00:10:40-- {Araknor}":" Vous ne le regretterez pas, mon jeune ami. En gage de ma reconnaissance, je vous donne la chance d'apprendre la nécromancie en devenant mon "apprenti". De plus, je vous donne ce petit anneau des ténèbres. Je n'en connais pas les vertus mais je peux sentir les vibrations magiques qu'il émet.
+08/13/2024 00:10:41-- {Araknor}":" Il n'est pas facile de suivre la voie de la nécromancie. Pour cette première leçon, je vais vous apprendre l'"absorption" "de" "vie" "mineure".
+08/13/2024 00:10:50-- {Heruhur}":" absorption de vie mineure
+08/13/2024 00:10:50-- {Araknor}":" Ne m'embêtez pas avec cela.
+08/13/2024 00:10:55-- {Araknor}":" Oui? Soyez bref, je dois m'occuper de choses "importantes".
+08/13/2024 00:10:58-- {Araknor}":" J'ai affaire au redoutable nécromancien "Jarko" ou le "Décrépit". Je dois absolument me procurer son "grimoire". IL ME LE FAUT !
+08/13/2024 00:11:00-- {Araknor}":" Le grimoire d'un mage est l'objet le plus précieux qu'il possède. Lorsque je peux mettre la main sur un de ces livres, je le dévore littéralement pour pouvoir apprendre de nouveaux sorts et augmenter ma puissance !
+08/13/2024 00:11:03-- {Araknor}":" N'oubliez pas : les morts erreront toujours dans le royaume.
+08/13/2024 00:13:40-- ["Main"] "Valeska De Scyla": saluy )
+08/13/2024 00:13:48-- ["Main"] "Piemur De Pern":  Salut 
+08/13/2024 00:17:27-- ["Main"] "Vénérothe": vend anneau de jade 850 000 po
+08/13/2024 00:18:35-- ["Vente"] "Easy": J'achete un 	Arc long des étoiles de précision 15M
+08/13/2024 00:19:23-- ["Main"] "Vénérothe": /Piemur de pern ? bon
+08/13/2024 00:19:33-- ["Main"] "Vénérothe": oups
+08/13/2024 00:20:35-- ["Main"] "Vénérothe": /piemur de pen oui mais là je suis a sec
+08/13/2024 00:20:58-- ["Main"] "Valeska De Scyla": vaseline )
+08/13/2024 00:21:14-- ["Main"] "Easy":  juste un / Pie ( blabla ) suffit =)
+08/13/2024 00:35:24-- Gishnak, {Gladiateur Orque}, baigne maintenant dans son sang après avoir péri au combat.
+08/13/2024 00:37:36-- L'accès à l'{aile Nord d'Anwynn} est ouvert pendant une heure.
+08/13/2024 00:55:32-- {Ambroisie}":" apprendre
+08/13/2024 01:03:49-- ["Main"] "Coeur de Dragon":  Bonjour Neerya !
+08/13/2024 01:03:53-- ["Main"] "Piemur De Pern":  Salut Coeur
+08/13/2024 01:04:12-- ["Main"] "Ksiadus": bonjour Coeur de Dragon
+08/13/2024 01:04:54-- ["Vente"] "Coeur de Dragon": Achète "Flèches d'éclat de pierres" merci :)
+08/13/2024 01:09:56-- ["Main"] "Panraka De Narisa": bonjour tout le monde
+08/13/2024 01:10:01-- ["Vente"] "Easy": Jachete un Arc long des étoiles de précision
+08/13/2024 01:10:01-- ["Main"] "Piemur De Pern":  Salut !
+08/13/2024 01:10:08-- ["Main"] "Valeska De Scyla": plop
+08/13/2024 01:10:10-- ["Main"] "Easy": Salut
+08/13/2024 01:17:16-- ["Main"] "Maika Andara": Easy?
+08/13/2024 01:31:20-- [Défi de Valerius] "Le combat avec le Seigneur Sorcier au plus haut niveau" : <>Classement actuel : groupe de Noshera (110), de Krazor (110), de Leto (110). Mettez-vous au défi de les battre ! Plus d'information sur www.t4c-neerya.com !
+08/13/2024 01:31:30-- ["Main"] "Tekk": Bonjour bonjour
+08/13/2024 01:31:32-- Le saviez-vous ? <> Le forum {Grande Bibliothèque de Waterfalls} regroupe des textes officiels de Neerya relatifs au jeu de rôle. Ils contiennent de nombreuses informations utiles !
+08/13/2024 01:31:47-- ["Main"] "Valeska De Scyla": hello )
+08/13/2024 01:32:03-- ["Main"] "Schiryu Griffon": Hello
+08/13/2024 01:33:44-- ["Vente"] "Coeur de Dragon": Achète "Collier Orque poli" merci :)
+08/13/2024 01:37:43-- ["Main"] "Ynem Wapasir": Des motivés pour Sh Hm?
+08/13/2024 01:37:49-- ["Main"] "Imoën":  Oui
+08/13/2024 01:37:53-- ["Main"] "Dakunaito Ardens": oui, mais j'ai pas le level
+08/13/2024 01:38:22-- ["Main"] "Panraka De Narisa": dispo avec chimere si bon groupe
+08/13/2024 01:38:33-- ["Main"] "Ynem Wapasir": Qui d'autres?
+08/13/2024 01:38:42-- ["Main"] "Valeska De Scyla": Up
+08/13/2024 01:38:44-- ["Main"] "Yurri Kane":  up aussi
+08/13/2024 01:38:59-- ["Main"] "Ynem Wapasir": .inv Imo
+08/13/2024 01:39:58-- ["Main"] "Ynem Wapasir": 5/8 Sh Hm ?? Qui d'autres?
+08/13/2024 01:42:29-- ["Main"] "Ynem Wapasir": Dernier Dps ou Heal pour Sh Hm.
+08/13/2024 01:43:57-- ["Main"] "Latimer": bonjour.bonjour :)
+08/13/2024 01:44:05-- ["Main"] "Ynem Wapasir": Bonjour !!
+08/13/2024 01:44:07-- ["Main"] "Valeska De Scyla": Hello )
+08/13/2024 01:44:08-- ["Main"] "Yurri Kane": salut
+08/13/2024 01:44:08-- ["Main"] "Schiryu Griffon": Hello ;)
+08/13/2024 01:44:09-- ["Main"] "Ynem Wapasir": Dernier pour Sh Hm !!
+08/13/2024 01:46:23-- ["Main"] "Ynem Wapasir": Besoin d'un last pour Sh Hm
+08/13/2024 01:47:33-- ["Main"] "Ynem Wapasir": Dernier Dps ou Heal ?? Dispo Sh Hm??
+08/13/2024 01:50:58-- ["Main"] "Ynem Wapasir": Dernier pour Sh Hm ??
+08/13/2024 01:52:46-- ["Main"] "Ynem Wapasir": Un Last, Archer de préférence, dispo Sh Hm ??
+08/13/2024 01:53:59-- [Instance de Stoneheim Héroïque] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Chimere De Narisa, Ynem Wapasir et Yurri Kane) entre dans La Folie du Traître !
+08/13/2024 01:55:37-- ["Main"] "Schiryu Griffon": Au faite il est à combien le cour du scalp? :p
+08/13/2024 02:06:18-- {Theranos}":" nom
+08/13/2024 02:06:20-- {Theranos}":" travail
+08/13/2024 02:06:22-- {Theranos}":" Artherk
+08/13/2024 02:06:25-- {Theranos}":" apprendre
+08/13/2024 02:06:31-- {Theranos}":" artherk
+08/13/2024 02:06:32-- {Theranos}":" nom
+08/13/2024 02:06:35-- {Theranos}":" travaille
+08/13/2024 02:06:38-- {Theranos}":" gurir
+08/13/2024 02:06:41-- {Theranos}":" guerir
+08/13/2024 02:06:45-- {Theranos}":" guerir
+08/13/2024 02:06:49-- {Theranos}":" guerir
+08/13/2024 02:06:53-- {Theranos}":" travaille
+08/13/2024 02:06:55-- {Theranos}":" guerir
+08/13/2024 02:06:59-- {Theranos}":" guerir
+08/13/2024 02:07:01-- {Theranos}":" travaille
+08/13/2024 02:07:04-- {Theranos}":" magie
+08/13/2024 02:07:07-- {Theranos}":" enseigner
+08/13/2024 02:08:05-- {Theranos}":" rat
+08/13/2024 02:08:07-- {Theranos}":" oui
+08/13/2024 02:08:10-- {Theranos}":" accent
+08/13/2024 02:08:13-- {Theranos}":" mot-clef
+08/13/2024 02:08:16-- {Theranos}":" nom
+08/13/2024 02:08:18-- {Theranos}":" travaille
+08/13/2024 02:08:23-- {Theranos}":" tache
+08/13/2024 02:08:34-- {Theranos}":" travaille
+08/13/2024 02:08:36-- {Theranos}":" questions
+08/13/2024 02:08:39-- {Theranos}":" base
+08/13/2024 02:08:43-- {Theranos}":" avance
+08/13/2024 02:08:45-- {Theranos}":" avancee
+08/13/2024 02:08:47-- {Theranos}":" mot de passe
+08/13/2024 02:09:06-- ["Main"] "Clarity": bonjur neerya :)
+08/13/2024 02:09:13-- ["Main"] "Louny": plop
+08/13/2024 02:09:33-- ["Main"] "Theranos": Salut
+08/13/2024 02:09:56-- ["Main"] "Latimer": salut
+08/13/2024 02:10:18-- {Cyste}":" apprendre
+08/13/2024 02:10:25-- {Cyste}":" adieu
+08/13/2024 02:10:33-- {Cyste}":" entrainer
+08/13/2024 02:10:46-- {Cyste}":" adieu
+08/13/2024 02:11:04-- {Theranos}":" ?
+08/13/2024 02:11:05-- {Theranos}":" oui
+08/13/2024 02:11:08-- {Theranos}":" tache
+08/13/2024 02:11:13-- {Theranos}":" oui
+08/13/2024 02:11:16-- {Theranos}":" non
+08/13/2024 02:12:31-- {Theranos}":" achat
+08/13/2024 02:12:33-- {Theranos}":" acheter
+08/13/2024 02:13:08-- {Theranos}":" travaille
+08/13/2024 02:13:10-- {Theranos}":" regarder
+08/13/2024 02:15:39-- ["Main"] "Yvan Dérenai <> {Boutique : renaissance}": Félicitations à {Octave Ergebelle} pour sa première renaissance !
+08/13/2024 02:15:47-- ["Main"] "Ani Légo Las": gg
+08/13/2024 02:15:47-- ["Main"] "Chou Creme": Solide !
+08/13/2024 02:15:52-- ["Main"] "Easy": gg
+08/13/2024 02:15:56-- ["Main"] "Latimer": gg
+08/13/2024 02:16:05-- ["Main"] "Octave Ergebelle": pas de merite, c'est la x1 boutique :D
+08/13/2024 02:16:37-- ["Main"] "Ani Légo Las": merci pour le serveur
+08/13/2024 02:16:44-- ["Main"] "Octave Ergebelle": d'ailleurs pour faire pretre et viser la x2 rapidement, vous conseiller quoi pour les points seraphe ? puissancex terre ?
+08/13/2024 02:17:15-- ["Main"] "Ani Légo Las": tout en sagesse et repoussman à anwynn -3
+08/13/2024 02:17:15-- ["Main"] "Cyste": Octave Octave ce nom me parle, ne serais tu point le frere de Delphine Talaron ?
+08/13/2024 02:17:22-- ["Main"] "Dakunaito Ardens": moitié moitié lulu terre
+08/13/2024 02:17:24-- ["Main"] "Astaroth Asgard": lumiere terre je pense
+08/13/2024 02:17:40-- ["Main"] "Ani Légo Las": il demande pour rush x2 ...
+08/13/2024 02:18:11-- ["Main"] "Octave Ergebelle": cyste josé paldhyr ^^
+08/13/2024 02:18:25-- ["Main"] "Octave Ergebelle": du coup Ani tu me conseille full puissance terre ?
+08/13/2024 02:18:31-- ["Main"] "Ani Légo Las": pas très utile de mettre des pts dans son anneau en x1 je trouve
+08/13/2024 02:18:46-- ["Main"] "Dakunaito Ardens": si tu renais aucun interet de faire l'anneau et la purif
+08/13/2024 02:18:57-- ["Main"] "Octave Ergebelle": oui je compte pas faire l'anneau
+08/13/2024 02:19:06-- ["Main"] "Octave Ergebelle": je le ferai apres renai
+08/13/2024 02:19:13-- ["Main"] "Ani Légo Las": tu parles de tes pts seraf ?
+08/13/2024 02:19:19-- ["Main"] "Octave Ergebelle": oui points seraf
+08/13/2024 02:19:34-- ["Main"] "Astaroth Asgard": moi j'ai fait moit moit en 1ere , 4 jours pour renaitre
+08/13/2024 02:19:38-- ["Main"] "Ani Légo Las": tout en lumière si tu peux aller à anwynn -3 sinon terre
+08/13/2024 02:20:01-- ["Main"] "Celty Alyn": J'ai tout mis en lumière aussi en X1
+08/13/2024 02:20:23-- ["Main"] "Octave Ergebelle": oui je pourrai faire l'acces anwynn -3
+08/13/2024 02:20:51-- ["Main"] "Octave Ergebelle": merci pour tous les conseils :)
+08/13/2024 02:21:02-- ["Main"] "Cyste": Vous me rassurez, je n'ai pas joué depuis 25 ans et je viens de faire un full lumiere en 1ere renaissance, j'ai de bons reste !)
+08/13/2024 02:21:17-- ["Main"] "Ani Légo Las": en non c'est nul :)
+08/13/2024 02:21:21-- ["Main"] "Ani Légo Las": :)
+08/13/2024 02:21:43-- ["Main"] "Cyste": (o-O)
+08/13/2024 02:22:03-- ["Main"] "Ani Légo Las": les 2 sont biens
+08/13/2024 02:22:41-- ["Main"] "Ani Légo Las": le + important c le stuff qui va avec
+08/13/2024 02:22:51-- ["Main"] "Ynem Wapasir": Qui Dispo Sh Hm??
+08/13/2024 02:23:32-- ["Main"] "Ynem Wapasir": Allez 1 dps Sh Hm?? qui intéressé??
+08/13/2024 02:24:02-- ["Main"] "Ani Légo Las": dans 120 lvls je pourrais être intéressé
+08/13/2024 02:24:25-- ["Main"] "Astaroth Asgard": a votre avis en full lumiere 2 ren, ca vaut le coup de monter pour afflux ou pas?
+08/13/2024 02:24:41-- ["Main"] "Dakunaito Ardens": tout depends ce que tu vas faire avec le perso
+08/13/2024 02:25:02-- ["Main"] "Astaroth Asgard": ce que je pourrai :p
+08/13/2024 02:25:12-- ["Main"] "Astaroth Asgard": HM SS etc
+08/13/2024 02:25:30-- ["Main"] "Dakunaito Ardens": perso je trouve que ca donne un interet pour heal. Apres ta béné sera forte plus tardivement
+08/13/2024 02:25:56-- ["Main"] "Astaroth Asgard": ca aide pour eboulement aussi
+08/13/2024 02:26:06-- ["Main"] "Astaroth Asgard": kan y'a pas de mv
+08/13/2024 02:26:57-- ["Main"] "Astaroth Asgard": ca boost repousser aussi?
+08/13/2024 02:27:18-- ["Main"] "Ani Légo Las": le repouss est surtout lié à ta sagesse
+08/13/2024 02:27:24-- ["Main"] "Astaroth Asgard": oki
+08/13/2024 02:27:51-- ["Main"] "Astaroth Asgard": je vais monter a 350 sagesse et apres j'irai pour afflux je pense
+08/13/2024 02:28:18-- [Instance de Stoneheim Héroïque] N'écoutant que leur courage face à un danger resurgissant du passé, un groupe d'aventuriers (parmi lesquels Chou Creme, Lussuria et Chimere De Narisa) entre dans La Folie du Traître !
+08/13/2024 02:30:59-- {Wellan}":" Cyste, Laissez moi seul, je n'ai pas envie de "discuter".
+08/13/2024 02:31:03-- {Cyste}":" discuter
+08/13/2024 02:31:03-- {Wellan}":" Bon c'est d'accord, voulez vous que je vous "raconte" ce qui  s'est passé ?
+08/13/2024 02:31:06-- {Cyste}":" raconte
+08/13/2024 02:31:06-- {Wellan}":" Hier soir, je devais me rendre à Windhowl pour ramener des "bijoux" que la guilde Marchande m'avait commandé.
+08/13/2024 02:31:09-- {Cyste}":" bijoux
+08/13/2024 02:31:09-- {Wellan}":" C'est sur la route de Windhowl que tout s'est passé, une horde de gobelins fous furieux m'ont attaqué et subtilisé tout mes précieux joyaux. Comptez vous m'aider à les récupérer "?"
+08/13/2024 02:31:11-- {Cyste}":" oui
+08/13/2024 02:31:11-- {Wellan}":" Très bien je vous remercie ! Quand vous aurez récupéré mes deux précieux objets veuillez les ramener à Uriel, il habite Windhowl, puis revenez me voir, je vous récompenserai.
+08/13/2024 02:31:13-- {Cyste}":" adieu
+08/13/2024 02:31:13-- {Wellan}":" Au revoir, à très bientôt.
+08/13/2024 02:32:05-- ["Main"] "Sweep": Hey Yo !
+08/13/2024 02:32:12-- ["Main"] "Chou Creme": Salut !
+08/13/2024 02:32:19-- ["Main"] "Astaroth Asgard": slt
+08/13/2024 02:32:19-- ["Main"] "Valeska De Scyla": hello sweepy )
+08/13/2024 02:32:22-- ["Main"] "Chimere De Narisa": hello sweepouille
+08/13/2024 02:32:39-- ["Main"] "Sweep": Héhé, ça baigne à Merveille les Gars ? =) 
+08/13/2024 02:32:53-- ["Main"] "Chimere De Narisa": bien et toi
+08/13/2024 02:33:13-- {Octavius}":" [ adieu ]
+08/13/2024 02:33:49-- ["Main"] "Sweep": Pénard,Pénard, Pénard =)  
+08/13/2024 02:37:03-- {Octavius}":" lighthaven
+08/13/2024 02:37:13-- {Octavius}":" [ :) ]
+08/13/2024 02:37:22-- {Akhenaton}":" Bonjour
+08/13/2024 02:37:28-- {Octavius}":" [ coucou ]
+08/13/2024 02:37:32-- {Akhenaton}":" je tiens a vous avertir qu'il y aura p^as d'autres avertissement
+08/13/2024 02:37:48-- {Octavius}":" [ avertissement pour ? ]
+08/13/2024 02:37:49-- {Akhenaton}":" les jeux de mots douteux ont pas leurs place ici
+08/13/2024 02:38:01-- {Octavius}":" [ ah i lme semblait ]
+08/13/2024 02:38:10-- {Akhenaton}":" donc vous avez ete rename
+08/13/2024 02:38:12-- {Octavius}":" [ et si je choisis un jeu de mot plus classique ? ]
+08/13/2024 02:38:41-- {Akhenaton}":" Tant que c'est pas sexuelle 
+08/13/2024 02:38:53-- {Octavius}":" [ d'accord aucun soucis pour moi ]
+08/13/2024 02:39:05-- {Octavius}":" [ désolé pour la gêne ]
+08/13/2024 02:39:08-- {Akhenaton}":" Octavius vous va tres bien 
+08/13/2024 02:39:14-- {Akhenaton}":" Bon jeu
+08/13/2024 02:39:20-- {Octavius}":" [ je peux rename ou ? ]
+08/13/2024 02:39:32-- {Akhenaton}":" dites moi votre choix
+08/13/2024 02:39:38-- {Octavius}":" [ Jonh Duff ]
+08/13/2024 02:39:57-- {Akhenaton}":" il y a deja des jonh, john jonhy
+08/13/2024 02:40:05-- {Akhenaton}":" gardez Octavius
+08/13/2024 02:40:07-- {Akhenaton}":" ;)
+08/13/2024 02:40:17-- {Octavius}":" [ c'est ... classique ]
+08/13/2024 02:40:29-- {Akhenaton}":" oui mais comme vous etes le seul de ce genre
+08/13/2024 02:40:35-- {Akhenaton}":" pas de soucis de wisp ;)
+08/13/2024 02:40:45-- {Octavius}":" [ bon c'est pas grave j'y penserai plus tard ]
+08/13/2024 02:40:53-- {Akhenaton}":" 9a marcche
+08/13/2024 02:40:57-- {Octavius}":" [ merci :) ]
+08/13/2024 02:40:59-- {Octavius}":" [ désolé encore ]
+08/13/2024 02:41:01-- {Akhenaton}":" (ça)
+08/13/2024 02:41:04-- ["Main"] "Laure Jador <> {Seconde renaissance bis}": Félicitations à {Coeur de Dragon} pour sa {nouvelle} seconde renaissance !
+08/13/2024 02:41:20-- ["Main"] "Tarya": gg
+08/13/2024 02:41:24-- ["Main"] "Chou Creme": Solide !
+08/13/2024 02:41:30-- ["Main"] "Coeur de Dragon":  :p
+08/13/2024 02:45:45-- {Octavius}":" [ adieu ]
+08/13/2024 02:46:11-- {Kilhiam}":" Bonjour, mon "nom" est Kilhiam.
+08/13/2024 02:46:14-- {Octavius}":" apprendre
+08/13/2024 02:46:14-- {Kilhiam}":" Les prêtres se spécialisent dans l'art de soigner et de guérir les blessures. Pour ce faire, ils emploient des sorts utilisant la terre et l'eau. Une fois que vous connaissez ces sorts, vous pouvez toujours les invoquer pour obtenir de l'aide. Contrairement aux compétences, ils ne demandent aucune pratique; ils offrent toute leur puissance dès l'instant où vous les apprenez. C'est pourquoi leur coût en pièces d'or est plus élevé que celui des compétences. À mesure que vous acquerrez de l'expérience en combat, vous pourrez améliorer vos aptitudes et apprendre de nouveaux sorts et compétences. Si vous le voulez, je peux vous apprendre l'un des sorts les plus fondamentaux qui soient : la "lumière" qui vous aidera à voir dans le noir. Voulez-vous l'apprendre maintenant?
+08/13/2024 02:46:15-- {Kilhiam}":" Voulez-vous l'apprendre maintenant ?
+08/13/2024 02:46:18-- {Octavius}":" oui
+08/13/2024 02:46:25-- {Octavius}":" benediction
+08/13/2024 02:46:25-- {Kilhiam}":" Je ne peux vous aider pour cela.
+08/13/2024 02:46:28-- {Octavius}":" adieu
+08/13/2024 02:46:28-- {Kilhiam}":" Adieu, mon ami.
+08/13/2024 02:46:34-- {Octavius}":" benediction
+08/13/2024 02:46:37-- {Octavius}":" adieu
+08/13/2024 02:46:42-- {Octavius}":" benediction
+08/13/2024 02:46:46-- {Octavius}":" benir
+08/13/2024 02:46:48-- {Octavius}":" adieu
+08/13/2024 02:48:56-- ["Vente"] "Torkaal": bonjour, j'achete fleches arcanium air, ou ehcange contre fleche arcanium non arca + or, merci
+08/13/2024 02:52:16-- {Octavius}":" apprendre
+08/13/2024 02:52:21-- {Octavius}":" adieu
+08/13/2024 02:52:59-- {Octavius}":" [ adieu ]
+08/13/2024 02:56:53-- {Tarya}":" acheter
+08/13/2024 02:57:49-- {Wellan}":" Vous avez été récompensé. Prenez cet or en gage de cet acte "héroïque".
+08/13/2024 02:57:52-- {Wellan}":" Mon "frère" habite Raven's Dust et aurait grand besoin d'une personne au courage sans égal tel que vous ! Allez le voir, il vous expliquera.
+08/13/2024 02:57:55-- {Wellan}":" Il se nomme Silvar, trouvez le, et aidez le, je vous en supplie !
+08/13/2024 02:57:56-- {Wellan}":" Au revoir, à très bientôt.
+08/13/2024 02:58:18-- {Sofian}":" Grâce à votre acte très courageux je vais très certainement pouvoir reconstruire ma maison. Je m'en vais de ce pas acheter quelques bûches au marché ! A très bientôt.
+08/13/2024 02:58:20-- {Sofian}":" A bientôt !
+08/13/2024 02:59:01-- {Octavius}":" apprendre
+08/13/2024 02:59:08-- {Octavius}":" adieu
+08/13/2024 03:03:45-- ["Main"] "Orihime Savage": Salut , quelqu'un pour un portail z2 svp ?
+08/13/2024 03:03:58-- ["Main"] "Imoën":  Oui viens nexus
+08/13/2024 08:36:09-- Your connection with the server has been lost.
