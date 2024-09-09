@@ -32,7 +32,7 @@ A windows application that monitors and automatically translates the log file fr
 ## Release Notes
 
  #### Release v2.0
- Major release, full offline translation support using optional libre translate docker image, program can auto install the image if not found and auto start it, complete refactoring of the codebase for performance, API limit feature to stay within free API tier, ability to hide non-translated text, clicking translated keywords now copies in original language, better color formatting for keywords and words of interest, fixed bugs with different date/time formats in windows, better log output, better support for resolutions and re-sizeable UI enhancements.
+ Major release, full local translation support using optional libre translate docker image, program can auto install the image if not found and auto start it, complete refactoring of the codebase for performance, API limit feature to stay within free API tier, ability to hide non-translated text, clicking translated keywords now copies in original language, better color formatting for keywords and words of interest, fixed bugs with different date/time formats in windows, better log output, better support for resolutions and re-sizeable UI enhancements.
  #### Release v1.6
  Major release, keywords are now in bold white and clickable, which allows for copy/paste into the game client. The new feature allows for quick translation and copying to the clipboard frequently used words. The new feature allows for adding chat channels to an ignore list, and saving on translation calls by toggling the ignore feature. Keywords now show in white; words of interest now show in gray. Enhanced UI experience.
  #### Release v1.5
@@ -65,13 +65,13 @@ A windows application that monitors and automatically translates the log file fr
 
  - [.NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 	
-## Optional Preparation (for using the offline translation feature)
+## Optional Preparation (for using the local translation feature)
 
 CPU Virtualization (Enabled in bios). Virtualization features for your CPU must be enabled in your computer's BIOS. This is required for Docker to work. You can find instructions on how to enable virtualization in your BIOS by searching for your computer's model and "enable virtualization". This is different depending on your CPU and motherboard.
 
  - [CPU Virtualization](https://www.google.com/search?q=enable+virtualization+on+my+cpu+and+motherboard&sca_esv=24731a508b288d28&sca_upv=1&ei=x0HbZrLfENvJwN4P0aqhyQs&ved=0ahUKEwjy3svD8a6IAxXbJNAFHVFVKLkQ4dUDCBA&uact=5&oq=enable+virtualization+on+my+cpu+and+motherboard&gs_lp=Egxnd3Mtd2l6LXNlcnAiL2VuYWJsZSB2aXJ0dWFsaXphdGlvbiBvbiBteSBjcHUgYW5kIG1vdGhlcmJvYXJkMgoQIRigARjDBBgKSKsnUMYUWJgmcAJ4AZABAJgBjAGgAb8JqgEEMC4xMLgBA8gBAPgBAZgCCKAC2AXCAgoQABiwAxjWBBhHwgIGEAAYBxgewgIIEAAYCBgNGB7CAgsQABiABBiGAxiKBcICCBAAGIAEGKIEwgIIECEYoAEYwwSYAwCIBgGQBgiSBwMyLjagB6kk&sclient=gws-wiz-serp)
 
-Docker (Latest). Docker is required for the offline translation option to work. You can download and install uusing the link below. Note this installation can take some time and may require a restart of your computer. Use default settings when installing Docker and make sure you open and run docker for windows UI before attempting offline translation. The program will automatically install the required container and language packs.
+Docker (Latest). Docker is required for the local translation option to work. You can download and install uusing the link below. Note this installation can take some time and may require a restart of your computer. Use default settings when installing Docker and make sure you open and run docker for windows UI before attempting local translation. The program will automatically install the required container and language packs.
 
  - [Docker](https://docs.docker.com/desktop/install/windows-install/)
 
@@ -83,7 +83,7 @@ In the T4C Client options, ensure that the log is activated and that all log opt
 
 #### Step 2 (Optional)
 
-Configure and enable the Translation API in Google Cloud (Save your API key for later, you will need to enter it into the program), for a detailed guide, see here: https://crmsupport.freshworks.com/support/solutions/articles/50000004404-google-translate-key this option will give you the best supported translation, the other option is to install and use libre translate which requires more setup and is not as accurate as the google translate API. To install libre translate and use the offline translation feature, follow the instructions in the "Option Preparation" section above.
+Configure and enable the Translation API in Google Cloud (Save your API key for later, you will need to enter it into the program), for a detailed guide, see here: https://crmsupport.freshworks.com/support/solutions/articles/50000004404-google-translate-key this option will give you the best supported translation, the other option is to install and use libre translate which requires more setup and is not as accurate as the google translate API. To install libre translate and use the local translation feature, follow the instructions in the "Option Preparation" section above.
 
 **NOTE:** **Google requires you to enable billing to use the API. After a free limit, which is fairly high, they charge money for using their services after. I think it is like 20$ after this for every million characters, but please read up on the google translate documentation for official information, DO NOT RELY ON ME. I’ve never actually had to pay anything, especially with this as once you enable billing you get a large free credit limit that would cover it even if you did but be careful. If you abuse this you may be charged, and I am not responsible for that if you do so you have been warned and decide if you want to do this or not. As part of using the API you will need to enable billing in the cloud console. There are alternatives, but local translation is still pretty bad compared to these cloud translation services. **
 
@@ -103,8 +103,8 @@ Select your "Translate To", language. The default is English "en"
 Select your "Translated File", this is the file that the translated logs will write to as you interact with the game client. Default is "\TranslatedLogs.txt"
 
 #### Step 8
-Enter your "Google Translate API Key" or use the Translate Offline checkbox. You should have set this up in step 2, and should be a string of characters. Please ensure it is a valid key, the API is enabled in the google console and that you have enabled billing, as the API may not work without it enabled (I have not tested this recently so it may work without). 
-Optionally, you can leave this field blank and click the "Translate Offline" checkbox to use the offline translation feature and libre translate. If you are using the offline translation feature, you will need to have Docker installed and running, and the docker image will automatically install and run. Note this may take at least 10 minutes, please be patient the program status bar will update to show when installation is complete and will start translating after that is done. This feature is not as accurate as the google translate API, but it is free and does not require an API key."
+Enter your "Google Translate API Key" or use the Translate Locally checkbox. You should have set this up in step 2, and should be a string of characters. Please ensure it is a valid key, the API is enabled in the google console and that you have enabled billing, as the API may not work without it enabled (I have not tested this recently so it may work without). 
+Optionally, you can leave this field blank and click the "Translate Locally" checkbox to use the local translation feature and libre translate. If you are using the local translation feature, you will need to have Docker installed and running, and the docker image will automatically install and run. Note this may take at least 10 minutes, please be patient the program status bar will update to show when installation is complete and will start translating after that is done. This feature is not as accurate as the google translate API, but it is free and does not require an API key."
 
 #### Step 9
 Press the "Save Settings" button, this will save your setting in the "config.json" file in your T4C_Translator directory.
@@ -126,5 +126,5 @@ The original untranslated text will show above the translated text, you can read
 
 ## Troubleshooting
 
-#### Offline Translation Error:
+#### Local Translation Error:
 If the docker container installed but still translation is not working, language packs may not have finished installation in time. Please open docker for windows and find the libre translate container, if it is still installing, wait for it to finish and try again. If it is not installing, click on the port number in the UI and see if the web version loads. If you dont see the webpage, that means language packs are still installing. Close the translator app and wait a few minutes until your able to load the libre translate web page, then try again. If it still does not work, try restarting your computer and try again. If it still does not work, please contact me on the T4C discord or GitHub.
