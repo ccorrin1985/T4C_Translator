@@ -1,5 +1,5 @@
 # T4C_Translator
-A windows application that monitors and automatically translates the T4C log file from source language to output language and allows players to communicate via translation in the app across language barriers. For example, French to English so that players who do not know French can play and interact with NPC's or Players on French servers. This program in real-time will translate all text in the log, as well as allow for manual translation that is copied to the clipboard for interacting with players in different native languages.
+A windows application that monitors and automatically translates the log file from The 4th Coming (T4C) from source language to output language and allows players to communicate via translation in the app across language barriers. For example, French to English so that players who do not know French can play and interact with NPC's or Players on French servers. This program in real-time will translate all text in the log, as well as allow for manual translation that is copied to the clipboard for interacting with players in different native languages, copy keywords, etc.
 ## Authors
 
 - [@ccorrin1985](https://www.github.com/ccorrin1985)
