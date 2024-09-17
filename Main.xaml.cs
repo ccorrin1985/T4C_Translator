@@ -1656,11 +1656,11 @@ namespace T4C_Translator
 							}
 						}
 
-						// If there are more than 4 words, first check the language of the text
+						// If there are more than 8 words, first check the language of the text
 						var words = line.OriginalText.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-						if (line.OriginalText.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Length > 4)
+						if (line.OriginalText.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Length > 8)
 						{
-							var firstWords = string.Join(" ", words.Take(5));
+							var firstWords = string.Join(" ", words.Take(8));
 							TranslatedLine checklanguage = await TranslateText(firstWords, SelectedOutputLanguage, SelectedSourceLanguage, true);
 							if (checklanguage is null || checklanguage.TranslatedText == string.Empty)
 							{
