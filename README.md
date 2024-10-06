@@ -91,7 +91,7 @@ Configure and enable the Translation API in Google Cloud (Save your API key for 
 Launch T4C_Translator.exe
 
 #### Step 4
-Select your "Source Folder". This is the location of your T4C Logs. The default directory will be "C:\Users\yourusername\AppData\Local\Dialsoft\Logs"
+Select your "T4C Log Folder". This is the location of your T4C Logs. The default directory will be "C:\Users\yourusername\AppData\Local\Dialsoft\Logs", next select your "Translated File", this is the folder location (not file) where the program will write the translated logs. The default directory will be "D:\T4C_Translator\TranslatedLogs.txt" but you need to select your own folder (recommend the translation program folder itself), the translated log file will be created automatically in this folder, just give the program a folder location to write it to.
 
 #### Step 5
 Select your "Translate From", language. The default is French "fr"
