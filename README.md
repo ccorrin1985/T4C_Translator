@@ -79,7 +79,7 @@ Docker (Latest). Docker is required for the local translation option to work. Yo
 
 #### Step 1
 
-Open up T4C. Press Ctrl+I and go to the options tab. Check all log options to on, including NPC interaction and that the main log option is enabled. This is a critical step to the entire program working. If you do not enable these options, the program will not be able to read the log file and translate it. Once you have enabled these options, close the game client and proceed to the next step.
+Open up T4C. Press Ctrl+I and go to the options tab. Check all log options to on, including NPC interaction and make sure that the main log option is enabled. This is a critical step to the entire program working. If you do not enable these options, the program will not be able to read the log file and translate it. Once you have enabled these options, close the game client and proceed to the next step.
 
 #### Step 2 (Optional)
 
